@@ -1,0 +1,2278 @@
+title (
+Sins of Hyrule Bestiary
+)
+head (
+# Sins of Hyrule Bestiary ((Sins of Hyrule Bestiary))
+-
+)
+pagenumbers
+
+This is a companion bestiary to the *Bestiary of Hyrule* with creatures specific to the Sins of Hyrule setting based on the Hyrule Conquest mod for 0ad.  Much of the lore for these creatures will be specific to that setting rather than the general Zelda setting, though you may use some of these creatures for a generic Zelda setting to add more diversity.
+
+### Differently Leveled Creatures
+If you want to use a creature found in this bestiary, but of a different level, you can use the **Building Creatures** rules, found starting on page 56 in the *Gamemastery Guide* to adjust the statistics to match the new level.
+
+### Triforce Alignment
+All creatures in this document will have a Triforce alignment.  See the *Sins of Hyrule Setting* document for more details on this variant alignment.
+
+### Aligned Damage
+You may see some damage types listed as Radiant or Malice damage.  These are more generic renamed versions of Good and Evil damage (pre-Remaster).  Post-Remaster, these damage types will become Spirit damage with the Radiant or Malice traits instead of Holy or Unholy.
+
+Both Radiant and Malice damage can harm creatures of any alignment, though Malice damage may deal extra damage to those not of Anti-Triforce alignment and Radiant damage may deal extra damage to those of Anti-Triforce alignment.
+
+|
+
+note (
+# Key Terms.
+You'll see the following key terms and traits throughout this document.
+    **Druthulidi** Druthulidi are the demons of the Dark Realm and are usually attached as a trait alongside Aberration or Fiend.  Almost all Druthulidi are weak to Radiant damage.
+    **Malice:** The malice trait is usually associated with the Anti-Triforce alignment trait and almost always derived from the powers of the Dark Realm.  It is the antithesis of the force of Creation, known as Radiance, that stems from the Triforce.  Malice is generated from the darkest depths of one's heart.  The use of items or spells with the Malice trait risk tainting the heart, driving the user into darkness.
+    **Radiance:** The radiance trait is associated with the light of the Triforce and the Golden Goddesses.  It is the antithesis of the Dark Realm's malice, being the energy of Creation itself.  A creature of the Dark Realm that uses an item or spell with the radiance trait risks burning itself out of existence entirely.
+    **Vulnerability:** The vulnerability trait is used to indicate a specific vulnerability of a creature that may be triggered by targeting a specific location on the creature or by using a specific item or weapon.
+)
+=
+# Darknut Legion ((+Darknut Legion))
+The Darknuts (the Gerudo word for Cliff Lords) are a canine race that originated from the mountain ranges west and south of the Gerudo desert. They are an ancient people, predated only by races of legend such as the Oocca and Fairies. In the past, their civilisation almost fell apart through civil warfare, and conflicts with border races such as the Gerudo and Moblins nearly resulted in the extinction of their race. Facing the end of their people, the warring leaders decided to put aside their differences and declared that from there on out every single Darknut would be trained to be a disciplined and unstoppable warrior at adolescence. After devising a rigorous code from which to follow, the Darknut Legion and its infamous armored warriors were born.
+
+From an early age, Darknuts are trained to wield the best armour, the biggest swords, and maintain the highest order of discipline to preserve their creed. Darknut philosophy places focus on the individual: if one soldier cannot master himself, then it is impossible for him to function in a group. For this reason, Darknuts often prefer to fight alone in engagements, leaving their comrades to their own devices when fighting against groups. When assembled into an army, the Darknuts are without a doubt the single most powerful force to walk Hyrule.
+
+This has come at a price, however, as the Darknut Legion places focus on the sword. Their faction has no archers at all, and little cavalry. That, combined with their slow speed, makes them hard to master despite their obvious prowess in a hand-to-hand fight. Regardless, a wall of Darknuts shrugging off hundreds of arrows as they slowly advance is bound to put doubt into most armies that they face.
+
+note(
+**Errata** All Darknuts in the Sins of Hyrule setting know the Darknut language and are LN.
+)
+
+### Darknut Legion Statblocks
+* Alros
+* Darknut (*Bestiary of Hyrule*)
+* Darknut Legatus (*Bestiary of Hyrule*)
+* Doomknocker
+* Dux
+* Fokka Hypaspist
+* Gymnitai
+* Immortal
+* Jermafenser
+* Onan
+* Peltast
+* Rebonack
+* Yaraxonal
+* Zalunbar
+
+=
+## Doomknocker ((++Doomknocker))
+Doomknockers are large and powerful Darknut warriors, with many years of experience to their name. Wielding a giant mace and durable shield, Doomknockers would slowly and relentlessly march at their targets, shrugging off arrow fire without missing a beat. When in a melee they could pulverize and pummel just about any foe, even those with durable armor.
+
+/
+right(
+![Doomknocker](https://i.imgur.com/fKGypWE.png)
+)
+
+item(
+# Doomknocker
+## Creature 9
+-
+;LN,Medium,Darknut,Humanoid,Power
+**Perception** +18
+
+**Languages** Darknut, Hylian
+
+**Skills** Athletics +21, Intimidation +18, Warfare Lore +20
+
+**Str** +6, **Dex** +2, **Con** +4, **Int** +2, **Wis** +3, **Cha** +4
+
+**Items** *+1* full plate, *+1 striking* mace, *minor sturdy shield* (Hardness 8, HP 64, BT 32)
+-
+**AC** 28 (30 with shield raised); **Fort** +21, **Ref** +15, **Will** +16
+
+**HP** 185; **Resistances** ranged physical 10
+
+**Reactive Strike** :r:
+
+**Shield Block** :r:
+-
+**Speed** 20 feet
+
+**Melee** :a: mace +21 (magical, shove), **Damage** 3d6+13 bludgeoning
+
+**Armor Smash** :aa: The doomknocker smashes their mace against a creature wearing heavy armor with extra force.  The doomknocker makes a mace Strike, which deals 10 additional damage to that creature's armor.  If a creature uses the Shield Block reaction with a shield against a doomknocker's Armor Smash, the shield is automatically broken, but no other item takes damage from that attack.
+)
+=
+## Fokka Hypaspist ((++Fokka Hypaspist))
+Flightless rito go by many names, but in their native tongue the term "fokka" is most often used. Although they lack flight, fokka have lightweight bodies built for swift movement and wield abnormal strength. Fokka are treated as outcasts, mutants, and foul creatures by most rito capable of flight. Whether it's their natural tendency or the result of this mistreatment, most fokka have a cruel and isolating disposition.  Many fokka joined the Darknut Legion to serve as light infantry in a legion where most soldiers are heavy infantry as a way to feel like they belong to some society after being outcast from traditional rito society.  Because they are outsiders, fokka are one the very few units of the Legion allowed to use ranged magical attacks in the form of beams of force, but fokka are rarely accepted as anything other than foreigners in the Legion because of this.
+/
+right(
+![Fokka Hypaspist](https://i.imgur.com/WGn1XJB.png)
+)
+
+item(
+# Fokka Hypaspist
+## Creature 6
+-
+;LN,Medium,Courage,Humanoid,Rito
+**Perception** +17
+
+**Languages** Darknut, Rito
+
+**Skills** Acrobatics +15, Intimidation +13, Warfare Lore +13
+
+**Str** +5, **Dex** +4, **Con** +4, **Int** +1, **Wis** +2, **Cha** +2
+
+**Items** *+1* longsword, *lesser sturdy shield* (Hardness 10, HP 80, BT 40)
+-
+**AC** 24 (26 with shield raised); **Fort** +14, **Ref** +17, **Will** +14; +2 status to saves vs. Frightened
+
+**HP** 65
+
+**Reactive Strike** :r:
+
+**Shield Block** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: longsword +17 (magical, versatile P), **Damage** 2d8+9 slashing
+
+**Ranged** :a: power beam +15 (arcane, range 60 feet), **Damage** 2d8 force
+
+**Standing Jump** A fokka hypaspist can attempt a Long Jump without Striding.
+)
+=
+## Gymnitai ((++Gymnitai))
+The unarmored light infantry of the Darknut legion.  These young and eager warriors had yet to become trained by the Legion, and therefore attempted to prove themselves as volunteer soldiers.  Those that survived combat or showed exceptional skill would be adopted into the Legion without question.
+
+right(
+![Darknut Gymnitai](https://i.imgur.com/uV3dzTF.png)
+)
+
+item(
+# Gymnitai
+## Creature 3
+-
+;LN,Medium,Darknut,Humanoid,Power
+**Perception** +9
+
+**Languages** Darknut, Hylian
+
+**Skills** Acrobatics +10, Athletics +9, Intimidation +9
+
+**Str** +3, **Dex** +4, **Con** +3, **Int** +1, **Wis** +1, **Cha** +0
+
+**Items** khopesh
+-
+**AC** 17; **Fort** +6, **Ref** +12, **Will** +9
+
+**HP** 42
+
+**Bravery** When the gymnitai rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the frightened condition, reduce its value by 1.
+
+**Reactive Strike** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: khopesh +10 (trip), **Damage** 1d8+6 slashing
+
+**Sudden Charge** :aa: The gymnitai Strides twice. If it ends its movement within melee reach of one creature, it can make a melee Strike against that creature
+)
+=
+## Jermafenser ((++Jermafenser))
+Jermafensers are some of the tallest and largest Darknuts in service of the Legion. Standing at nearly ten feet tall, these hulking behemoths slowly mustered their way into combat, effortlessly slicing apart anything smaller than themselves.  They also serve as commanders in the Darknut Legion, commanding other Darknuts in the heat of battle when the Legion has to fight as an army and not one versus one.
+/
+
+right(
+![Jermafenser](https://i.imgur.com/sOtZev1.png)
+)
+
+item(
+# Jermafenser
+## Creature 11
+-
+;Uncommon,LN,Large,Darknut,Humanoid,Power
+**Perception** +21
+
+**Languages** Darknut, Hylian
+
+**Skills** Athletics +21, Diplomacy +21, Intimidation +23, Warfare Lore +23
+
+**Str** +7, **Dex** +3, **Con** +5, **Int** +4, **Wis** +3, **Cha** +6
+
+**Items** *+1 striking* longsword, *+1 resilient* full plate, *moderate sturdy shield* (Hardness 13, HP 104, BT 52)
+-
+**AC** 31 (33 with shield raised); **Fort** +24, **Ref** +18, **Will** +20
+
+**HP** 195; **Resistances** physical 10 (except magical)
+
+**Bravery** When the jermafenser rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the frightened condition, reduce its value by 1.
+
+**Reactive Strike** :r:
+
+**Shield Block** :r:
+-
+**Speed** 20 feet
+
+**Melee** :a: longsword +24 (magical, versatile P), **Damage** 2d8+15 slashing
+
+**Melee** :a: shield bash +24, **Damage** 2d10+12 bludgeoning
+
+**Shield Push** :aa: The jermafenser Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet.
+
+**Press On!** :a: (auditory, concentrate, emotion, linguistic, mental) The jermafenser orders its allies to fight without mercy. All allied creatures of equal or lower level within 20 feet of the jermafenser gain a +1 status bonus to attack rolls and damage rolls until the end of the jermafenser's next turn.
+)
+=
+# Druthulidi ((+Druthulidi))
+Druthulidi, sometimes collectively called Demons are primordial manifestations of sin and destructive chaos that arose on the world of Hyrule, Realm of Twilight, and many more.
+
+The Drutuhlidi, unlike most mortal beings, emerged naturally as manifestations of sin and subsequent destructive chaos, spreading across cosmos at rapid pace and drowning many worlds in their own vice. Their role in the world could be compared to an ideological virus, infecting the minds of their victims with destructive urges and feeding on suffering, decay and destruction that results from the actions of the sinful. Each Druthulidi embodied a different vice, such as malice, fear, gluttony, wrath, desire for control, and ego.
+
+The abilities of Druthulidi vary between individuals. Common powers that are shared amongst them are the ability to change size and form, as well as possessing other people through infection, physical force, or remotely through overpowering will. All Druthulidi are capable of breaking themselves down into smaller organisms and entities. Some Druthulidi like Majora are able to create entire armies via this method, while others like Vaati prefer to exist almost entirely in a disconnected state. The Druthulidi Iemanis created the entire race of Gohma by giving the entities he made some level of autonomy, allowing them to continue after he was destroyed. Druthulidi also have the ability to travel between worlds and planets, with certain beings like Demise being able to transport others alongside himself. 
+
+### The Druthulidi
+* Bellum
+* Demise
+* DethI
+* Iemanis
+* Majora
+* Malice
+* Vaati
+=
+# Bellum ((++Bellum))
+Bellum usually appears as a mass of black tentacles that shroud its larger form. Much like other Druthulidi, these tentacles crown a single enormous yellow eye, and each tentacle additionally bears a single eye on its tip as well. Bellum often appears quite massive and is considered the largest Druthulidi on record next to Majora. Bellum is the only Druthulidi that has never been assigned a gender or adopted one itself, even by its own followers. 
+
+Bellum's behavior is more animalistic compared to other notable Druthulidi, traveling from world to world and consuming whatever it desires. It often accomplishes its tasks in very crude and unrefined manners, preferring the most direct and brutal method possible. Bellum likely came to Hyrule to consume its biosphere and due to the majority of its surface being covered in water. It is barely even aware of its worshipers and the empire that follows it around. From Bellum's point of view, the Parella and River Zora are little more than a means of pest control.
+
+note(
+**Errata** All creatures from the Pathfinder Bestiary or Adventure Paths listed here gain the Anti-Triforce and Druthulidi traits and, if its Intelligence is -3 or greater, know the Demonic language.
+)
+
+### Bellum Spawn Statblocks
+* Alghollthu Master (*Pathfinder Bestiary*)
+* Bellumite
+* Deepwater Dhuthorex (*Abomination Vaults: Eyes of Empty Death*)
+* Dread Dhuthorex (*Abomination Vaults: Eyes of Empty Death*)
+* Faceless Stalker (*Pathfinder Bestiary*)
+* Skum (*Pathfinder Bestiary*)
+* Veiled Master (*Pathfinder Bestiary*)
+=
+## Bellumite ((+++Bellumite))
+Massive squid-like beings birthed from Bellum itself, Bellumites witness and command for the entirety of all sea operations while the dark god slumbers beneath the ocean.  The are able to unleash powerful waves from a distance, capsizing ships and breaking through their hulls.
+/
+right(
+![Bellumite](https://i.imgur.com/oyzxlpL.png)
+)
+
+item(
+# Bellumite
+## Creature 9
+-
+;Uncommon,NE,Huge,Aberration,Amphibious,Anti-Triforce,Druthulidi
+**Perception** +21
+
+**Languages** Demonic
+
+**Skills** Athletics +20, Intimidation +20, Stealth +18
+
+**Str** +7, **Dex** +2, **Con** +4, **Int** +1, **Wis** +6, **Cha** +2
+-
+**AC** 28; **Fort** +15, **Ref** +18, **Will** +21
+
+**HP** 155; **Immunities** cold **Resistances** physical 10 (except adamantine); **Weaknesses** radiant 10
+-
+**Speed** 15 feet, swim 40 feet, fly 25 feet
+
+**Melee** :a: barbed tentacle +21 (reach 30 feet), **Damage** 2d10+11 slashing
+
+**Melee** :a: arm +21 (agile, reach 15 feet), **Damage** 2d8+11 bludgeoning plus Grab
+
+**Constrict** :a: 1d10+10 bludgeoning, DC 25
+
+**Ink Cloud** :a: The bellumite emits a cloud of black ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are undetected and can’t use their sense of smell. The cloud dissipates after 1 minute. The bellumite can’t use Ink Cloud again for 2d6 rounds.
+
+**Jet** :aa: (move) The bellumite moves up to 200 feet in a straight line through the air or water without triggering any reactions.
+
+**Unleash Tidal Wave** :aaa: (malice, occult) The bellumite unleashes a surge of malice-infused water that deals 5d6 bludgeoning damage and 5d6 malice damage in a 60-foot cone (DC 28 basic Fortitude save).  Creatures that fail the save are Pushed up to 20 feet and slowed 2 for 1 round (2 rounds on a critical failure).  It can't use Unleash Tidal Wave again for 1d4 rounds.
+
+**Writhing Arms** :aa: The bellumite makes up to four Strikes with its arms, each against a different target. Each attack counts separately for the bellumite's multiple attack penalty, but the penalty doesn't increase the penalty until the bellumite has made all the attacks. If the bellumite subsequently uses the Grab action, it can Grab any number of creatures it hit with Writhing Arms.
+)
+=
+# Demise ((++Demise))
+Demise usually appears as a large eyeless mouth-like creature, covered in metallic black scales with glowing red veins. In this form he has no legs and moves with countless setae under the lower half of his body. Demise has also appeared in a much more humanoid form that sports the same black and red coloration.
+
+Demise has been noted for having a very straightforward and obvious personality. He tends to be direct and maintains an aura of control over himself. Even when angered he tends to remain collected. Demise also seems to have a sense of honor; a trait not found in any other known Druthulidi. He prefers fair fights and would rather surrender when outmatched rather than resort to underhanded tactics to gain an advantage, as was demonstrated when he surrendered to Hylia. He also shuns the use of possession, preferring to win the allegiance of servants through fear or respect. Though Demise is physically genderless, it tends to prefer being referred to as male. Demise also has a passion for violence, simply travelling across the cosmos to fight and achieve dominance, it is this trait that leads to his quest for the Triforce, as a means to best Hylia.
+
+### Demise Spawn Statblocks
+* Calamitous Rage
+=
+# DethI ((++DethI))
+Dethl is among the older of its kind, the Druthulidi, and like its kin, is a fundamental element of reality, the physical embodiment of the concept of fear. By mortal standards Dethl is utterly insane, its motivations chaotic and undefinable even to itself. It is defined by its insatiable fear of definition and existence, to the point if able to it would erase itself from existence. It is, by nature, utterly cowardly, fleeing into the shadows the moment its mad plots unravel.
+
+Dethl's presence distorts the confines of reality, causing madness, decay, and death. The most hideous manifestation of this are the undead, beings twisted into existence by the laws of life and death being warped. Wherever shadows conceal horrors and secrets, the whispers of Dethl creep into the dreaming minds of those consumed by fear and insanity, eating away their minds. Eventually these poor souls are compelled to cut off their own heads, only for a horror birthed of their own nightmares to blossom from the stump like a flower and mutate the corpse as its new body. These are the Devoured, Dethl's spawn.
+
+Dethl's physical form is nebulous and shadowy, screaming at the mere limitations of being physically defined. Constantly wreathed in shadow and void, it manifests as a trunk-like body with a single yellow glowing eye, with two appendages ending in flowerlike red eyes emerging like arms. It continuously screams at the horror of existence, and is surrounded by an stench that disturbs even other Druthulidi.
+
+Like other Druthulidi, Dethl cannot be destroyed, as it is a fundamental element of reality. While its physical form can be overcome by powerful forces, it can only be defeated by mortal beings overcoming their primal fears, and will reemerge on another world, wearing a different name so long as fear is known somewhere. 
+
+### DethI Spawn Statblocks
+* Dead Hand (*Bestiary of Hyrule*)
+* Devoured
+* Ghoul Rat
+
+=
+## Devoured ((+++Devoured))
+A horrific monster said to be a Sheikah Monk overtaken by dark magics born of the Druthulidi DethI. Devoured appear to be little more than rabid monsters, but some amongst the Cadre suspect that some evil intellect guides them unseen.
+
+right(
+![Devoured](https://i.imgur.com/Ht6F0bg.png)
+)
+
+item(
+# Devoured
+## Creature 12
+-
+;CE,Medium,Aberration,Anti-Triforce,Druthulidi,Undead
+**Perception** +23; darkvision
+
+**Languages** Demonic, Hylian, Sheikah; (can't speak any language)
+
+**Skills** Acrobatics +23, Athletics +21, Intimidation +25
+
+**Str** +5, **Dex** +7, **Con** +4, **Int** -2, **Wis** +4, **Cha** +5
+
+**Aspect of Fear** As an aspect of the Druthulidi associated with fear, the devoured ignores the usual circumstance penalty to the Intimidation check for not speaking the same language as the target.
+-
+**AC** 32; **Fort** +19, **Ref** +25, **Will** +23
+
+**HP** 210 (negative healing); **Immunities** death effects, disease, frightened, paralyze, poison, unconscious; **Resistances** mental 10; **Weaknesses** radiant 10
+-
+**Speed** 35 feet
+
+**Melee** :a: fist +24 (agile), **Damage** 3d4+11 bludgeoning
+
+**Flurry of Blows** :a: (flourish); **Frequency** once per turn **Effect** The devoured makes two unarmed Strikes. If both hit the same creature, combine their damages for the purposes of resistances and weaknesses. The devoured's multiple attack penalty applies normally to these Strikes.
+
+**Spiral of Despair** :f: **Trigger** A creature becomes Frightened by a Demoralize check by the devoured. **Effect** As the devoured invades the triggering creature’s mind and plants the seeds of negative emotions, it also strips away the target’s feelings of hope or positivity. The devoured can immediately end a single emotion effect from which the triggering creature is benefiting.
+)
+=
+# Iemanis ((++Iemanis))
+Iemanis was a massive Druthulidi with arthropod characteristics. Its actual appearance is relatively unknown as there are few records of its existence. The Huskus describe Iemanis as 'a single eye, with countless claws, legs, and tentacles'.
+
+Iemanis was more concerned with order and the pursuit of knowledge and survival rather than war and conquest. It wished to conquer Hyrule and absorb it into collective hierarchy where every individual would work together free of conflict for higher pursuits. As such, Iemanis had little value for individuality or luxury pursuits and often stripped its followers of free will. It was almost entirely concerned with survival and finding new ways to coexist or dominate over nature. 
+
+Iemanis has a particularly strong will and was able to impose it on less intelligent creatures such as arthropods with ease. With enough time, Iemanis could remotely possess victims with its thoughts rather than the direct possession employed by its kin. This possession was so powerful that its victims would often be completely stripped of their personality and free will, becoming mindless creatures if Iemanis reliquished control over them. Iemanis was supposedly massive in size and could crush an entire army as well, rivaling both Majora and Bellum. Iemanis was also able to create entities of itself like other Druthulidi, though he imposed on them characteristics of other creatures depending on the task he needed them for. This eventually lead to the creation of the Gohma. 
+
+### Iemanis Spawn Statblocks
+* all Gohma
+* Mothula (*Bestiary of Hyrule*)
+=
+# Gohma ((+++Gohma))
+The Gohma are a very ancient race that once dominated a majority of Hyrule, having existed long before the Hylians and even the ancient Darknuts. As such, they are found as antagonists in the historical and religious texts of many races, usually associated with the Druthulidi **Iemanis**. The Gohma themselves are an arachnid species that thrives in swamps and otherwise dark and damp places. They feast on all manner of both living and dead things and are known for hunting down unaware people in the night.
+
+It is commonly believed that all Gohma are mentally linked to each other, and that calling any lone Gohma an individual would be inaccurate. Each Gohma operates more like a disembodied hand or appendage to a greater mind that controls their race.
+
+Whatever the case may be, their objective is very clear: expand and consume. Their desire of manifest destiny reflects in the armies; overwhelming numbers are the preferred tactic of their kind. Alone a single Gohma is weak, frail, and insignificant.  In large swarms they are a terrible force that can bring down the largest of foes when working in unison.
+
+As such a Gohma army must be more concerned with surrounding and outmaneuvering an enemy army rather then facing them head on. The Gohma are masters at getting the upper hand in positioning, and when they surround a foe it's very easy for the enemy to want to make a run for it rather then stand and fight against an endless tide of spiders. A properly managed Gohma swarm is one of the most powerful combatants that an unfortunate army may face. 
+
+note(
+**Errata** All Gohma in the Sins of Hyrule setting have the Beast and Druthulidi traits instead of the Animal trait, with an Int score of -3 or higher.
+)
+
+### Gohma Statblocks
+* Armogohma (*Bestiary of Hyrule*)
+* Fire Gohma (*Bestiary of Hyrule*)
+* Gohma (*Bestiary of Hyrule*)
+* Gohma Larva (*Bestiary of Hyrule*)
+* Gohma Long Legs
+* Gohma Shrouder
+* Gohma Webweaver
+* Pincer Gohma
+* Spine Gohma
+* Stinger Gohma
+* Trapdoor Gohma
+=
+## Gohma Long Legs ((++++Gohma Long Legs))
+A large and threatening Gohma form with very long legs. These units are very fast for their size, and function as cavalry for the Gohma. They can keep pace with horses and other mounted units deployed by their enemies. 
+/
+right(
+![Gohma Long Legs](https://i.imgur.com/De7KZ4K.png)
+)
+
+item(
+# Gohma Long Legs
+## Creature 12
+-
+;CE,Large,Beast,Druthulidi,Gohma,Power
+**Perception** +21; darkvision
+
+**Languages** Demonic, Gohma; (can't speak)
+
+**Skills** Acrobatics +19, Athletics +24, Stealth +21, Survival +17 (+24 to Track)
+
+**Str** +6, **Dex** +3, **Con** +4, **Int** -2, **Wis** +1, **Cha** +0
+-
+**AC** 31; **Fort** +25, **Ref** +22, **Will** +20
+
+**HP** 205; **Immunities** physical (except magical or adamantine); **Resistances** magical physical 10; **Weaknesses** vulnerable eye
+
+**Vulnerable Eye** (vulnerability) After identifying the gohma's eye as a weak point, an attacker can take a -2 circumstance penalty to its attack roll to target the eye.  If the Strike hits, the attack bypasses the gohma's resistances and immunities.  The gohma has weakness 10 to piercing damage that targets the eye.
+-
+**Speed** 40 feet, climb 30 feet
+
+**Melee** :a: fangs +26, **Damage** 3d10+12 piercing plus Improved Grab
+
+**Melee** :a: leg +26 (agile, reach 10 feet), **Damage** 3d6+12 piercing
+
+**Carry Off Prey** The gohma can move at its full Speed while it has a creature grabbed in its fangs, bringing the grabbed creature along.
+
+**Constrict** :a: 3d6+12 bludgeoning, DC 32
+
+**Skittering Assault** :aa: The gohma Strides three times.  Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its Strikes.  If any of the Strikes result in a critical failure, Skittering Assault ends.
+)
+=
+## Spine Gohma ((++++Spine Gohma))
+A small, hairy larva. They lob small orange spines at their targets and deal pierce damage instead of acid damage, so they are functionally a small and fast moving archer.
+/
+right(
+![Spine Gohma](https://i.imgur.com/vozwO1K.png)
+)
+
+item(
+# Spine Gohma
+## Creature 3
+-
+;CE,Small,Beast,Druthulidi,Gohma,Power
+**Perception** +9; darkvision
+
+**Languages** Demonic, Gohma; (can't speak)
+
+**Skills** Acrobatics +10, Athletics +6
+
+**Str** +1, **Dex** +4, **Con** +2, **Int** -2, **Wis** +3, **Cha** +0
+-
+**AC** 18; **Fort** +6, **Ref** +12, **Will** +7
+
+**HP** 45
+-
+**Speed** 35 feet, climb 35 feet
+
+**Melee** :a: fangs +12 (agile, finesse), **Damage** 1d6+5 piercing
+
+**Ranged** :a: spine +12 (range increment 30 feet), **Damage** 1d8+6 piercing
+
+**Spine Barrage** :aa: The spine gohma makes three Strikes with its spines, each at a -2 penalty and targeting a different creature. These Strikes count as only 1 attack for the spine gohma, and the penalty doesn't increase until after it has made all 3 attacks.
+)
+=
+# Majora ((++Majora))
+While relatively absent in the land of Hyrule, the ever looming threat of Majora Worship spreading often keeps the zealous on their guard. When followers of Majora recognize that they are large in numbers they will usually establish the Church of Majora where they begin to train their armies and promise more people a place of power should they convert to the material deity. Armies assembled by the Church of Majora generally are composed of the same soldiers trained by every other race in Hyrule, though horrific spawn of Majora itself may disgrace the battlefield with their demonic and twisted presence.
+
+The Church of Majora often sports both mask and moon imagery, worshipping both aspects of the dark god.  Some fell beasts associated with the moon may swear an allegiance to Majora, including various werecreatures and lunar devils.
+/
+### Majora Spawn Statblocks
+* Avatar of Majora
+* Eye of Majora
+* Mask Entity
+* Seeker Entity
+* Wrath Entity
+* Vendetta Entity
+|
+### Allies of Majora Statblocks
+* Selenian (Lunar Devil)
+/
+=
+## Mask Entity ((+++Mask Entity))
+If Majora manages to bridge the gap into Hyrule, thousands of mask entities are bound to storm out of his portals to secure and terrorize the surrounding areas. Essentially serving as primary soldiers, mask entities are versatile for almost any infantry role.
+
+right(
+![Mask Entity](https://i.imgur.com/Ec8juw6.png)
+)
+
+item(
+# Mask Entity
+## Creature 7
+-
+;Uncommon,NE,Small,Aberration,Anti-Triforce,Druthulidi,Majora
+**Perception** +15; darkvision
+
+**Languages** Ancient, Demonic; (can't speak any language)
+
+**Skills** Acrobatics +17, Athletics +15, Intimidation +15, Stealth +17
+
+**Str** +3, **Dex** +6, **Con** +4, **Int** -2, **Wis** +2, **Cha** +1
+-
+**AC** 24; **Fort** +12, **Ref** +18, **Will** +15
+
+**HP** 100; **Immunities** mental, poison; **Resistances** cold 5, fire 5, electricity 5; **Weaknesses** radiant 5
+
+**Evasion** When the mask entity rolls a success on a Reflex save, it gets a critical success instead.
+
+**Reactive Strike** :r:
+-
+**Speed** 35 feet
+
+**Melee** :a: tentacle +16 (agile), **Damage** 2d8+4 bludgeoning plus Knockdown
+
+**Leaping Charge** :a: The mask entity Strides up to 10 feet, ignoring difficult terrain as it leaps over obstacles. It then makes a Strike with its tentacles, gaining a +1 circumstance bonus to its attack roll. 
+
+**Pack Attacks** Mask entities swarm in packs.  A mask entity deals 1d8 extra damage to any creature that's within reach of at least two of the mask entity's allies.
+)
+
+=
+## Eye of Majora ((+++Eye of Majora))
+When an enemy fortification holds strong against the tide of Majora's spawn, his all-seeing eyes disgrace the battlefield with their horrifying presence.  The eyes of Majora are able to unleash unholy streams of fire that can tear down any wall or barrier stopping his armies from drowning Hyrule in chaos.
+
+right(
+![Eye of Majora](https://i.imgur.com/702WvUN.png)
+)
+
+item(
+# Eye of Majora
+## Creature 10
+-
+;Uncommon,NE,Huge,Aberration,Anti-Triforce,Druthulidi,Majora
+**Perception** +22; darkvision
+
+**Languages** Ancient, Demonic; (can't speak any language)
+
+**Skills** Acrobatics +22, Athletics +20, Intimidation +19
+
+**Str** +3, **Dex** +5, **Con** +5, **Int** -1, **Wis** +7, **Cha** +3
+-
+**AC** 29; **Fort** +16, **Ref** +19, **Will** +22
+
+**HP** 175; **Immunities** mental, poison; **Resistances** cold 10, electricity 10, fire 10; **Weaknesses** radiant 10
+-
+**Speed** 5 feet, fly 40 feet (hover)
+
+**Melee** :a: claw +21 (agile, magical, reach 10 feet), **Damage** 2d10+11 slashing plus Grab
+
+**Ranged** :a: unholy blazing bolt +23 (arcane, fire, malice, range 60 feet), **Damage** 3d6 fire damage plus 3d6 spirit damage
+
+**Breaker of Walls** The eye of Majora's unholy blazing bolt and unholy blazing ray deals double damage to structures.
+
+**Toss** :a: **Requirement** The eye of Majora has Grabbed a creature. **Effect** The eye of Majora hurls the grabbed creature at another creature within 30 feet. This ranged Strike has a +23 attack modifier and deals 2d10+11 bludgeoning damage. The creature that was grabbed takes half the damage dealt to the target and lands prone.
+
+**Unholy Blazing Ray** :aa: (arcane, fire, malice) The eye of Majora shoots a ray of unholy fire in a 60-foot line that deals 4d10 fire damage plus 4d10 spirit damage (DC 29 basic Reflex save).  It can't use Unholy Blazing Ray again for 1d4 rounds.
+)
+=
+## Selenian (Lunar Devil) ((+++Selenian (Lunar Devil) ))
+right(
+![Lunar Devil](https://i.imgur.com/5kf6olS.png)
+)
+Powerful fiends of the Dark Realm that have sworn themselves to Majora due to the god's association with the moon, selenians (or lunar devils as they are more colloquially known) can be found subverting druidical orders or leading packs of werecreatures. They are a lazy breed of fiend, and prefer lounging in the light of the moon over any more vigorous activity. The only exception is an opportunity to corrupt druids and moon-worshippers that do not worship Majora, pitting them against followers of gods associated with the sun or the Golden Goddesses and turning them to Majora worship.
+/
+item(
+# Selenian (Lunar Devil)
+## Creature 8
+-
+;LE,Large,Anti-Triforce,Druthulidi,Fiend
+**Perception** +16; greater darkvision, *see invisibility*
+
+**Languages** Ancient, Demonic, Hylian; telepathy 100 feet
+
+**Skills** Acrobatics +16, Arcana +18, Athletics +18, Deception +16, Intimidation +16, Religion +14, Stealth +17
+
+**Str** +5, **Dex** +4, **Con** +3, **Int** +3, **Wis** +2, **Cha** +3
+-
+**AC** 26; **Fort** +13, **Ref** +17, **Will** +19
+
+**HP** 135; **Immunities** fire, light incorporeality (see below), poison; **Resistances** cold 8, physical 8 (except silver); **Weaknesses** radiant 8
+
+**Light Incorporeality** The selenian is semi-incorporeal when standing in moonlight and is immune to all nonmagical attacks while in such conditions.  It has resistance 8 to all magical attacks except force, *ghost touch*, and radiant, though holy water still affects the selenian as normal when in this state.
+-
+**Speed** 30 feet, fly 60 feet
+
+**Melee** :a: jaws +20 (malice), **Damage** 2d10+11 piercing plus 1d6 spirit
+
+**Melee** :a: claw +20 (agile, malice, reach 10 feet), **Damage** 2d6+11 slashing plus 1d6 spirit
+
+**Melee** :a: tail +20 (malice, reach 10 feet), **Damage** 2d8+9 bludgeoning plus 1d6 spirit
+
+**Ranged** :a: moonlight +19 (cold, range 120 feet), **Damage** 2d12+11 cold plus Moonlit
+
+**Arcane Innate Spells** DC 23; **4th** *invisibility* (x2), **2nd** *mirror image* (x2); **Constant (2nd)** *see invisibliity*
+
+**Primal Innate Spells** DC 23; **5th** *moon frenzy*, *wall of ice*
+
+**Cleric Focus Spells** DC 23 , 1 Focus Point **4th** *touch of the moon*
+
+**Ritual Spells** DC 23; **1st** *infernal pact*
+
+**Bestow Gift of the Moon** :aa: (curse, primal) The selenian curses a humanoid creature within 30 feet with a werecreature curse (such as werewolf or werebear) of the selenian's choosing.  The creature must make a DC 23 Fortitude save.
+**Critical Success** The creature is unaffected and is immune to the curse for 24 hours.
+**Success** The creature is unaffected.
+**Failure** The creature becomes cursed with the chosen werecreature curse.
+**Critical Failure** As failure, but the creature also transforms into their beast form immediately.
+
+**Lightwalking** :a: (arcane, teleportation)  **Requirement** The selenian is standing in a beam of moonlight; **Frequency** once per round; **Effect** The selenian teleports from one beam of moonlight to another within 80 feet.
+)
+=
+item(
+**Moonlit** (light, visual) A creature struck by moonlight thrown by a selenian must make a DC 23 Fortitude save.  A creature with a curse from a werecreature (such as a werewolf or werebear) also must immediately make a save against its curse, transforming and becoming subject to its Moon Frenzy on a failure.
+**Critical Success** The creature is unaffected.
+**Success** The creature is dazzled for 1 round.
+**Failure** The creature is blinded for 1 round.
+**Critical Failure** The creature is blinded for 4 rounds.
+)
+=
+## Wrath Entity ((+++Wrath Entity))
+Twisted humanoid forms decorated with writhing arms and tentacles, wrath entities serve as heavy shock troopers brought in to demoralize and crush armies that oppose Majora. They are immune to pain, and do little more then laugh maniacally when injured or amputated, becoming more emboldened in battle when injured.
+
+right(
+![Wrath Entity](https://i.imgur.com/8LfzotX.png)
+)
+
+item(
+# Wrath Entity
+## Creature 13
+-
+;Uncommon,NE,Large,Aberration,Anti-Triforce,Druthulidi,Majora
+**Perception** +20; darkvision
+
+**Languages** Ancient, Demonic
+
+**Skills** Athletics +27, Intimidation +28 (+30 after Immunity to Pain activates), Occultism +22
+
+**Str** +8, **Dex** +3, **Con** +5, **Int** +1, **Wis** +2, **Cha** +4
+
+**Fear Itself** The wrath entity is a master of demoralizing the enemy.  It ignores the usual circumstance penalty to the Intimidation check for not speaking the same language as the target.  In addition, a creature is only immune to its Demoralize for 1 round rather than 1 minute unless the wrath entity critically failed its Intimidation check.
+-
+**AC** 30; **Fort** +26, **Ref** +20, **Will** +24
+
+**HP** 300; **Immunities** mental, nonlethal damage, poison; **Resistances** cold 10, electricity 10, fire 10; physical 10 (after Immunity to Pain); **Weaknesses** radiant 10
+
+**Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 33; this aura is only activated if the wrath entity is at half health or less
+
+**Immunity to Pain** The wrath entity is immune to pain and becomes more emboldened the more it is injured.  At half health or less, the wrath entity gains a +2 status bonus to attack rolls and Intimidation checks, gains resistance 10 to all physical damage, and activates its Frightful Presence.
+
+**Masochism** The wrath entity has resistance 10 to extra damage from a critical hit from any source that is not radiant damage.
+-
+**Speed** 35 feet
+
+**Melee** :a: tentacle +25 (reach 20 feet), **Damage** 3d10+16 bludgeoning plus Grab
+
+**Constrict** :a: 3d10+16 bludgeoning, DC 32
+
+**Reposition** :a:  The wrath entity attempts to move all creatures that it has grabbed into other spaces within the reach of its tentacles, rolling a single Athletics check and comparing the result against each creature’s Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer grabbed.
+
+**Storm of Tentacles** :aa: The wrath entity makes up to four tentacle Strikes, each against a different target. These attacks count toward the wrath entity's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks.
+)
+=
+# Malice ((++Malice))
+Malice is a Druthulidi that was summoned into Hyrule in primordial ages. With the exception of Majora, Malice is said to be the oldest of its kind. It is believed to embody the rung of malice.
+
+Malice is extremely unintelligent compared to the other Druthulidi, and it is debatable if it's even conscious. Instead of actively fighting for domination, it spreads like a mold passively, consuming and infecting what comes in its way. It reacts to and spreads via hatred and agony, earning its namesake.
+
+### Malice Spawn Statblocks
+* Malice Heart
+* Malice Ooze
+=
+# Vaati ((++Vaati))
+Vaati is a notable and powerful Druthulidi that survived the purge of the Golden Goddesses. It is named after its first host, Vaati, a Minish sorcerer. Vaati is believed to embody the rung of ego.
+
+Unlike most Druthulidi, Vaati prefers to remain a swarm of extremely small insect-like creatures that infect and take control of other creatures, slowly morphing them into a larger form. Individual Vaati are little more than black spheres dominated by a single eye and rows of cilia. When a victim has been fully transfigured they maintain the notable eye but also display powerful tentacles, appendages, and in some cases, wings. 
+
+Vaati usually assimilates and maintains some level of personality from its victims. In turn Vaati's victims often display an increased sense of ego and self importance with a habit of taunting and boasting superiority. Though Vaati is physically genderless, it tends to prefer being referred to as male.
+
+Vaati also has a massive inferiority complex compared to his stronger brethren, leading to his desire for the Wind Tribe's power so that he could increase his power.
+
+While tiny, Vaati is able to unsuspectingly enter a victim's body and slowly take control of them. Once established Vaati will begin a long process of converting and morphing the body into a larger form to suit its purposes. This process often takes several centuries, but Vaati is able to prolong the life of its victims and halt the process of ageing. Victims are often completely unaware of Vaati's influence and believe all of their actions are their own.
+
+When its victims are fully transfigured, Vaati displays tremendous physical strength because of its size. In some case Vaati is also capable of flight with an array of wings that grows from its body. Vaati can also assimilate abilities from its victims, such as the use of magical powers from its current host.
+
+Like the rest of his kind Vaati has the ability to travel between worlds, how he achieves this is unknown. 
+
+### Vaati Spawn Statblocks
+* Patra
+=
+# Fae Realm of Tarm ((+Fae Realm of Tarm))
+One of the oldest and most mysterious races of Hyrule are the Fairies. Small glowing creatures that drift with the wind, Faries have for the most part acted peaceful and have even saved the dying from death. In recent times however the fairies have almost completely vanished from Hyrule without a trace. Signs seemed to point that they have migrated far to the northeast and into the land of Holodrum, and those that pursued the matter further discovered their gathering place at the legendary ruins of Tarm.
+
+To many, Tarm is an enigma. According to legend, the Ruins of Tarm fell from the sky and around its resting spot the ancient Tarminians worshiped the structure as if it were a deity. In return for their fealty, the Ruins of Tarm would save the dying Tarminians just before their last breath. Historians often connected this resurrection with the use of fairies, and the fact that they have been gathering there seems to confirm the theory and prove that perhaps the fairies originated from the fallen Tarm Ruins. The true nature of this gathering is a mystery, but one cannot help but fear that they are creating an army.
+
+The average Fairy is small, only slightly larger than a fist. Great Fairies tend to be much larger, some reaching heights of up to ten feet. The true form of a fairy is unknown, though Great Fairies will often appear as an extraordinarily beautiful female of the observer's race. The Fairies can assemble a massive army in short order and easily catch a developing kingdom off guard. Regardless, the tiny size of fairies makes them very poor combatants: one well placed whack of the hand can knock one out and potentially kill it. They may be small, but many rightfully fear a massive storm of the creatures lead by an enigmatic Great Fairy.
+
+### Fae Realm of Tarm Statblocks
+* Fae Golem
+* Great Fairy
+* Great Fairy Sword
+* Great Butterfly Fairy
+* Great Crystal Fairy
+* Great Dragonfly Fairy
+* Great Mayfly Fairy
+* Mistwalker
+* Phantom of Tarm
+=
+## Phantom of Tarm ((++Phantom of Tarm))
+Ghost-like fey creatures that trap others within their own nightmares. Many legends surround these spectral nightmares. Those that have wandered into the Tarm Woods have reported being haunted by these creatures, as well as witnessing nightmares and other events of their own past while in their presence.
+/
+
+right(
+![Phantom of Tarm](https://i.imgur.com/7E2gjkB.png)
+)
+
+item(
+# Phantom of Tarm
+## Creature 12
+-
+;N,Medium,Courage,Fey,Incorporeal
+**Perception** +22; darkvision, faesight
+
+**Languages** Fae
+
+**Skills** Occultism +22, Tarm Lore +22
+
+**Str** -5, **Dex** +4, **Con** +3, **Int** +3, **Wis** +4, **Cha** +6
+
+**Faesight** The phantom of Tarm can see into the Fae Realm of Tarm while on the Light World and vice versa.
+
+**Faestep** :aa: The phantom of Tarm walks the thin line between the Fae Realm of Tarm and the Light World in order to exist in both realms simultaneously.  They can shift back to solely the Fae Realm of Tarm by using this ability again.
+-
+**AC** 30; **Fort** +19, **Ref** +22, **Will** +25
+
+**HP** 214; **Immunities** disease, paralyzed, poison, precision; **Resistances** all 10 (except cold iron, force, ghost touch, or void; double resistance vs. non-magical); **Weaknesses** cold iron 10
+
+**Telepathic Shroud** The phantom of Tarm is immune to any effect that would sense its emotions or read its thought, as well as spells that would divine its location.
+-
+**Speed** 20 feet, fly 40 feet
+
+**Melee** :a: prismatic touch (cold) +25 (cold, magical), **Damage** 3d8+10 cold
+
+**Melee** :a: prismatic touch (electricity) +25 (electricity, magical), **Damage** 3d8+10 electricity
+
+**Melee** :a: prismatic touch (fire) +25 (fire, magical), **Damage** 3d8+10 fire
+
+**Nightmarish Mind Trap** :aa: (incapacitation, mental, occult) The phantom of Tarm chooses one creature within 60 feet of it and attempts to trap its mind within an endless nightmare.  That creature must make a DC 32 Will save.  The phantom of Tarm can't use Nightmarish Mind Trap again for 1d4 + 1 rounds.
+**Critical Success** The creature is unaffected and is immune to Nightmarish Mind Trap for 1 hour.
+**Success** The creature is stunned 1, then becomes immune to Nightmarish Mind Trap for 1 minute.
+**Failure** The creature is stunned and off-guard until the end of its next turn.
+**Critical Failure** The creature is stunned and off-guard for 1 minute as it witnesses endless nightmares.
+)
+=
+# Gerudo ((+Gerudo))
+The origins of the Gerudo trace back to the Akkalan Civil War. In 2991 BG, King Rhoaban Gustaf I was assassinated by Baolin Nohansen I and Yom Daltus. His three children born of a secret affair with Siroc were smuggled out of Akkala to the remote mountain settlement of Calatia by Sir Bado "Groose" Harkinian, who then continued into the Gerudo Desert. Bado entered a relationship with an unknown desert woman, and his descendants would become the progenitors of the Gerudo, inheriting their father's characteristic red hair.
+
+Desert-dwelling Hylian relatives calling themselves the Gerudo first appear in historical records from 2657 BG. The Hylians themselves were unsure of their kinship with these people, believing them to originate from the remote mountain Kingdom of Calatia. The Gerudo conquered much of the western and central Gerudo Desert, forming a powerful Empire that rivaled the Darknut Legion in the East, and constructed great cities and monuments, seeing themselves as a great garden in the desert. During this period the Gerudo expanded into the Plains of Ordona, taking the port city of Aslosus and establishing the colony of Faldoon along the southern Moruge Mountains. The ancient Gerudo were ruled by powerful patriarchal Emperor for over 1,000 years, but began to wane from over-exploitation of their desert home and wars with their neighbors. During this period Aslosus fell under the control of powerful Gerudo Pirates while Faldoon was abandoned due to the outbreak of a plague. Circa 1600 BG, a civil war led to the overthrow of imperial rule and the establishment of the Circle of Warlords, a de facto council of squabbling military leaders. Some 1400 years later, two sisters were born, becoming powerful Witches who virtually controlled the Gerudo from the shadows through puppet rulers.
+
+By the time of Ganon, the once-mighty Gerudo had waned to a shadow of their former glory. In 1 BG, the Moblin King Ganon approached the Gerudo with offers of an Alliance, but as expected, was spurned by the haughty Circle of Warlords, and, with the aid of the Yiga mage Bongo, cursed the Gerudo's Oases so that the Gerudo would never again bear male children. As the curse spread throughout the Gerudo's empire, the Twinrova Sisters made their own move to steal the Triforce, marching to Hylia Marine with a rogue army, but were defeated by Hylian and Zora forces, and presented to the Circle of Warlords along with captured Yiga Clan Sheikah and criminal Fairies as a token of peace. The Circle would banish the most dangerous of the Gerudo and Yiga mages through the dreaded Mirror of Twilight, which they believed to be a gate to a void of no return.
+
+### Gerudo Statblocks
+* Gerudadorf
+* Gerudo Battle Dancer
+* Gerudo Dune Walker
+* Gerudo Golden Gladiator
+* Gerudo Grandwitch (*Bestiary of Hyrule*)
+* Gerudo Pirate (*Bestiary of Hyrule*)
+* Gerudo Pirate Captain (*Bestiary of Hyrule*)
+* Gerudo Sand Sniper
+* Gerudo Serpent Slayer
+* Gerudo Tomb Guard
+* Gerudo Warrior (*Bestiary of Hyrule*)
+* Gerudo Whirling Swordswoman (*Bestiary of Hyrule*)
+* Gerudo Wind Witch
+* Gerudo Witch (*Bestiary of Hyrule*)
+* Gerudo Ice Archer
+* Iron Knuckle (*Bestiary of Hyrule*)
+* Vagrudanon
+=
+## Gerudo Battle Dancer ((++Gerudo Battle Dancer))
+The gerudo are highly athletic and many of them prize this by performing in competitions to showcase their physique.  One of the more popular competitions is that of battle dancing, a combat sport between fighters who weave graceful dances with quick swordplay together in a tango of steel.
+
+item(
+# Gerudo Battle Dancer
+## Creature 15
+-
+;Rare,LN,Medium,Gerudo,Humanoid,Power
+**Perception** +21
+
+**Languages** Gerudo, Hylian
+
+**Skills** Acrobatics +30, Athletics +27, Intimidation +28, Performance +32
+
+**Str** +4, **Dex** +5, **Con** +4, **Int** +0, **Wis** +0, **Cha** +5
+
+**Items** *+2 striking flaming* scimitar, *bracers of armor I*, *greater sturdy shield* (Hardness 15, HP 120, BT 60) with a *+2 striking shield boss*, greater alchemist's fires (3)
+-
+**AC** 37 (39 with shield raised); **Fort** +25, **Ref** +28, **Will** +21
+
+**HP** 275
+
+**Reactive Strike** :r:
+
+**Shield Block** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: *scimitar* +31 (forceful, magical, sweep), **Damage** 2d6+12 slashing plus 1d6 fire
+
+**Melee** :a: *shield boss* +31 (magical), **Damage** 2d6+12 bludgeoning
+
+**Ranged** :a: greater alchemist's fire +32 (splash 3 fire, thrown 20 feet), **Damage** 3d8+3 fire plus 3 persistent fire
+
+**Quick Draw** :a: The battle dancer Interacts to draw a weapon and Strikes with it.
+
+**Shield Drum** :a: The battle dancer Raises a Shield, then Demoralizes.
+
+**Threatening Dance** :a: The battle dancer either Steps and then Performs, or Performs and then Steps. Compare the Performance result to the Will DC of one creature in the battle dancer's reach. 
+**Critical Success** The creature is flat-footed to all attacks until the start of the battle dancer's next turn.
+**Success** The creature is flat-footed to the next attack by a creature other than the battle dancer before the start of the battle dancer's next turn.
+)
+=
+## Gerudo Ice Archer ((++Gerudo Ice Archer))
+After years of arduous training, Gerudo women are given the chance to enter the infamous Gerudo Training Grounds. Should they survive, they emerge victorious, with Ice Arrows in hand. These ancient and magical weapons can fire a deadly arrow coated in frost. On contact they explode and instantly freeze anything near their impact.
+
+right(
+![Gerudo Ice Archer](https://i.imgur.com/nm3BOlm.png)
+)
+
+item(
+# Gerudo Ice Archer
+## Creature 4
+-
+;Uncommon,LN,Medium,Gerudo,Humanoid,Power
+**Perception** +14
+
+**Languages** Gerudo, Hylian
+
+**Skills** Acrobatics +12, Arcana +8, Athletics +10, Intimidation +8, Stealth +10, Survival +12
+
+**Str** +3, **Dex** +5, **Con** +3, **Int** +2, **Wis** +3, **Cha** +2
+
+**Items** *+1* longbow, dagger, leather armor
+-
+**AC** 20; **Fort** +11, **Ref** +14, **Will** +11
+
+**HP** 60
+-
+**Speed** 25 feet
+
+**Melee** :a: dagger +12 (agile, finesse, thrown 10 feet, versatile S), **Damage** 1d4+5 piercing
+
+**Ranged** :a: longbow +14 (deadly d10, range increment 100 feet, volley 30 feet), **Damage** 1d8+5 piercing
+
+**Ice Arrow** :aa: (arcane, cold) The gerudo infuses powerful ice magic into her arrow and makes a longbow Strike.  This Strike gains the arcane and cold traits and deals an additional 1d8 cold damage plus 2 cold splash damage.
+
+**Ice Slide** :aa: (arcane, cold) The gerudo fires an ice arrow at a spot within 60 feet.  Ice erupts from the ground in a 10-foot burst around the chosen spot, becoming difficult terrain for 1 minute.  Creatures in the area take 3d6 cold damage (DC 18 basic Fortitude).
+)
+=
+## Gerudo Serpent Slayer ((++Gerudo Serpent Slayer))
+Dressed in ceremonial golden armor in the likeness of Kovaloo, first Sage of Spirits, serpent slayers guard the hidden depths of the Gerudo Tombs across the desert. Armed with a khopesh and the legendary mirror shield they are highly resistant to all elemental and magical attacks, making them excellent at killing mages and other mystical beasts in battle.
+
+right(
+![Gerudo Serpent Slayer](https://i.imgur.com/Yxvb10D.jpg)
+)
+
+item(
+# Gerudo Serpent Slayer
+## Creature 16
+-
+;Uncommon,LN,Medium,Gerudo,Humanoid,Power
+**Perception** +30
+
+**Languages** Gerudo, Hylian
+
+**Skills** Acrobatics +32, Arcana +26, Athletics +30, Deception +28, Intimidation +29, Occultism +26, Survival +26
+
+**Str** +7, **Dex** +8, **Con** +6, **Int** +3, **Wis** +6, **Cha** +5
+
+**Items** *+2 greater striking* khopesh, *moderate sturdy mirror shield* (Hardness 13, HP 104, BT 52)
+-
+**AC** 38 (40 with shield raised); **Fort** +25, **Ref** +30, **Will** +29; +1 status to saves vs. magic
+
+**HP** 285; **Resistances** damage from spells 15
+
+**Reflect Spell** :r: **Trigger** A spell attack cast by a creature within 60 feet of the serpent slayer misses the serpent slayer; **Requirements** The serpent slayer has her mirror shield raised; **Effect** The spell bounces off of the mirrored surface and is redirected back towards its caster. The serpent slayer makes a spell attack against the triggering spell's caster with a spell attack modifier of +26.  This spell attack has the same effects as the original spell, but because the serpent slayer did not cast it, she does not gain any benefits of Casting a Spell.
+
+**Shield Block** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: *khopesh* +32 (magical, trip), **Damage** 3d8+23 slashing
+
+**Sunder Spell** :aa:  (concentrate) The serpent slayer makes a Strike with a melee weapon against a creature, object, or spell manifestation (such as the wall created by *wall of fire* or the guardian from *spiritual guardian*).  If the Strike hits, the serpent slayer attempts to counteract a single spell or magical effect on the target using the result of her attack roll for the counteract check (counteract level 8th).  Whether or not the serpent slayer succeeds at her Strike, the target is immune to Sunder Spell for 24 hours.
+)
+=
+# Gorons ((+Gorons))
+The origins of the Gorons is largely a mystery. Goron oral history holds that their people were born in the depths of the earth long ago, however, the first recorded sightings of Gorons on the surface of Hyrule date to circa 2701 BG in the Death Mountain Range. The Gorons established cordial relationships with the nearby Kingdom of Hyrule and Zora Dominion, living peacefully for several centuries until the Zora, desiring the wealth of the Death Mountain Range, invaded in 2372 BG, but were swiftly crushed by the Gorons in a series of skirmishes. To dissuade potential future invaders, the Gorons allied with the subterranean--dwelling Lizalfos. The Gorons and Lizalfos inhabited the Mountains undisturbed until 645 BG, when the Volvagians emerged from deep under Death Mountain, conquering and enslaving the Gorons and Lizalfos. Despite the Gorons' plea for aid, the Hylians and Zora elected to keep the Volvagians at bay with tribute. For almost 700 years, the Gorons suffered under the tyrannical rule of the Volvagians and their Lizalfos servants. It was not until 15 BG that Goron rebellion movements began. Though largely unsuccessful, these rebellions continued through the next two decades. The Gorons finally found their chance at freedom during the Rise of Ganon, when the Volvagians allied with the Moblins against the Kingdom of Hyrule and Zora Dominion. With Hylian aid, the Gorons managed to overthrow their masters and their Blin allies, and reconquered the entire Death Mountain Range. 
+
+### Goron Statblocks
+* Battle Brother
+* Berserker
+* Bomb Thrower
+* Brother-at-Arms
+* Patriarch
+* Ruby Guard
+* Shieldbreaker
+* Sumo
+* Tribal Monk
+=
+## Battle Brother ((++Battle Brother))
+right(
+![Goron Battle Brother](https://i.imgur.com/nwrIXqj.png)
+)
+
+Skilled in commanding goron soldiers, battle brothers would head goron armies as captains to guide them into battle. Leading by example, they could inspire all melee infantry in formation with the battle brother to fight more efficiently.
+/
+item(
+# Battle Brother
+## Creature 8
+-
+;LN,Medium,Goron,Humanoid,Power
+**Perception** +16; darkvision
+
+**Languages** Goron, Hylian
+
+**Skills** Athletics +18, Diplomacy +14, Intimidation +16, Society +12, Warfare Lore +10
+
+**Str** +6, **Dex** +3, **Con** +5, **Int** +0, **Wis** +3, **Cha** +3
+
+**Items** *+1 striking* warhammer, full plate
+-
+**AC** 27; **Fort** +19, **Ref** +14, **Will** +17
+
+**HP** 175; **Resistances** fire 8
+
+**Bravery** When the battle brother rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the frightened condition, reduce its value by 1.
+
+**Brotherly Command** (aura, emotion, mental) 30 feet. The battle brother bolsters lower-level gorons under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves.
+
+**Reactive Strike** :r:
+-
+**Speed** 20 feet
+
+**Melee** :a: warhammer +20 (shove), **Damage** 2d8+11 bludgeoning
+
+**Coordinated Charge** :aa: (open, visual) The battle brother dashes into the fray, inspiring their allies to follow. The battle brother Strides up to their Speed and make a melee Strike. If the Strike hits and damages an enemy, each ally within 60 feet who saw the battle brother hit can use a reaction to Stride, but they each must end their Stride closer to the creature the battle brother hit than where they started.
+
+**Mighty Swing** :aa: The goron makes a warhammer Strike that deals two extra weapon die of damage.
+
+**To Battle!** :a: (auditory, flourish) With a resounding cry, the battle brother rallies their allies to the offensive.  Lower-level gorons within the battle brother's Brotherly Command aura can immediately use their reaction to Stride.
+)
+=
+## Ruby Guard ((++Ruby Guard))
+Wielding a hammer in one hand and a durable shield in the other, Ruby Guards defended Goron settlements from enemy invasions. Despite their small size and slow speed by Goron standards, they were extremely durable and could take many blows from enemy weapons before falling in battle.
+
+right(
+![Goron Ruby Guard](https://i.imgur.com/3cNiqvh.png)
+)
+
+item(
+# Ruby Guard
+## Creature 7
+-
+;LN,Medium,Goron,Humanoid,Power
+**Perception** +15; darkvision
+
+**Languages** Goron, Hylian
+
+**Skills** Athletics +17, Intimidation +15
+
+**Str** +6, **Dex** +1, **Con** +5, **Int** +0, **Wis** +3, **Cha** +2
+
+**Items** *+1* warhammer, full plate, *minor sturdy shield* (Hardness 8, HP 64, BT 32)
+-
+**AC** 25 (27 with shield raised); **Fort** +18, **Ref** +11, **Will** +13
+
+**HP** 150; **Resistances** fire 7
+
+**Reverb Blow** :f:  (incapacitation); **Trigger** The ruby guard blocks a melee Strike with Shield Block.  **Effect** The ruby guard sends a reverberation to the attacker through its shield.  The target must make a DC 25 Fortitude saving throw.
+**Critical Success** The target is unaffected.
+**Success** The target is stunned 1.
+**Failure** The target is stunned 2.
+**Critical Failure** The target is stunned 3.
+
+**Shield Block** :r:
+-
+**Speed** 20 feet
+
+**Melee** :a: warhammer +17 (shove), **Damage** 2d8+8 bludgeoning
+)
+=
+# Hylians ((+Hylians))
+Hylians are a humanoid race descended from the Akkalans, and kin to the Sheikah, Ordonians, Gerudo, Calatians, Labrynnians, Horonians, and Arcadians, as well as the ancient Wind Tribe and Cobble. All being members of the same race descended from the mythical Firstborn. Additionally, the Twili, Lanayru Zora Hybrids, and High Zoran all share heritage with this race. Hylians are elfin beings identified by their long, horizontally tilted pointed ears, typically boasting light skin and fair hair. The Hylians traditionally believe their ears allowed them to better hear the words of the Goddesses. They boast a multitude of eye colors ranging from brown to blue, with the ancient crimson eyes of their Akkalan forebears being seen as a mark of pure blood.
+
+Hylians are in general a stern, pious, and militaristic people, fanatically devoted to the Church of the Golden Goddesses and disliked by many other races for the zealotry, arrogance, and imperialism. An inherently urban culture, they gravitate toward compact, well-defended urban centers, dominated by grand architecture and self-sufficient urban gardens and farms. This is a remnant of their ancient plains lifestyles, favoring commanding, defensive settlements that could counter an attack from any direction. The average Hylian lives a comfortable, prosperous lifestyle compared to many other inhabitants of Hyrule, but ultimately is subservient to the whims of the ruling aristocracy - in times of war, most able-bodied men are drafted into military roles, with all civilians and their property becoming completely under the control of the Royal Family.
+
+
+### Hylian Statblocks
+* Ball and Chain Soldier (*Bestiary of Hyrule*)
+* Champion Knight
+* Goddess Deacon
+* Knight of Hyrule
+* Hylian Captain (*Bestiary of Hyrule*)
+* Hylian General (*Bestiary of Hyrule*)
+* Hylian Guard (*Bestiary of Hyrule*)
+* Hylian Solider (*Bestiary of Hyrule*)
+* Ironclad Elite
+* Light Arrow Archer
+* Mage Captain
+* Triforce Vanguard
+=
+## Light Arrow Archer ((++Light Arrow Archer))
+An order of Archers that still holds the secret of creating mystical Light Arrows. These powerful projectiles can blind their victims with a flash of light, as well as destroy Shadow enemies with ease.
+
+right(
+![Light Arrow Archer](https://i.imgur.com/fS6fxcu.png)
+)
+
+item(
+# Light Arrow Archer
+## Creature 10
+-
+;Rare,LG,Medium,Humanoid,Hylian,Wisdom
+**Perception** +22
+
+**Languages** Hylian
+
+**Skills** Acrobatics +19, Arcana +22, Diplomacy +17, Hylian Lore +19, Occultism +17, Society +19
+
+**Str** +5, **Dex** +7, **Con** +4, **Int** +2, **Wis** +4, **Cha** +5
+
+**Items** *+1* longsword, *+1 striking* longbow (30 arrows)
+-
+**AC** 29; **Fort** +19, **Ref** +22, **Will** +17
+
+**HP** 165
+-
+**Speed** 25 feet
+
+**Melee** :a: longsword +22 (versatile P), **Damage** 1d8+5 slashing
+
+**Ranged** :a: longbow +23 (deadly d10, range increment 100 feet, volley 30 feet), **Damage** 2d8+13 piercing
+
+**Brilliant Arrow** :aaa: (divine, radiant) The archer makes a longbow Strike.  This Strike gains the radiant trait and deals an additonal 3d6 radiant damage.  On a hit, the target is stunned 1 (stunned 2 on a critical hit).
+
+**Light Arrow** :aa: (divine, radiant) The archer makes a longbow Strike.  This Strike gains the radiant trait and deals an additional 2d6 radiant damage.  On a hit, the target is dazzled for 1 round (blinded for 1 round on a critical hit).
+
+**Magical Arrows** Arrows fired from the archer's bow are considered both magical and cold iron for purposes of overcoming resistances and immunities.
+)
+=
+## Triforce Vanguard ((++Triforce Vanguard))
+An order of warrior-priests founded by Rauru himself to guard the Triforce from falling into the hands of the Kingdom's enemies. Armed with a powerful mace, these warriors may be slow, but they can smash through most armor, and are quite durable themselves.
+
+right(
+![Triforce Vanguard](https://i.imgur.com/AIPVVlv.png)
+)
+
+item(
+# Triforce Vanguard
+## Creature 13
+-
+;LG,Medium,Holy,Humanoid,Hylian,Triforce Undivided
+**Perception** +23
+
+**Languages** Hylian
+
+**Skills** Athletics +24, Diplomacy +24, Intimidation +21, Religion +24, Triforce Lore +26
+
+**Str** +5, **Dex** +3, **Con** +3, **Int** +1, **Wis** +5, **Cha** +4
+
+**Items** *+1 holy striking* mace; *+1 resilient* half-plate
+-
+**AC** 34; **Fort** +23, **Ref** +20, **Will** +26
+
+**HP** 239
+
+**Holy Healing** :r: (concentrate, healing, vitality); **Frequency** once per day; **Trigger** The Triforce vanguard critically suceeds at a Strike against an unholy creature; **Effect** The Triforce vanguard regains HP equal to double the unholy creature's level.
+
+**Swear Vengeance** :r: **Trigger** A creature the Triforce vanguard can see damages one of the Triforce vanguard's allies;  **Effect** The Triforce vanguard gains the effect of a 1st-level sure strike spell.  If the Triforce vanguard makes an attack roll against anyone other than the triggering creature, the sure strike ends with no effect.
+-
+**Speed** 25 feet
+
+**Melee** :a: mace +25 (holy, shove), **Damage** 3d6+11 bludgeoning plus 1d4 spirit 
+
+**Cleric Domain Spells** 2 Focus Points, DC 32, **7th** *protector's sacrifice*, *protector's sphere*
+
+**Divine Prepared Spells** DC 32, attack +24; **7th** *divine decree*, *heal* (×5), *regenerate*, *sunburst*; **6th** *blessed boundary*, *petrify*, *spirit blast*, *temporal ward*; **5th** *blessing of defiance*, *divine immolation*, *spiritual torrent*, *telekinetic haul*; **4th** *divine wrath*, *draw the lightning*, *holy light*, *radiant beam*; **cantrips (7th)** *daze*, *divine lance*, *guidance*, *light*, *shield*
+
+**Empowered Font** The Triforce vanguard's connection to divine power grows.  When they cast heal, the Triforce vanguard rolls d10s instead of d8s.
+)
+=
+# Labrynnians ((+Labrynnians))
+Labrynnians are the Hyrulean descendants of Akkalan refugees who settled the Brynna Plains while fleeing the Gohma circa 3000 BG. Labrynnians differ from their Hylian cousins in having slightly darker skin tones due to their semi-tropical homeland, as well as a more vertical tilt to their tapered ears.
+
+Due to the lack of large monsters and animals in their homeland, the Labrynnians have quite significantly culturally diverged from their Hyrulean cousins. Their unfamiliarity with horses or other easily accessible and tamable draft animals led to the development of primitive steam engines, as well as the domestication of the native Blue Bears of the Nuun Highlands as draft animals. Labrynna is blessed with a wealth of geothermal activity, leading to an abundance of Sulfur or "Magic Powder," leading to Labrynnian experimentation with firearms. Barring their bloody early wars with the Lynels of Labrynna, Labrynnians have lived in relative peace and prosperity compared to the rest of Hyrule, however, they retain a strong military tradition, with knightly orders similar to their Hylian cousins.
+
+Labrynna, already one of the most prosperous and centralized societies in Hyrule, experienced a rapid industrial revolution circa 100 AG, with the ascension of Queen Solado Ambi and the arrival of her mysterious advisor, Veran. With Veran's inherent genius and knowledge of Fairy and Twili magic, the medieval nation rapidly developed new technologies, political centralization, and economic growth. Among these innovations include their signature firearms, ranging from large cannons to portable breech-loading arquebus, as well as more civilian technologies such as simple steam engine powered vehicles, rail locomotives, carbon steel, and coal powdered factories. As a result, Labrynnians enjoy a wide amount of luxuries not available to anyone else in Hyrule, including mass-produced food, an organized police force, a centralized public education system, public hospitals, and professional armies led by dedicated officer corps.
+
+Compared to their Hyrulean cousins, Labrynnians are on average more educated, secular, and urbane as a people, eschewing religious fanaticism and holding an inquisitive interest in other cultures. However, as a result of their sudden industrial renaissance, they tend to be highly materialistic, arrogant, and ethnocentric, disdaining superstition and viewing the rest of Hyrule as theirs to exploit. Organized religion is largely banned within the nation, with churches and religious objects being seized and burned, while a secular, empiricist view of the world is enforced through compulsory civilian and military education. While living under an absolute monarchy, Labrynnians tend to have access to a greater deal of economic mobility and personal liberty than many others in Hyrule, with gender equality existing among both the civilian populace and military and being one of the few nations on the continent where homosexuality is tolerated.
+
+### Labrynnian Statblocks
+* Blue Caballero
+* Border Guard
+* Brigada
+* Conqueror
+* Hand Cannoneer
+* Homeguard
+* Lynna Pike
+* Steam Mech
+* Steam Tank Mk I
+* Steam Tank Mk II
+* Talus Knight
+=
+## Hand Canonneer ((++Hand Cannoneer))
+Carrying a large and powerful handheld cannon, these heavy gunners could shell approaching armies with their explosive payloads. Although rather inaccurate, a large barrage of volley fire often did enough damage to enemy morale to send half their army into retreat. 
+
+right(
+![Labrynnian Hand Cannoneer](https://i.imgur.com/Ku0BiJM.png)
+)
+
+item(
+# Hand Cannoneer
+## Creature 5
+-
+;LN,Medium,Humanoid,Labrynnian,Power
+**Perception** +15
+
+**Languages** Labrynnian
+
+**Skills** Acrobatics +13, Diplomacy +10, Intimidation +12, Society +12
+
+**Str** +4, **Dex** +5, **Con** +4, **Int** +2, **Wis** +4, **Cha** +4
+
+**Items** harmona gun, shortsword
+-
+**AC** 21; **Fort** +9, **Ref** +15, **Will** +12
+
+**HP** 56
+-
+**Speed** 25 feet
+
+**Ranged** :a: harmona gun +15 (range increment 150 feet), **Damage** 2d10+5 bludgeoning
+
+**Melee** :a: shortsword +13 (agile, finesse, versatile S), **Damage** 1d6+4 piercing
+
+**Firearm Critical Specialization** When the hand cannoneer makes a critical hit with a firearm, the target must succeed at a DC 22 Fortitude save or be stunned 1.
+)
+=
+## Steam Mech ((++Steam Mech))
+Applying hydraulic principles to good use, Labrynna has been able to construct durable suits of armor with no penalty on the wearer's mobility.  While still clumsy to a degree, Labrynnian steam mechs can move with speed, despite their size, and are largely protected from most melee attacks by their polished bronze armor.
+
+right(
+![Labrynnian Steam Mech](https://i.imgur.com/dsnF8b0.png)
+)
+
+item(
+# Steam Mech
+## Creature 8
+-
+;Uncommon,LN,Medium,Construct,Humanoid,Labrynnian,Power
+**Perception** +16
+
+**Languages** Labrynnian
+
+**Skills** Acrobatics +14, Athletics +18, Intimidation +16
+
+**Str** +6, **Dex** +1, **Con** +4, **Int** +3, **Wis** +2, **Cha** +2
+-
+**AC** 26 (28 with shield raised); **Fort** +19, **Ref** +11, **Will** +16; +2 status to all saves vs bleed, death effects, disease, doomed, paralyzed, poison, and sickened
+
+**HP** 154; **Immunities** nonlethal attacks; **Resistances** fire 10, physical 10 (except adamantine)
+
+**Conductive Vulnerability** (vulnerability) The steam mech treats its saving throw as one degree worse against spells with the Electricity trait.  It also treats its saving throw as one degree worse against the *heat metal* spell and the damage dealt by this spell is not affected by the steam mech's resistance to fire.
+
+**Shield Block** :r:
+-
+**Speed** 35 feet
+
+**Melee** :a: steam-powered fist +18 (deadly d8, forceful), **Damage** 2d10+11 bludgeoning
+
+**Vent** :aa: (fire) The steam mech vents a 30-foot cone of superheated steam from its internal forge, channeled through the arms.  This deals 9d6 fire damage to all creatures in the area (DC 24 basic Reflex).  The steam mech can't use Vent again for 1d6 rounds.
+)
+=
+# Lizal ((+Lizal))
+The Lizalfos are a primal and violent race of reptilian beings. It is believed that they are native to the Death Mountain range, though they have spread throughout the Kokiri Forest and can be found as far south as Ordona Province. A simple people, the Lizalfos enjoy a simple life. They also enjoy starting fights with non-Lizalfos. Regardless of their violent tendencies, the Lizalfos do not fight out of hatred or a need to conquer, they simply think fighting is a way to show that you respect your neighbor. Naturally, this is backward to many people, and as such the Lizalfos are considered by many to be a threat in need of extermination.
+
+They have a strong sense of community among their kind, and would rather fight in pairs or with a group along. For this reason, the Lizalfos are renowned for their coordinated attacks and swift flanking tactics. This nature reflects in their armies as well as the Lizalfos tend to hide in their environment, split up their forces, and flank an enemy from multiple sides. Their affinity for melee and fast speed makes them very adept for charges, and an infantry charge of Lizalfos is almost as effective as even the most brutal cavalry charges.
+
+Despite their speed and clever minds, Lizalfos tend to prefer crude weaponry and very little armor other than helmets. While their scales are thicker than the skin of most races, they are still vulnerable to a well-placed blow from a sword. They may lack in durability, but even so, the odds of an enemy surviving a Lizalfos that makes the first move are low and rightfully so. 
+
+### Lizal Statblocks
+* Aeralfos (*Bestiary of Hyrule*)
+* Dinolfos (*Bestiary of Hyrule*)
+* Dinolfos Butcher
+* Darkhammer
+* Fiery Aeralfos (*Bestiary of Hyrule*)
+* Hammarine
+* Iguanalfos
+* Lizalfos (*Bestiary of Hyrule*)
+* Lizalfos Matron
+* Nardu the White
+* Song Sayer
+* Talik the Red
+* Trapper
+* Treehopper
+* Vakat the Winged
+=
+## Iguanalfos ((++Iguanalfos))
+The iguanalfos is one of the more recent breeds of Lizalfos to surface in Hyrule. Believed to be the products of lizalfos and dinolfos mating with venomous reptiles native to Faron, the iguanalfos can hurl a poisonous vat of venom from a fair distance at their targets. Unfortunate victims would often become fatally ill hours after being soaked by their toxic spray.
+
+right(
+![Iguanalfos](https://i.imgur.com/KGBi4g1.jpg)
+)
+
+item(
+# Iguanalfos
+## Creature 2
+-
+;NE,Medium,Humanoid,Lizal,Power
+**Perception** +8; low-light vision
+
+**Languages** Lizal
+
+**Skills** Acrobatics +8, Athletics +7, Stealth +8
+
+**Str** +3, **Dex** +4, **Con** +1, **Int** +1, **Wis** +2, **Cha** +0
+
+**Forest Camouflage** The iguanalfos can Hide in forested environments even if it doesn't have cover.
+
+**Items** buckler (Hardness 3, HP 6, BT 3), shortsword
+-
+**AC** 17; **Fort** +8, **Ref** +11, **Will** +5
+
+**HP** 30; **Immunities** poison
+
+**Shield Block** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: shortsword +11 (agile, finesse, versatile S), **Damage** 1d6+5 piercing
+
+**Melee** :a: tail +11 (agile), **Damage** 1d6+3 bludgeoning
+
+**Breath Weapon** :aa: (poison, primal) The iguanalfos breathes a highly venomous spray of poison that deals 3d6 poison damage in a 30-foot cone (DC 18 basic Fortitude save).  Creatures that critically fail the save also take 1d6 persistent poison damage.  It can't use Breath Weapon again for 1d4 rounds.
+)
+=
+## Hammarine ((++Hammarine))
+A sect of warrior princesses, the Hammarines wielded a mighty hammer and displayed the colors of her chosen clutch. With such mighty force they could rupture armored victims without resistance. 
+
+right(
+![Hammarine](https://i.imgur.com/wto0YxG.png)
+)
+
+item(
+# Hammarine
+## Creature 3
+-
+;NE,Medium,Humanoid,Lizal,Power
+**Perception** +9; darkvision
+
+**Languages** Lizal
+
+**Skills** Acrobatics +9, Athletics +10, Intimidation +10, Stealth +9
+
+**Str** +5, **Dex** +4, **Con** +3, **Int** +0, **Wis** +2, **Cha** +1
+
+**Items** earthbreaker
+-
+**AC** 18; **Fort** +9, **Ref** +11, **Will** +7
+
+**HP** 40
+
+**Reactive Strike** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: earthbreaker +12 (razing, shove, two-hand d10, versatile P), **Damage** 1d6+8 bludgeoning
+
+**Melee** :a: claws +12 (agile, finesse, unarmed, versatile P), **Damage** 1d4+6 slashing
+
+**Hammer Specialization** When the hammarine makes a critical hit with a hammer, the target must succeed at a DC 17 Fortitude save or be knocked prone.
+
+**Hammer Time** :aa:  (flourish) The hammarine makes an earthbreaker Strike that deals one extra weapon die of damage.  This counts as two attacks for the hammarine's multiple attack penalty.
+)
+=
+## Vakat the Winged ((++Vakat the Winged))
+Vakat the Winged is the Chieftain of the Aeralfos and leader of the main aeralfos tribes that used to call Death Mountain home. After the fall of the Volvagian empire, he was disgraced along with the rest of the aeralfos and was forced into exile, though he seeks to reclaim the position he claims is rightfully his: King of Death Mountain.
+
+right(
+![Vakat the Winged](https://i.imgur.com/MexpT9w.jpg)
+)
+
+item(
+# Vakat the Winged
+## Creature 12
+-
+;Unique,NE,Medium,Humanoid,Fire,Lizal,Power
+**Perception** +22; darkvision
+
+**Languages** Hylian, Lizal
+
+**Skills** Acrobatics +25 (+27 to Maneuver in Flight), Athletics +22, Diplomacy +22, Intimidation +25
+
+**Str** +5, **Dex** +7, **Con** +5, **Int** +4, **Wis** +5, **Cha** +3
+
+**Items** +1 *striking* longsword, +1 *resilient* leather armor, *lesser sturdy steel shield* (Hardness 10, HP 80, BT 40)
+-
+**AC** 33 (35 with shield raised); **Fort** +16, **Ref** +19, **Will** +22
+
+**HP** 215; **Immunities** fire
+
+**Deflect Projectile** :r: **Trigger** Vakat is the target of a physical ranged attack. **Requirements** Vakat is aware of the attack and isn't off-guard against it. **Effect** Vakat gains a +4 circumstance bonus to AC against the triggering attack.  If the attack misses, Vakat deflected it with his shield.  He cannot use this ability to deflect unusually large or heavy ranged projectiles (such as boulders or ballista bolts).
+
+**Reactive Strike** :r: Vakat gains an extra reaction at the start of each of his turns that he can use only to make a Reactive Strike. He can't use more than one Reactive Strike triggered by the same action.
+
+**Shield Block** :r:
+-
+**Speed** 25 feet, fly 60 feet
+
+**Melee** :a: longsword +26 (magical, versatile S), **Damage** 3d8+15 piercing
+
+**Melee** :a: tail +26, **Damage** 3d8+12 bludgeoning plus Knockdown
+
+**Breath Weapon** :aa: (arcane, fire) Vakat breathes a blast of flame that deals 13d6 fire damage in a 45-foot cone (DC 31 basic Reflex save). He can't use Breath Weapon again for 1d4 rounds.
+
+**Dive Attack** :aa: (move) Vakat Flies up to his fly Speed and must both move forward at least 20 feet and descend at least 10 feet.  If he ends the movement within melee reach of at least one enemy, he can make a shortsword Strike against that enemy.
+
+**Gang Up** Any enemy is off-guard against Vakat's melee attacks due to flanking as long as the enemy is within melee reach of both Vakat and one of Vakat's allies.
+)
+=
+# Moblins ((+Moblins))
+The Blin races of the southwest lands of Hyrule are one of the older races to inhabit the land. Most Blins are humanoid and share similar features, the most common being a piggish face. It's believed all Blins shared a common ancestor, but over time, their uncoordinated mating led to many changes. The dominant race of their kind would be the Moblins, the largest and strongest of the region. Leadership in their tribes is determined by who is the best, and by best, that usually means who can bash in someone's head the fastest.
+
+Despite the fact that a majority of Moblins are rather unintelligent, figureheads of their kind tend to have unmatched cunning and, in some cases, tactical genius. As an army, the Moblins and their subjugated cousins are all bred for battle at birth. It's in their nature to fight, and they enjoy a good battle as much as any strong batch of ale. Their large size and lust for combat makes them a very aggressive army and one that's best suited for brute force and head-on clashes. Despite this, the stupid intellect of most Moblins means that they are largely clumsy and uncoordinated in a fight. They'd rather fight amongst themselves to determine who gets to kill the soldier in front of them rather then work in unison to bring them down. Even with these drawbacks, a massive horde of Moblins can mow through most opposition with ease. 
+
+### Moblins Statblocks
+* Bigblin Wrecker
+* Black Bokoblin (*Bestiary of Hyrule*)
+* Blinagician
+* Blue Bokoblin (*Bestiary of Hyrule*)
+* Bokoblin (*Bestiary of Hyrule*)
+* Bokoblin Horde (*Bestiary of Hyrule*)
+* Golden Bokoblin (*Bestiary of Hyrule*)
+* Great Moblin Mauler (*Bestiary of Hyrule*)
+* Horriblin (*Bestiary of Hyrule*)
+* Malladus
+* Miniblin (*Bestiary of Hyrule*) 
+* Moblin (*Bestiary of Hyrule*)
+* Moblin Pirate
+* Moblin Warlord
+* Silver Bokoblin (*Bestiary of Hyrule*)
+* Spear Moblin (*Bestiary of Hyrule*)
+* Stone Blin (*Bestiary of Hyrule*)
+* Technoblin (*Bestiary of Hyrule*) 
+* Warlord Ganon
+=
+# Blinagician ((++Blinagician))
+Blinagicians harness the power of gunpowder to make explosives.  They are often found as members of the Ocean Blin navies, responsible for maintaining the cannons of their ships, though they have a propensity to blowing themselves up as they tinker with their explosives.
+
+right(
+![Blinagician](https://i.imgur.com/ukVxVvg.png)
+)
+
+item(
+# Blinagician
+## Creature 4
+-
+;NE,Large,Blin,Humanoid,Power
+**Perception** +11; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Crafting +12, Intimidation +12
+
+**Str** +2, **Dex** +4, **Con** +3, **Int** +3, **Wis** +3, **Cha** +2
+
+**Infused Items** A blinagician carries the following infused items: 2 moderate alchemist's fire and 2 moderate thunderstones. These items last for 24 hours, or until the next time they make their daily preparations.
+
+**Items** alchemist's tools, club, studded leather armor
+-
+**AC** 20; **Fort** +10, **Ref** +14, **Will** +12
+
+**HP** 57
+-
+**Speed** 25 feet
+
+**Melee** :a: club +12, **Damage** 1d6+3 bludgeoning
+
+**Ranged** :a: alchemist's fire +12 (alchemical, bomb, fire, splash, thrown 20 feet), **Damage** 2d8+2 fire plus 2 persistent fire and 2 fire splash
+
+**Ranged** :a: thunderstone +12 (alchemical, bomb, sonic, splash, thrown 20 feet), **Damage** 2d4 sonic damage plus 2 sonic splash and deafened (DC 17)
+
+**Quick Bomber** :a: The blin Interacts to draw a bomb, then Strikes with it.
+)
+=
+# Moblin Pirate ((++Moblin Pirate))
+These fierce brawlers have lived virtually all of their lives on the sea. While usually found manning most of the Ocean Blin Navy, they have recently been deployed as medium assault soldiers to secure islands for Malladus.
+
+right(
+![Moblin Pirate](https://i.imgur.com/Hi24o4M.png)
+)
+
+item(
+# Moblin Pirate
+## Creature 6
+-
+;NE,Large,Blin,Humanoid,Power
+**Perception** +11; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Acrobatics +10, Athletics +12, Deception +13, Intimidation +13, Survival +10, Sailing Lore +17
+
+**Str** +4, **Dex** +2, **Con** +2, **Int** +1, **Wis** +2, **Cha** +3
+
+**Items** *+1* scimitar, hand crossbow (10 bolts), leather armor
+-
+**AC** 23; **Fort** +12, **Ref** +12, **Will** +14
+
+**HP** 90
+
+**Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, anytime they gain the frightened condition, reduce its value by 1.
+
+**Reactive Strike** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: scimitar +17 (forceful, magical, sweep), **Damage** 2d6+8 slashing
+
+**Ranged** :a: hand crossbow +16 (range increment 60 feet, reload 1), **Damage** 1d6+6 piercing
+
+**Boarding Action** :aa: The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit.
+)
+=
+# Warlord Ganon ((++Warlord Ganon))
+Warlord Ganon is the King of the united Moblin tribes, infamous for invading and nearly destroying the Kingdom of Hyrule and stealing the Triforce. He was chosen by the Blin war god, Demise, to be trained as a powerful warlord after his parents fell victim to a roving band of Hylian knights.
+
+Ganon was the first Blin leader in centuries to unite the warring Moblin tribes into a singular powerful state ruled by the Blin Council. He allied himself with the Darknuts Legion and formed a plan to destroy the Hylians by obtaining the divine power of the Golden Goddesses, the Triforce.
+
+Ganon wields the powerful Zuna-forged artifact known as the **Trident of Power** and wears a Zuna-forged set of iron armor with a red and gold cape.
+
+right(
+![Warlord Ganon](https://i.imgur.com/Uog2qY3.png)
+)
+
+item(
+# Warlord Ganon
+## Creature 18
+-
+;Unique,NE,Large,Blin,Humanoid,Power
+**Perception** +30; darkvision, scent (precise) 30 feet
+
+**Languages** Blin, Hylian, Lizal, Demonic
+
+**Skills** Arcana +31, Deception +31, Diplomacy +30, Intimidation +35, Occultism +28, Religion +31, Warfare Lore +31, Blin Lore +35
+
+**Str** +9, **Dex** +3, **Con** +9, **Int** +5, **Wis** +5, **Cha** +6
+
+**Items** Trident of Power, +2 *greater resilient* half-plate
+-
+**AC** 41; **Fort** +33, **Ref** +27, **Will** +28; +1 status to all saves vs magic
+
+**HP** 425; **Resistances** physical 15
+
+**Power Incarnate** Warlord Ganon's power is tied to his use of the Trident of Power.  He loses all abilities with the Power trait and all occult spells when disarmed of his trident, but not when he throws it.
+
+**Reactive Strike** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: trident of power +35 (malice, magical, reach 10 feet), **Damage** 4d12+20 piercing plus 3d10 malice
+
+**Melee** :a: tusks +35 (magical), **Damage** 3d6+17 piercing
+
+**Ranged** :a: trident of power +35 (malice, magical, thrown 60 feet), **Damage** 4d12+20 piercing plus 3d10 malice
+
+**Occult Spells** DC 40; **7th** *fly* (at will); **5th** *dimension door* (x2); **4th** *dimension door* (at will); **1st** *bane* (at will)
+
+**Lightning Discharge** :aa: (electricity, power, primal); **Frequency** three times per day **Effect** Warlord Ganon casts *lightning bolt* as a 7th-level spell from the Trident of Power (DC 40 Reflex save).
+
+**Wake of Destruction** :aa: (malice, occult, power) Warlord Ganon throws the Trident of Power at an enemy, leaving behind a wall of pure power that is up to 60 feet long and 10 feet high that lasts for 3 rounds.  Any creature that crosses the wall or is occupying the wall's area at the start of its turn takes 8d6 malice damage.  At the start of Warlord Ganon's next turn, the trident returns to his hand.
+)
+=
+# Oocca ((+Oocca))
+The Oocca are an incredibly ancient civilization: undoubtedly the first to exist in the world of Hyrule. In addition to the First Sages, they were in direct communion with the Goddesses that created them and the world. Unlike the other creatures and civilizations that would inhabit the surface, the Oocca were created with specific intent and a finalized form. They were granted weak, frail, and useless bodies, but an intellect and technology far superior to anything that has been seen in Hyrule. From their inception they created and maintained massive self-sustaining and floating cities that hovered across the world. They crafted many tools that could manipulate inanimate objects and constructs to do what their physical bodies could not. Perhaps most importantly they created the most terrifying and destructive weapons ever unleashed unto the world.
+
+Sometime in the distant past before recorded history, the Oocca suddenly ceased all contact with the rest of the Hyrule. They retreated into their many floating Sky Cities and vanished high above the world, slowly fading into legend and obscurity. Many civilizations in Hyrule continued to revere them after their departure, indeed many began to idolize and worship them as gods incarnate throughout history. Their reasons for their ascendance and disappearance remain unknown to this day. Despite this concealment, they are well aware of and active in Hyrule, manipulating and directing the course of history and assuring the spread of all religion centered around the three Golden Goddesses and the utter destruction and eradication of all Majora influence.
+
+They have long kept themselves, and the biggest conspiracy in all of history, a well guarded secret for thousands of years.
+/
+
+### Oocca Statblocks
+* Breacher Statue
+* Colossus Statue
+* Demokan Emissary
+* Demokan Scout
+* Koloktos
+* Walker Cannon
+|
+note (
+# Dominion Rod Susceptibility
+All Oocca constructs have a unique vulnerability to the Dominion Rod item.  An Oocca construct always treats the result of its saving throw as one degree worse against effects from a Dominion Rod and the incapacitation trait on an effect from a Dominion Rod does not apply to Oocca construccts.
+)
+=
+# Demokan Scout
+The Demokan scout, also called Surveyors, acts as the eyes and ears of the Oocca. These tiny disembodied heads glide through the sky and observe the world below them, absorbing and gathering information before landing armies into battle. Once combat has begun, Demokan scouts can act as ranged snipers in battle.
+
+right(
+![Demokan Scout](https://i.imgur.com/ImCoeee.png)
+)
+
+item(
+# Demokan Scout
+## Creature 6
+-
+;LN,Small,Construct,Oocca
+**Perception** +18; darkvision
+
+**Languages** Ancient, Hylian
+
+**Skills** Acrobatics +15, Arcana +14, Deception +13, Diplomacy +13, Society +14, Stealth +15
+
+**Str** -3, **Dex** +5, **Con** +2, **Int** +4, **Wis** +5, **Cha** +3
+-
+**AC** 23; **Fort** +11, **Ref** +17, **Will** +15
+
+**HP** 70; **Immunities** bleed, death effects, diseased, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
+**Dominion Rod Susceptibility** (vulnerability) The Demokan scout is an Oocca construct and as such it always treats the result of its saving throws against effects caused by Dominion Rods as one degree worse and the incapacitation trait on an effect from a Dominion Rod does not apply to the Demokan scout.
+-
+**Speed** fly 40 feet
+
+**Melee** :a: slam +15, **Damage** 2d6+5 bludgeoning
+
+**Ranged** :a: force beam +16 (arcane, force, range increment 120 feet), **Damage** 2d10+4 force
+
+**Annihilation Beam** :aa: (arcane, force) The Demokan scout charges up and fires an exceptionally powerful force beam that deals 5d10 force damage in a 120-foot line (DC 24 basic Reflex save).  It can't fire an Annihilation Beam again for 1d4 rounds.
+
+**Lock-On** :a: The Demokan scout's next ranged Strike ignores its target's concealed condition.
+
+**Transmit Data** :a: The Demokan scout transmits all data it gathers on the battlefield to an Oocca command post or another Oocca construct within 10 miles of itself.  This data can include, but is not limited to, the tactics used by enemy forces, the positions of enemy forces, and environmental effects in the area.
+)
+=
+# Sheikah Cadre ((+Sheikah Cadre))
+The Sheikah as a people are ancient, dating back to the times of Akkala. While records of their deeds are few, many legends surrounding the Sheikah placed them as mediators between Hyrule and the Oocca. The Divine Oocca would use the dark arts of the Sheikah as an instrument, rooting out corruption and demons. This role seems to survive into modern day despite the absence of their Oocca masters.
+
+The Cadre's goals are not explicit to outsiders, though it seems in general they wish to direct history and avoid cataclysmic disaster and change. To accomplish this the Sheikah have adopted extremely subversive and secretive methods: Spying, bribing, black mailing, and assassination to change the course of events rather than military or diplomatic might. If there is a great and powerful monarch in Hyrule, odds are the Sheikah are responsible for putting them there and keeping them alive.
+
+### Sheikah Cadre Statblocks
+* Assassin
+* Executioner
+* Hawkeye
+* Needler
+* Protector
+* Sidewinder
+=
+# Sheikah Assassin ((++Sheikah Assassin))
+The ultimate instrument of the Cadre, the Assassins enforce the final judgement of the Clans and have long shaped the history of Hyrule. Should a king step out of line, a noble get too ambitious, or some wizard delve too deep into the magics of demons, the Assassin would carry out the will of the Cadre and remove them from history. Once marked by the Sheikah there are few who could survive the attempts on their life from one of these skilled murderers, and even then the Cadre would only send in another to finish where the first failed.
+
+right(
+![Sheikah Assassin](https://i.imgur.com/UOHYvl2.png)
+)
+
+item(
+# Sheikah Assassin
+## Creature 8
+-
+;LN,Medium,Humanoid,Sheikah,Power
+**Perception** +16; low-light vision
+
+**Languages** Hylian, Sheikah
+
+**Skills** Acrobatics +17, Athletics +13, Deception +12, Diplomacy +10, Intimidation +10, Medicine +14, Society +12, Stealth +19, Survival +12, Thievery +15, Underworld Lore +14
+
+**Str** +3, **Dex** +5, **Con** +2, **Int** +2, **Wis** +2, **Cha** +0
+
+**Swift Sneak** The assassin can move their full Speed when Sneaking.
+
+**Items** +1 *striking* composite shortbow (20 arrows), +1 rapier, invisibility potion, giant centipede venom (3), leather armor, lesser darkvision elixir, simple injury poison (8 doses, 2d4 poison damage), sleep poison
+-
+**AC** 26; **Fort** +15, **Ref** +12, **Will** +14
+
+**HP** 130
+
+**Deny Advantage** The assassin isn't off-guard to creatures of 8th level or lower that are hidden, undetected, flanking, or using surprise attack.
+
+**Nimble Dodge** :r: **Trigger** The assassin is targeted with a melee or ranged attack by an attacker they can see; **Effect** The assassin gains a +2 circumstance bonus to AC against the triggering attack.
+
+**Undaunted** When the sheikah rolls a success against an emotion effect, they get a critical success instead.
+-
+**Speed** 25 feet
+
+**Melee** :a: rapier +18 (deadly 1d8, disarm, finesse, magical), **Damage** 1d6+8 piercing
+
+**Ranged** :a:  composite shortbow +20 (deadly 2d10, magical, propulsive, range increment 60 feet, reload 0), **Damage** 2d6+4 piercing
+
+**Poison Weapon** :a: (manipulate) **Requirements** The assassin is wielding a piercing or slashing weapon and has a free hand; **Effect** The assassin applies a poison to the weapon.
+
+**Quick Draw** :a: The assassin Interacts to draw a weapon, then Strikes with that weapon.
+
+**Sneak Attack** The assassin deals an extra 2d6 precision damage to off-guard creatures.
+
+**Surprise Attack** On the first round of combat, creatures that haven't acted yet are off-guard to the assassin.
+)
+=
+# Sheikah Executioner ((++Sheikah Executioner))
+Wielding a large butcher's blade, the Executioner plays an important role in Sheikah culture. As their name implies, they execute the criminal individuals of the Cadre that step out of line or fall too far into the darkness. In battle the Executioner can use their two handed sword to damage enemy armors.
+
+right(
+![Sheikah Executioner](https://i.imgur.com/YMKY9vm.png)
+)
+
+item(
+# Sheikah Executioner
+## Creature 6
+-
+;LN,Medium,Humanoid,Sheikah,Power
+**Perception** +12; low-light vision
+
+**Languages** Hylian, Sheikah
+
+**Skills** Athletics +15, Intimidation +13, Medicine +10
+
+**Str** +5, **Dex** +2, **Con** +3, **Int** -1, **Wis** +2, **Cha** +2
+
+**Items** +1 greatsword, leather armor
+-
+**AC** 23; **Fort** +15, **Ref** +12, **Will** +14
+
+**HP** 105
+
+**Undaunted** When the sheikah rolls a success against an emotion effect, they get a critical success instead.
+-
+**Speed** 25 feet
+
+**Melee** :a: greatsword +16 (magical, versatile P), **Damage** 1d12+9 slashing
+
+**Behead** :aaa: **Requirements** The executioner is adjacent to a dying creature or a creature specifically prepared for a killing blow; **Effect** The executioner Strikes the creature with their greataxe. On a hit, in addition to taking damage, the target must attempt a Fortitude save or be reduced to 0 HP and become dying 1. If the creature was already dying (including if it was reduced to 0 HP by the Strike's damage), the creature's dying value increases by 1, in addition to any increase from the Strike. On a critical failure, the creature dies instantly. If the executioner's Strike was a critical hit, the target uses the outcome for one degree of success worse than the result of their saving throw.
+
+**Intimidating Strike** :aa:  (emotion, fear, mental) The executioner makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit.
+
+**Mark for Death** :a: (concentrate) The executioner marks a single creature they can see for death. The first time each round the executioner Strikes that creature, the Strike deals 1d12 additional precision damage. The creature remains marked for death until the executioner is knocked out, marks a different creature for death, or the encounter ends.
+)
+=
+# Silent Army ((+Silent Army))
+The remnants of Solahrasin's personal army.  These beings once served to destroy disorderly bodies and ensuring all functions in harmony.  The silent army remains ever-vigil from their positions in the Silent Realm for threats to existence, whether that be a mass Druthulidi incursion or if mortals attempt to obtain and use the Triforce for destructive purposes.
+
+### Silent Army Statblocks
+* Silent Guard
+* Silent Guardian
+* Silent Stalker
+=
+# Stalfos ((+Stalfos))
+The fear of death is shared among all mortal beings and those that are fearful enough have, in the past, become entangled in many dark and unnatural means of preserving their lives. The Stalfos, also the ancient Hylian word for "of bones," are remnants of these long-lost endeavors to achieve long-lasting life. Little more than animated skeletons, Stalfos are completely mindless and, without guidance, will simply rot as any dead being would. In recent times, however, the Stalfos have slowly been assembling into an army under the guidance of unseen masters.
+
+The Kingdom of Hyrule and many other races have done their best to utterly destroy all remnants of these undead, yet periodically they show up time and again. The fear of an all out Stalfos army looms in the hearts of many, and without a doubt that fear is becoming more true every day. The dead corpses and remnants of the long deceased are rising from their graves all the more and gathering in all the hidden corners of Hyrule. Being an army of mindless drones, the Stalfos have the advantage of being completely immune to all psychological effects such as fear.
+
+It is impossible for a Stalfos army to flee, and they will fight until every bone in their carcasses are smashed beyond repair. Despite this huge advantage, the Stalfos lack muscles and their only means of movement is artificial: Stalfos move slowly and awkwardly and are relatively easy to destroy with a well placed hammer to the rib cage. Even though they may be frail in combat, most people would only dare to stand against the march of a Stalfos army coming to collect the corpses of the dead.
+
+### Stalfos Statblocks
+* Big Poe (*Bestiary of Hyrule*)
+* Death Sword
+* Grim Repoe (*Bestiary of Hyrule*)
+* Imp Poe (*Bestiary of Hyrule*)
+* Lantern Poe (*Bestiary of Hyrule*)
+* Redead (*Bestiary of Hyrule*)
+* Redead Knight (*Bestiary of Hyrule*)
+* Shadow Hag (*Bestiary of Hyrule*)
+* Stalblin (*Bestiary of Hyrule*)
+* Staldra (*Bestiary of Hyrule*)
+* Staldragon
+* Stalfos (*Bestiary of Hyrule*)
+* Stalfos Knight (*Bestiary of Hyrule*)
+* Stalhound (*Bestiary of Hyrule*)
+* Stallord (*Bestiary of Hyrule*)
+* Stalmaster (*Bestiary of Hyrule*)
+* Stalreaper
+=
+# Stalreaper ((++Stalreaper))
+In some cultures, these undead mages are known as the Blue Stalfos, but in all myths they play the same role: reaping the souls of the living to add to their growing armies. The Stalreapers seem to be powerful mages with command over Blue Fire, and perhaps were well studied war wizards during their old lifetimes. They can torch just about anything with their burning attacks, as well as defend themselves with their scythes in a melee.
+
+right(
+![Stalreaper](https://i.imgur.com/0uZ9dvx.png)
+)
+
+item(
+# Stalreaper
+## Creature 17
+-
+;Rare,NE,Medium,Stal,Undead,Wisdom
+**Perception** +32; darkvision, *see invisiblity*, status sight, *true seeing*
+
+**Languages** Ancient, Hylian, Stal
+
+**Skills** Acrobatics +33, Athletics +28, Deception +30, Intimidation +32, Religion +30, Society +26, Stealth +35
+
+**Str** +6, **Dex** +9, **Con** +6, **Int** +9, **Wis** +4, **Cha** +6
+
+**Blue Fire Master** Fire damage dealt by the stalreaper ignores up to 15 fire resistance.
+
+**Status Sight** The stalreaper automatically knows the Hit Points, conditions, afflictions, and emotions of all creatures it can see.
+
+**Items** +2 *greater striking keen* scythe
+-
+**AC** 38; **Fort** +29, **Ref** +32, **Will** +33; +1 status to all saves vs. magic
+
+**HP** 255 (void healing); **Immunities** death effects, disease, paralyzed, poison, unconscious; **Resistances** fire 15
+-
+**Speed** 25 feet, fly 40 feet
+
+**Melee** :a: keen scythe +32 (deadly 2d10, magical, reach 10 feet, trip), **Damage** 3d10+16 slashing plus 1d12 void
+
+**Arcane Prepared Spells** DC 38, attack +32; **8th** *boil blood*, *call the blood*, *horrid wilting*, *uncontrollable dance*; **7th** *eclipse burst*, *mask of terror*, *tempest of shades*, *warp mind*; **6th** *awaken entropy*, *bone spray*, *necrotize*, *wall of force*; **5th** *blister*, *burning hands*, *cloudkill*, *invoke spirits*; **cantrips (8th)** *ancient dust*, *chill touch*, *produce flames*, *shield*, *torturous trauma*
+
+**Arcane School Spells** 2 Focus Points, DC 38, attack +32; **8th** *call of the grave*, *life siphon*
+
+**Divine Innate Spells** DC 38 **Constant (6th)** *true seeing*, **(2nd)** *see invisibility*
+
+**Quickened Casting** :f: (concentrate, spellshape) If the stalreaper's next action is to cast an arcane cantrip or an arcane spell of 6th level or lower, it reduces the number of actions to cast it by 1 (minimum 1 action).
+
+**Raise Dead** :aaa: **Frequency** once per day; **Effect** The stalreaper raises a fallen stal ally of 14th level or lower, returning it back to undeath at full health.
+
+**Steal Soul** A living creature killed by the stalreaper's scythe will have its soul doomed to serve the stalreaper, preventing it from being resurrected as long the stalreaper exists
+)
+=
+# Twili ((+Twili))
+
+Following the battle at Hylia Marine in 0 AG (Hyrule time), which sees the final defeat of Bongo's Dark Interlopers, Twinrova's Gerudos and Veran's Fairies who all came to seek the Triforce, the Hylian Princess Nylin Zelda I hands the prisoners of war over to the Gerudo Ring of Warlords. These Warlords then banish these prisoners into the Mirror of Twilight, a mysterious portal in the Arbiter Grounds, which they thought was the entrance to a void of no return.
+
+Unbeknownst to the Warlords, the Mirror actually lead to the Realm of Twilight. After their arrival the prisoners struggle to survive in the harsh wasteland, and many of them die shortly after their arrival. However those that survived form a new civilization, and after thousands of years these criminals eventually evolve into the Twili.
+
+For hundreds of years the Twili radiate into many cultural groups throughout the Realm of Twilight, pushing the aborigines and Shadow Blins to the wild and frozen far east, where they gather under the few remaining Dark Dragons.  The three main Twili cultural groups are the Twili, the Bonemold, and Oorgath
+
+## Twili
+The Twili are the most widespread beings of the Realm of Twilight, native to the ancient seabeds of the south, including the Palace of Twilight, Elmenzhia, Uzu, and Valran.They founded the Dynasty of Mizorant in the vicinity of where their ancestors first arrived in the Realm of Twilight from Hyrule, and have maintained the Kingdom for several thousand years despite numerous civil wars and coups. They drove indigenous beings such as the Dark Dragons and Shadow Bulblins east into the Nether Rifts through their expansions, earning the animosity of the tribes. Border conflicts and raids along their eastern border are commonplace.
+
+The Twili have evolved into drastically different beings than their Hyrulean ancestors, partially due to adaptations to their harsh new world as well as magical interference by beings such as the Fairies of Twilight. While retaining a similar humanoid form, they have grown taller and slimmer, with much longer limbs and necks due to the low gravity of their home. Their skin lacks pigment, being an alabaster white or at times pale blue or cyan, often with colored blotches and markings. Their eyes have become pupiless and bioluminescent, glowing blazing yellow, to better see in the endless twilight of their home, and though their retain hair on their head and face like a Hyrulean, it can come in odd colors such as green and blue. 
+
+## Bonemold
+The Twili equivilent of Sheikah to Hylians, the Bonemold are an near equally bloodline-obsessed offshoot of Twili who strive to retain the blood of their ancient Yiga ancestors. This obsession with blood purity had led to a more Hyrulean appearance than others of their kind, with eyes with colored irises and white sclera. While magical bloodlines have long died off, they retain the physical flexibilty of their Sheikah ancestors, and the blood of Gerudo and other exiles has led them to be less inbred and sickly their their Light World counterpart. The Bonemold exist both as a martial order and political entity within the Dynasty of Mizorant, often pursuing their own strongly traditionalist agendas in opposition to the rulers of the Dynasty and their Fairy of Twilight puppetmasters. The Bonemold, while found across the Dynasty, hold lands west of Valran. 
+
+## Oorgath
+The most ancient and mysterious of the Twili, the Oorgath people ventured from the south many centuries after the Dark Interlopers were cast into the Realm of Twilight, crossing the Nether Rifts and settling in the far east. There they founded the lost kingdom of Oorgath and studied the magics of their dying world, crating magical masks that grant power or twist the wearer into the Shadow Beasts and Fused Shadows. Eventually they discovered the mysterious entities known as the Eclipse, which were the remnants of an ancient process of the world. Harnessing the power of the Eclipse allowed the Oorgath to perceive the fourth dimension, Time, which drove them mad. They shed their corporeal forms, becoming akin to Haunts or Spirits. Their ghostlike being appears like a Twili riddled with cracks emitting a sickly orange light, their digits stonelike claws and faces concealed by elaborate masks. 
+=
+### Twili Statblocks
+* Bonemold Monks
+* Fused Shadow
+* Middee
+* Midna
+* Oorgath Crusader
+* Shadow Beast (*Bestiary of Hyrule*)
+* Shadow Emissary (*Bestiary of Hyrule*)
+* Shadow Bloat
+* Shadow Insect
+* Sol Nurse
+* Twili Infantry
+* Repentant
+* Royal Shadow Beast (*Bestiary of Hyrule*)
+* Yorinu
+* Zant
+=
+## Fused Shadow ((++Fused Shadow))
+Once members of the Twili race, these individuals have been changed into hulking abominations by the powers of the Fused Shadows that were created by the Dark Interlopers. Unlike most creatures warped by the dark magics of the Interlopers, these beasts have retained the intelligence of their hosts and are capable of tactical planning and strategic thinking.
+
+right(
+![Fused Shadow](https://i.imgur.com/T04I7Ql.png)
+)
+
+item(
+# Fused Shadow
+## Creature 17
+-
+;Rare,CN,Gargantuan,Aberration,Power,Shadow,Twili
+**Perception** +28; darkvision
+
+**Languages** Twilit
+
+**Skills** Acrobatics +26, Athletics +33, Occultism +28, Stealth +30
+
+**Str** +8, **Dex** +4, **Con** +6, **Int** +2, **Wis** +3, **Cha** +2
+-
+**AC** 39; **Fort** +32, **Ref** +29, **Will** +27
+
+**HP** 390; **Resistances** cold 15, negative 15
+
+**Light Vulnerability** (vulnerability) Twili are extremely susceptible to the natural light of the Light World, becoming slowed 1, enfeebled 1, and clumsy 1 while in the bright natural light of the Light World.
+
+**Skittering Reposition** :r: (move) **Trigger** A creature that starts its move outside the fused shadow's reach moves into its reach.  **Effect** The fused shadow moves 10 feet.  This does not trigger reactions.
+-
+**Speed** 50 feet, climb 40 feet
+
+**Melee** :a: twilit spear +33 (magical, reach 20 feet), **Damage** 4d8+20 piercing
+
+**Melee** :a: leg +33 (agile, reach 15 feet), **Damage** 4d6+18 bludgeoning plus Improved Grab
+
+**Occult Innate Spells** DC 38, attack +30; **6th** *chilling darkness*, *dispel magic*, *shadow blast*
+
+**Conjure Twilit Spear** :a: (occult, shadow) **Requirement** The fused shadow has been Disarmed or otherwise does not currently hold a twilit spear.  **Effect** The fused shadow conjures a new spear out of raw Twili magic.  Spears used by the fused shadow disappear after one minute of not being held by a Twili creature or immediately when exposed to bright natural light of the Light World.
+
+**Constrict** :a: 4d6+18 bludgeoning, DC 38
+
+**Shadow Magic** Spells cast by the fused shadow have the Shadow trait, even if it doesn't normally have the trait.
+
+**Skittering Assault** :aa: The fused shadow Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn’t apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends.
+)
+=
+## Sol Nurse ((++Sol Nurse))
+Keepers and masters of the Sols found in the Realm of Twilight, these Nurses grow and nurture the mysterious orbs that power Twili society. With their unique knowledge they have been able to wield and use Sols in battle as ranged explosives and burning weaponry in melee.
+
+right(
+![Sol Nurse](https://i.imgur.com/y9dtTcL.png)
+)
+
+item(
+# Sol Nurse
+## Creature 5
+-
+;N,Medium,Humanoid,Twili,Wisdom
+**Perception** +12; darkvision
+
+**Languages** Hylian, Twilit
+
+**Skills** Arcana +12, Occultism +10, Religion +13
+
+**Str** +1, **Dex** +3, **Con** +2, **Int** +3, **Wis** +5, **Cha** +4
+-
+**AC** 21; **Fort** +9, **Ref** +15, **Will** +12
+
+**HP** 70; **Resistances** cold 5
+
+**Light Vulnerability** (vulnerability) Twili are extremely susceptible to the natural light of the Light World, becoming slowed 1, enfeebled 1, and clumsy 1 while in the bright natural light of the Light World.
+-
+**Speed** 25 feet
+
+**Melee** :a: sol knife +14 (agile, finesse, fire, radiant), **Damage** 2d4+1 piercing plus 1d6 fire and 1d6 radiant
+
+**Ranged** :a: sol orb +14 (fire, radiant, range increment 20 feet, splash), **Damage** 2d8 fire plus 1d6 radiant and 2 fire splash
+
+**Detonate Sol** :a: (light) The sol nurse detonates a sol orb harmlessly in their hand, creating a blinding flash of light in a 30-foot emanation.  Creatures in the area must succeed at a DC 19 Fortitude save or be dazzled for 1 minute. A creature that critically fails its save is instead blinded for 1 minute. Creatures who successfully save are temporarily immune to this effect for 24 hours.  The sol nurse is immune to the effects of detonated sols of themselves and other sol nurses.
+
+**Manifest Sol Orb** :a: The sol nurse creates a new sol orb in their hand.
+)
+=
+## Twili Infantry ((++Twili Infantry))
+The primary muscle of both Midna's Exiled and the Dynasty of Mizorant, these enlisted men are found stationed at many places within the Realm of Twilight. They are donned in a suit of armor made from materials native to their world that are far more resilient then any metal from Hyrule. When the time comes to retake Hyrule they will flood from portals like a swarm and bring down any foe they cross with their wicked spears.
+
+right(
+![Twili Infantry](https://i.imgur.com/0d97xzT.png)
+)
+
+item(
+# Twili Infantry
+## Creature 6
+-
+;LN,Medium,Humanoid,Power,Twili
+**Perception** +14; darkvision
+
+**Languages** Hylian, Twilit
+
+**Skills** Athletics +15, Deception +13, Intimidation +13, Occultism +13, Stealth +13
+
+**Str** +5, **Dex** +4, **Con** +4, **Int** +2, **Wis** +4, **Cha** +2
+
+**Items** *+1* longspear
+-
+**AC** 25; **Fort** +17, **Ref** +14, **Will** +14
+
+**HP** 95; **Resistances** cold 6
+
+**Light Vulnerability** (vulnerability) Twili are extremely susceptible to the natural light of the Light World, becoming slowed 1, enfeebled 1, and clumsy 1 while in the bright natural light of the Light World.
+
+**Reactive Strike** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: *longspear* +14 (magical, reach 10 feet), **Damage** 2d8+9 piercing
+
+**Occult Innate Spells** DC 24 ; 1st *illusory guise*
+
+**Intimidating Strike** :aa: (emotion, fear, mental) The twili makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit.
+)
+=
+# Volvagian ((+Volvagian))
+The Volvagians were among the last surviving Dragons on Hyrule, a race of reptilian beings that live within and breathe fire.
+
+The Volvagians' homeland is the Death Mountain Range, where they constantly warred with the Gorons, Lizalfos, and Dodongos for power. When the Sage of Fire Maphaeus named Dakkon her successor, he promptly used his new Sage powers to win over the Lizalfos as servants, kill the Goron King Dalagra and enslave his people, and dominate the Dodongos as subservient beasts of burden. The Lizalfos and their kin enjoy a relatively privileged position as the Volvagians' enforcers and taskmasters, keeping a lash over their Goron slaves.
+
+For five millennia Dakkon rules over his empire, crushing all rebellions from the Gorons, including a particularly large one in the first century before Ganon that resulted in the flight of the Lizalfos from Death Mountain. 
+
+### Volvagian Statblocks
+* Dakkon
+* Volvagian Clutch Queen
+* Volvagian Half-Breed
+* Volvagian Hatchling
+* Volvagian Serpent
+* Volvagian Tyrant
+* Vyorsoth
+=
+# Volvagian Half-Breed ((++Volvagian Half-Breed))
+Half-breeds became exceedingly more common as the population of pure-blood volvagians declined.  Sharing parentage with dinolfos, the half-breeds may not have been as massive as their volvagian sires, but they were no less vicious.  Because of their relative size, they often served more menial tasks and as soldiers; it was rare for a half-breed to ever become a Tyrant themselves.
+
+right(
+![Volvagian Half-Breed](https://i.imgur.com/1bduD3L.png)
+)
+
+item(
+# Volvagian Half-Breed
+## Creature 4
+-
+;NE,Medium,Fire,Humanoid,Lizal,Power,Volvagian
+**Perception** +11; darkvision
+
+**Languages** Hylian, Lizal
+
+**Skills** Acrobatics +12, Athletics +10, Intimidation +10, Society +8
+
+**Str** +3, **Dex** +5, **Con** +3, **Int** +1, **Wis** +1, **Cha** +1
+
+**Items** *+1* war spear
+-
+**AC** 20; **Fort** +11, **Ref** +14, **Will** +8
+
+**HP** 63; **Immunities** fire; **Resistances** acid 5; **Weaknesses** cold 5
+
+**Reactive Strike** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: jaws +14, **Damage** 1d8+5 piercing plus 1d6 fire
+
+**Melee** :a: war spear +14 (sweep, versatile S), **Damage** 2d6+5 piercing
+
+**Breath Weapon** :aa: (fire, primal) The volvagian breathes a blast of flame that deals 5d6 fire damage in a 15-foot cone (DC 18 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds.
+
+**Leap Attack** :aa: The volvagian half-breed Strides up to twice its Speed, during which it attempts a High Jump or a Long Jump.  At any point during its movement, the volvagian half-breed can make a melee Strike against an enemy in its reach.  The volvagian half-breed then can't use Leap Attack for 1 round.
+)
+=
+# Volvagian Serpent ((++Volvagian Serpent))
+The typical volvagian is a serpentine dragon anywhere from 15 to 30 feet in length, with a mane of fire and two limbs.  Volvagian serpents are rulers, administrators, and overseers of their fallen empire's territories.  A single serpent could outclass anything smaller than itself; it took large volumes of skilled warriors to mount any kind of attack against these creatures.
+
+right(
+![Volvagian Serpent](https://i.imgur.com/Vib7DP9.png)
+)
+
+item(
+# Volvagian Serpent
+## Creature 11
+-
+;Uncommon,NE,Large,Dragon,Fire,Power,Volvagian
+**Perception** +21; darkvision, scent (imprecise) 60 feet
+
+**Languages** Hylian, Lizal
+
+**Skills** Acrobatics +21, Athletics +23, Deception +23, Diplomacy +19, Intimidation +23, Stealth +19
+
+**Str** +7, **Dex** +3, **Con** +7, **Int** +1, **Wis** +1, **Cha** +3
+-
+**AC** 31; **Fort** +24, **Ref** +21, **Will** +18
+
+**HP** 245; **Immunities** fire, paralyzed, sleep; **Weaknesses** cold 10
+
+**Blade Deflection** :r: **Trigger** The volvagian is targeted with an attack from a weapon that deals piercing or slashing damage.  **Effect** The volvagian attempts to deflect the attack with its helmet, gaining a +2 circumstance bonus to AC against the triggering attack.
+
+**Reactive Strike** :r: Jaws only.
+-
+**Speed** 20 feet, fly 80 feet, magma swim 40 feet
+
+**Melee** :a: jaws +24 (fire, reach 10 feet), **Damage** 2d12+15 piercing plus 2d6 fire
+
+**Melee** :a: claw +24 (agile), **Damage** 2d8+10 slashing
+
+**Melee** :a: tail +24 (reach 15 feet), **Damage** 2d10 + 12 bludgeoning
+
+**Melee** :a: fire mane whip +22 (fire, reach 20 feet), **Damage** 2d12+15 fire
+
+**Breath Weapon** :aa: (fire, primal) The volvagian breathes a blast of flame that deals 12d6 fire damage in a 40-foot cone (DC 30 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds.
+
+**Magma Swim** The volvagian serpent's swim Speed functions only when it is Swimming through magma or molten lava.
+
+**Volvagian Frenzy** :aa: The volvagian serpent makes two claw Strikes and one tail Strike in any order.
+
+**Volvagian Momentum** The volvagian serpent recharges its Breath Weapon whenever it scores a critical hit with a Strike.
+)
+=
+# Volvagian Tyrant ((++Volvagian Tyrant))
+Volvagian tyrants were the supreme overlords of the ancient volvagian empire.  Even larger than their serpent brethren, tyrants ruled with an iron claw over everything within their domain.
+
+item(
+# Volvagian Tyrant
+## Creature 17
+-
+;Rare,NE,Huge,Dragon,Fire,Power,Volvagian
+**Perception** +21; darkvision, scent (imprecise) 60 feet
+
+**Languages** Ancient, Hylian, Lizal
+
+**Skills** Acrobatics +30, Athletics +32, Deception +33, Diplomacy +30, Intimidation +34, Stealth +28
+
+**Str** +9, **Dex** +6, **Con** +9, **Int** +5, **Wis** +5, **Cha** +6
+-
+**AC** 41; **Fort** +32, **Ref** +29, **Will** +26
+
+**HP** 400; **Immunities** fire, paralyzed, sleep; **Weaknesses** cold 15
+
+**Frightful Presence** 90 feet, DC 37
+
+**Blade Deflection** :r: **Trigger** The volvagian is targeted with an attack from a weapon that deals piercing or slashing damage.  **Effect** The volvagian attempts to deflect the attack with its helmet, gaining a +2 circumstance bonus to AC against the triggering attack.
+
+**Reactive Strike** :r: Jaws only.
+
+**Redirect Fire** :r: **Trigger** A creature within 100 feet casts a fire spell, or a fire spell otherwise comes into effect from a source within 100 feet. **Effect** The volvagian makes all the choices to determine the targets, destination, or other effects of the spell, as though it were the caster.
+-
+**Speed** 30 feet, fly 120 feet, magma swim 60 feet
+
+**Melee** :a: jaws +34 (fire, reach 20 feet), **Damage** 3d10+16 piercing plus 3d6 fire
+
+**Melee** :a: claw +34 (agile, reach 15 feet), **Damage** 3d8+14 slashing
+
+**Melee** :a: tail +32 (reach 25 feet), **Damage** 3d8+14 bludgeoning
+
+**Melee** :a: fire mane whip +30 (fire, reach 30 feet), **Damage** 3d12+19 fire
+
+**Breath Weapon** :aa: (fire, primal) The volvagian breathes a blast of flame that deals 18d6 fire damage in a 60-foot cone (DC 39 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds.
+
+**Magma Swim** The volvagian serpent's swim Speed functions only when it is Swimming through magma or molten lava.
+
+**Manipulate Flames** :a: The volvagian attempts to take control of a magical fire or a fire spell within 100 feet. If it succeeds at a counteract check (counteract level 8, counteract modifier +30), the original caster loses control of the spell or magic fire, control is transferred to the volvagian, and the volvagian counts as having Sustained the Spell with this action (if applicable). The volvagian can choose to end the spell instead of taking control, if it chooses.
+
+**Volvagian Frenzy** :aa: The volvagian serpent makes two claw Strikes and one tail Strike in any order.
+
+**Volvagian Momentum** The volvagian serpent recharges its Breath Weapon whenever it scores a critical hit with a Strike.
+)
+=
+# Zora ((+Zora))
+The history of the zora people is intertwined with the history of the Druthulidi Bellum.  There are three major branches of Zora civilization, the River Zora, the High Zora, and the Zora Hybrids of Lanaryu Province, with several smaller branches that are less well-known, such as the mysterious Ocean Zora that were the progeniters of the High Zora, and the Storm Zora who defected from the River Zora.
+
+## High Zora
+The origins of the High Zora stretches back over 5000 years, to the first Ocean Zora to settle on Hyrule. These Zora had been augmented from Zola by their Parella overlords with Hylian genetics to be better adapted to land, and fleeing their masters and brethren, first settled on the eastern Lanayru Coast circa 5500 BG, and had migrated into Spool Swamp by 5000 BG. Between 3700 and 3600 BG, the Spool Swamp Zora migrated into the Dominion Valley, founding the City of Domain Prime in the 3400's BG. By 3450 BG, the city was appearing in written documentation and the Zora Dominion was formally regarded as a world power.
+
+## Lanayru Zora Hybrid
+The Lanayru Coast was first settled by Ocean Zora circa 5500 BG. These Zora would largely migrate to the Spool Swamp within the following 500 years, but some remained in the region, eventually coming under the rule of the Zora Dominion founded by their cousins who had migrated inland. Roughly 1000 years later, between 4000 and 3000 BG, the first Akkalans migrated into the region from Arcadia, forming the five Houses of Akkala. By 3200 and 3100 BG, one family, the Daltuns had settled roots down in eastern Lanayru, particularly the area around Seshei. The Daltuns became immensely wealthy as Bankers and Traders, financing the construction of Akkala Citadel. Against the traditions of both Akkalan and High Zoran culture, those living on the Lanayru Coast began to interbreed, resulting in the first Zora Hybrids. These Hybrids, despite persecution by their mother countries, continued to grow in population until they absorbed largely absorbed House Daltus and its bannermen. Over the centuries Lanayru would eventually become an independent Province under the shared jurisdiction of the Kingdom of Hyrule and Zora Dominion, developing their own unique culture and ethnicity distinct from Hylians and High Zora.
+
+## Ocean Zora
+Not much is known of the Ocean Zora other than that for reasons unknown, they were banished into Termina by the Golden Goddesses.  They were the progeniter stock of the High Zora, with the latter being the mixture of Ocean Zora and Hylian genetics.
+
+## River Zora
+Nicknamed Zola by many in Hyrule, the River Zora are believed to be the ancient ancestors of the modern and civilized Zora. The Zora often consider this claim a hostile insult, though there may be truth in the matter. River Zora may not be civilized and may appear monstrous, though their predatory nature betrays their cunning and tactical skill. River Zora are infamous for hit and run attacks against superior forces, usually by springing from bodies of water, dealing a blow, and then quickly retreating into the water only to surface elsewhere. While they do have their own language and are able to communicate, they seem to have no interests outside of pillaging, raping, and destroying the inhabitants of villages they come across.
+
+The River Zora originated from a world outside Hyrule. In the past, they came to worship the Druthulidi Bellum and became one of its most favoured servant races, second only to the Parella.  They arrived in Hyrule at the same time as Bellum and the other Druthulidi. They and their allies largely kept a low profile during the Druthulidi conflicts.
+=
+## Storm Zora
+The Storm Zora are a Zora subrace who live on the Stormwracked Islands to the west of Crescent Island. Beneath the restless Sea of Storms the Zora of the Deep had remained unknown to the rest of Hyrule for thousands of years. Now something from below has forced them up from the ocean floor, setting up their cities along the edges of islands pelted by constant cyclones and tempests.  They are descended from a group of River Zora who renounced the worship of Bellum, ran away from their cousins and retreated deep into the Sea of Storms, where Bellum's influence doesn't reach.  Storm Zora can be distinguished from their High Zora and River Zora cousins by their black skin and bioluminescent organs.
+/
+### High Zora Statblocks
+* Blademaster
+* Boomeranger
+* Floodmaster
+* Halberdier
+* Hydrophant Lancer
+* Infiltrator
+* River Patrol
+* Sapphire Warden
+* Spark Mage
+* Stormbolter
+
+### Lanayru Zora Hybrid Statblocks
+* Aquamarine
+* Aruroda (*Bestiary of Hyrule*)
+* Coral Lancer
+* Coral Archer
+* Lanayru Constript
+* Lightscale Tridenteer
+* Shore Sentry
+* Silver Archer
+* Silverscale Slasher
+* Wave Warrior
+
+|
+
+### River Zora Statblocks
+* Cannibal
+* Cyclops Ku
+* Geozard (*Bestiary of Hyrule*)
+* Geozard Chief (*Bestiary of Hyrule*)
+* Octorok  (*Bestiary of Hyrule*)
+* Big Octo (*Bestiary of Hyrule*)
+
+### Storm Zora Statblocks
+* Stormbringer
+* Tiderunner
+* Viper
+
+### Statblocks for any Zora Faction
+* Zora Martial Artist (*Bestiary of Hyrule*)
+=
+# High Zora ((++High Zora))
+## High Zora Blademaster ((+++High Zora Blademaster))
+Armed with a curved falchion, Zora Blademasters marched in the frontlines of their invasion forces on many occasions. They emphasised speed and form over brute strength and durability, preferring to disarm their targets. 
+
+right(
+![Zora Blademaster](https://i.imgur.com/3GRYw1U.png)
+)
+
+item(
+# High Zora Blademaster
+## Creature 9
+-
+;LN,Medium,Amphibious,Humanoid,Wisdom,Zora
+**Perception** +18; low-light vision
+
+**Languages** Hylian, Zoran
+
+**Skills** Acrobatics +20, Athletics +21, Intimidation +16, Performance +18
+
+**Str** +4, **Dex** +6, **Con** +4, **Int** +1, **Wis** +2, **Cha** +4
+
+**Items** *+1 striking* falchion
+-
+**AC** 27; **Fort** +18, **Ref** +21, **Will** +16
+
+**HP** 195
+
+**Reactive Strike** :r:
+-
+**Speed** 30 feet, swim 25 feet
+
+**Melee** :a: falchion +22 (forceful, magical, sweep), **Damage** 2d10+8 slashing
+
+**Blade Barrage** :aa: The zora blademaster makes three melee Strikes. If one target is hit with at least two of these Strikes, they also take 1d8 persistent bleed damage. The target is then off-guard until they heal the persistent bleed damage.
+
+**Disarming Whirl** :aa:  (flourish) The zora blademaster spins, striking at their foes' weapons. The zora blademaster attempts an Athletics check to Disarm against each enemy within melee reach. Each attempt counts toward the zora blademaster's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts.
+)
+=
+# Lanayru Zora Hybrid ((++Lanayru Zora Hybrid))
+
+## Lightscale Tridenteer
+Hunters of all manner of sea beast, from the gyorgs of the Great Sea to the bigoctos of the west, Lightscale Tridenteers were powerful warriors when in the waters. They were exceptionally adept at killing monsters with their tridents, and when not in combat they could slowly heal their injuries.
+
+right(
+![Lightscale Tridenteer](https://i.imgur.com/PgrPREU.jpg)
+)
+
+item(
+# Lightscale Tridenteer
+## Creature 7
+-
+;LN,Medium,Amphibious,Humanoid,Wisdom,Zora
+**Perception** +18; low-light vision
+
+**Languages** Hylian, Zoran
+
+**Skills** Acrobatics +15, Athletics +17, Survival +15
+
+**Str** +6, **Dex** +4, **Con** +3, **Int** +0, **Wis** +4, **Cha** +2
+
+**Aquatic Adaptation** While underwater, the lightscale tridenteer has a +1 circumstance bonus to attack rolls.
+
+**Items** *+1* trident, scale armor
+-
+**AC** 24; **Fort** +15, **Ref** +17, **Will** +13
+
+**HP** 111
+
+**Reactive Strike** :r:
+-
+**Speed** 20 feet, swim 30 feet
+
+**Melee** :a: trident +17 (thrown 20 feet), **Damage** 2d8+8 piercing
+
+**Ranged** :a: trident +17 (range increment 20 feet), **Damage** 2d8+8 piercing
+
+**Rage** :a: (concentrate, emotion, mental); As the barbarian class ability; AC 23, +10 Hit Points, +8 melee damage, +10-foot Speed
+
+**Sudden Charge** :aa: The tridenteer Strides or Swims twice and makes a melee Strike.
+)
+=
+# River Zora ((++River Zora))
+
+=
+# Storm Zora ((++Storm Zora))
+## Storm Zora Tiderunner ((+++Storm Zora Tiderunner))
+Soldiers of the Storm Zora's coastal city, tiderunners had trained to fight on land and ward off invaders insane enough to brave the constant cyclones of the area.  Armed with a bladed spear and their wicked teeth, tiderunners could quickly stab and bite their enemies into submission.
+
+right(
+![Storm Zora Tiderunner](https://i.imgur.com/ZjZ8EbY.png)
+)
+
+item(
+# Storm Zora Tiderunner
+## Creature 8
+-
+;CN,Medium,Amphibious,Humanoid,Wisdom,Zora
+**Perception** +16; darkvision
+
+**Languages** Zoran
+
+**Skills**  Acrobatics +18, Athletics +16, Intimidation +16, Stealth +16, Survival +15
+
+**Str** +4, **Dex** +5, **Con** +4, **Int** +2, **Wis** +4, **Cha** +3
+
+**Items** *+1 striking lesser shock* longspear, coral armor
+-
+**AC** 26; **Fort** +16, **Ref** +19, **Will** +14
+
+**HP** 130; **Resistances** electricity 8, precision damage 3
+
+**Nimble Dodge** :r: **Requirements** The zora is not encumbered. **Trigger** A creature targets the zora with an attack and the zora can see the attacker. **Effect** The zora dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.
+-
+**Speed** 20 feet, swim 40 feet
+
+**Melee** :a: longspear +20 (magical, reach 10 feet), **Damage** 2d8+5 piercing plus 1d4 electricity
+
+**Melee** :a: jaws +20, **Damage** 2d8+7 piercing
+
+**Rage** :a: As the barbarian class ability; AC 25, +12 Hit Points, +6 melee damage, +10-foot Speed
+)
+=
+# Unaligned ((+Unaligned))
+These are creatures that are not aligned with any of the above factions.
+
+* Aquadongo (amphibious dodongos)
+* Dark Dragon (original natives of the Realm of Twilight)
+* Eclipse (hyperdimensional entities of the Twilight Realm)
+* Primordial Gleeok
+* Wosu Knight
+=
+# Primordial Gleeok ((++Primordial Gleeok))
+right(
+![Primordial Gleeok](https://i.imgur.com/6kPL7Gq.jpg)
+)
+
+It is said that all gleeoks existing today are direct descendants of the Primordial Gleeok, a ferocious force of pure destruction that is usually believed to be mythical. It is said by some to have existed near the beginning of the Age of Myth, and said to be a mistake of the Golden Goddess of Courage, Farore. She erroneously created a being of such power that it threatened to destroy all mortal life in the Light World, and was consequently sealed away by the Golden Goddess of Power, Din. Those who revere the Golden Goddesses believe they are incapable of mistake, and consider the mere mentioning of this creature to be sacrilegious.
+
+Descriptions and tales of the Primordial Gleeok vary, but it is always a wild monster with at least five heads, over 60 feet tall, of a stark crimson hue. It is frequently said to have four legs unlike the bipedal gleeoks living today. Some interpretations of tales embellish it even further, saying it had seven heads, or even a hundred—but no one surviving today has seen it firsthand, thankfully.
+/
+item(
+# Primordial Gleeok
+## Creature 25
+-
+;Unique,NE,Gargantuan,Dragon,Fire,Gleeok,Power
+**Perception** +43; darkvision, scent (imprecise) 120 feet
+
+**Languages** Ancient, Lizal
+
+**Skills**  Acrobatics +38, Athletics +45, Intimidation +42, Stealth +40
+
+**Str** +12, **Dex** +7, **Con** +11, **Int** +4, **Wis** +9, **Cha** +7
+-
+**AC** 50 (all-around vision); **Fort** +47, **Ref** +37, **Will** +39; +1 status to all saves vs. magic
+
+**HP** 300 ((body) gleeok regeneration)
+
+**HP** 100 ((head), head regrowth); **Immunities** area damage, death effects, disease, fire, paralyzed, petrified, poison, polymorph; **Resistances** cold 25, physical 25
+
+**Frightful Presence** (aura, emotion, fear, mental) 300 feet, DC 39
+
+**Head Regrowth**  The primordial gleeok ordinarily has five heads. A creature can attempt to sever one of the gleeok's heads by specifically targeting it and dealing damage equal to the head’s Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature’s turn.
+The gleeok can regrow a severed head using Gleeok Regeneration. A creature can prevent this regrowth by dealing acid damage to the stump, cauterizing it. Single-target acid effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the gleeok's whole space cauterize all stumps if they deal acid damage. If the attack that severs a head deals any acid damage, the stump is cauterized instantly. If all heads are cauterized, the gleeok becomes incapacitated indefinitely, but does not die due to the sheer amount of life energy flowing through its body.
+
+**Gleeok Regeneration** The primordial gleeok has regeneration equal to 5 x the number of heads it has.  If the gleeok's body is missing any heads and the remaining stumps have not been cauterized, the gleeok attempts a DC 56 Fortitude save after it regains Hit Points from regeneration.  On a success, one uncauterized stump regrows two heads; on a critical success, two uncauterized stumps regrow into two heads each. The gleeok can never grow more than double the number of heads it ordinarily has. The gleeok's regeneration only fully deactivates if all its heads are severed and all stumps are cauterized, at which point it becomes incapacitated indefinitely.
+)
+=
+item(
+**Multiple Opportunities**  The primordial gleeok gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Reactive Strikes. It can’t use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the gleeok must use a different head for each Reactive Strike it makes. Whenever one of the gleeok's heads is severed, the gleeok loses 1 of its extra reactions per round.
+
+**Reactive Strike** :r:
+-
+**Speed** 50 feet, fly 100 feet
+
+**Melee** :a: fangs +45 (fire, magical, reach 20 feet), **Damage** 4d12+26 piercing plus 4d10 fire
+
+**Melee** :a: claws +45 (agile, magical, reach 15 feet), **Damage** 4d10+20 slashing
+
+**Melee** :a: tail +45 (magical, reach 30 feet), **Damage** 4d10+20 bludgeoning
+
+**Primal Innate Spells** DC 48, attack +42; **9th** *scorching ray* (x3), *fireball* (x3), **8th** *wall of fire* (at will)
+
+**Breath Weapon** :aa: to :aaa: (fire, primal) The gleeok breathes a blast of flame that deals 25d6 fire damage in a 90-foot cone (DC 52 basic Reflex save).  Creatures that fail the save also take 4d6 persistent fire damage.  If it uses three actions, it breathes two blasts of flames in two separate 60-foot cones, each dealing 15d6 fire damage and 2d6 persistent fire damage instead.  It can’t use Breath Weapon again for 1d4 rounds.
+
+**Focused Assault** :aa: The primordial gleeok attacks a single target with its heads, overwhelming its foe with multiple attacks and leaving almost nowhere to dodge.  The gleeok Strikes with its fangs.  On a successful attack, the gleeok deals damage from its fangs Strike to the target, plus an additional 1d12 damage for every head it has beyond the first.  Even on a failed attack, the gleeok deals the damage from one fangs Strike to the target creature, though it still misses completely on a critical failure.  This counts towards the gleeok's multiple attack penalty as a number of attacks equal to the number of heads the gleeok has.
+
+**Storm of Jaws** :aa: The gleeok makes a number of Strikes up to its number of heads, each against a different target. These attacks count toward the gleeok's multiple attack penalty, but the multiple attack penalty doesn’t increase until after the gleeok makes all its attacks.
+)
