@@ -2498,7 +2498,7 @@ item(
 **Magma Swim** Volvagia's swim Speed functions only when it is Swimming through magma or molten lava.
 )
 =
-# Dragonfly of Termina ((+Dragonfly of Termina))
+# Terminan Dragonfly ((+Terminan Dragonfly))
 Although dragonflies across most of the world are tiny and relatively docile, those in Termina are infamous for their aggression and freakishly large size. An adult is typically the size of a pony. Inherently carnivorous, these soaring insects hunt down prey as large and robust as hylians and zora thanks to a massive stinger that crackles with electricity. Like smaller dragonflies, these monsters can be found in many diverse environments, but tend towards marshes or other areas of abundant freshwater.
 
 left(
