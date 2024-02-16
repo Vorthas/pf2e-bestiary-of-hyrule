@@ -2506,7 +2506,7 @@ left(
 )
 
 item(
-# Dragonfly of Termina
+# Terminan Dragonfly
 ## Creature 1
 -
 ;N,Medium,Animal
@@ -2526,7 +2526,7 @@ item(
 
 **Melee** :a: stinger +7, **Damage** 1d6+2 piercing plus 1d6 electricity and stun
 
-**Stun** (electricity, incapacitation) A creature stung by a dragonfly of Termina must make a DC 15 Fortitude save.
+**Stun** (electricity, incapacitation) A creature stung by a Terminan dragonfly must make a DC 15 Fortitude save.
 **Critical Success** The creature is unaffected.
 **Success** The creature is stunned 1.
 **Failure** The creature is stunned 2.
