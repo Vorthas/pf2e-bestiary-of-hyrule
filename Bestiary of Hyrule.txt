@@ -2498,43 +2498,6 @@ item(
 **Magma Swim** Volvagia's swim Speed functions only when it is Swimming through magma or molten lava.
 )
 =
-# Terminan Dragonfly ((+Terminan Dragonfly))
-Although dragonflies across most of the world are tiny and relatively docile, those in Termina are infamous for their aggression and freakishly large size. An adult is typically the size of a pony. Inherently carnivorous, these soaring insects hunt down prey as large and robust as hylians and zora thanks to a massive stinger that crackles with electricity. Like smaller dragonflies, these monsters can be found in many diverse environments, but tend towards marshes or other areas of abundant freshwater.
-
-left(
-![Dragonfly of Termina](https://i.imgur.com/BF1aOPo.png)
-)
-
-item(
-# Terminan Dragonfly
-## Creature 1
--
-;N,Medium,Animal
-**Perception** +7; darkvision, wavesense (imprecise) 30 feet
-
-**Skills** Acrobatics +7 (+9 to Maneuver in Flight), Athletics +7, Stealth +7
-
-**Str** +1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +3, **Cha** -2
--
-**AC** 15; **Fort** +4, **Ref** +7, **Will** +2
-
-**HP** 20; **Resistances** electricity 3
--
-**Speed** 20 feet, fly 40 feet
-
-**Melee** :a: mandible +9, **Damage** 1d6+3 piercing
-
-**Melee** :a: stinger +7, **Damage** 1d6+2 piercing plus 1d6 electricity and stun
-
-**Stun** (electricity, incapacitation) A creature stung by a Terminan dragonfly must make a DC 15 Fortitude save.
-**Critical Success** The creature is unaffected.
-**Success** The creature is stunned 1.
-**Failure** The creature is stunned 2.
-**Critical Failure** The creature is stunned 3.
-
-**Swoop** :aa: The dragonfly Flies up to its Speed and makes one melee Strike at any point during that movement.
-)
-=
 # Elementals ((+Elementals))
 
 ## Chilfos ((++Chilfos))
@@ -7090,6 +7053,43 @@ item(
 **Water Walk** The tektite can Stride across the top of water as if it was solid ground.
 )
 =
+# Terminan Dragonfly ((+Terminan Dragonfly))
+Although dragonflies across most of the world are tiny and relatively docile, those in Termina are infamous for their aggression and freakishly large size. An adult is typically the size of a pony. Inherently carnivorous, these soaring insects hunt down prey as large and robust as hylians and zora thanks to a massive stinger that crackles with electricity. Like smaller dragonflies, these monsters can be found in many diverse environments, but tend towards marshes or other areas of abundant freshwater.
+
+left(
+![Terminan Dragonfly](https://i.imgur.com/BF1aOPo.png)
+)
+
+item(
+# Terminan Dragonfly
+## Creature 1
+-
+;N,Medium,Animal
+**Perception** +7; darkvision, wavesense (imprecise) 30 feet
+
+**Skills** Acrobatics +7 (+9 to Maneuver in Flight), Athletics +7, Stealth +7
+
+**Str** +1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +3, **Cha** -2
+-
+**AC** 15; **Fort** +4, **Ref** +7, **Will** +2
+
+**HP** 20; **Resistances** electricity 3
+-
+**Speed** 20 feet, fly 40 feet
+
+**Melee** :a: mandible +9, **Damage** 1d6+3 piercing
+
+**Melee** :a: stinger +7, **Damage** 1d6+2 piercing plus 1d4 electricity and stun
+
+**Stun** (electricity, incapacitation) A creature stung by a Terminan dragonfly must make a DC 15 Fortitude save.
+**Critical Success** The creature is unaffected.
+**Success** The creature is stunned 1.
+**Failure** The creature is stunned 2.
+**Critical Failure** The creature is stunned 3.
+
+**Swoop** :aa: The dragonfly Flies up to its Speed and makes one melee Strike at any point during that movement.
+)
+=
 # Twili ((+Twili))
 The twili are a race of shadow beings who inhabit the Twilight Realm.  Although usually a peaceful tribe, the Twili have been known to be transformed into hideous creatures known as shadow beasts by powerful dark magic to invade Hyrule or other regions of the Light World.
 
@@ -7759,10 +7759,9 @@ head(
 * Dark Keese
 * Dark Lizalfos
 * Dead Hand
-* Dragonfly of Termina
 * Flame Gleeok
-|
 * Frost Pebblit
+|
 * Frost Talus
 * Gerudo Bandit
 * Gerudo Guard
@@ -7773,9 +7772,9 @@ head(
 * Keese Swarm
 * Magtail
 * Manhandla
+* Morpheel
+
 |
-* Pairodd
-* Pyrup
 * Shadow Emissary
 * Shadow Hag
 * Silver Horriblin
@@ -7783,6 +7782,7 @@ head(
 * Skullfish Swarm
 * Snurgle
 * Stalnox
+* Terminan Dragonfly
 * Vengas
 * Vire
 /
@@ -8352,3 +8352,4 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
 * Rupee Wraith (complex, can't be harmed, disappears after 3 rounds, drains rupees of first creature it touches each round)
 * Vacuum Mouth (forcibly moves all creatures towards it each round, if touched teleports creature to entrance a la wallmaster)
 * Waking Water
+
