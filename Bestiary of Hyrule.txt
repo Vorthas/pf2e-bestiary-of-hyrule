@@ -1717,7 +1717,7 @@ item(
 -
 **AC** 30; **Fort** +24, **Ref** +21, **Will** +18
 
-**HP** 215 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitalic 10
+**HP** 215 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitality 10
 
 **Instant Burrow** :r: **Trigger** A creature Escapes from being grabbed by a hand and the dead hand isn't adjacent to the creature.  **Effect** The dead hand immediately Burrows up to 15 feet.
 -
@@ -2496,6 +2496,45 @@ item(
 **Draconic Momentum** Volvagia recharges its Breath Weapon whenever it scores a critical hit with a Strike.
 
 **Magma Swim** Volvagia's swim Speed functions only when it is Swimming through magma or molten lava.
+)
+=
+# Dragonfly ((+Dragonfly))
+
+## Terminan Dragonfly ((++Terminan Dragonfly))
+Although dragonflies across most of the world are tiny and relatively docile, those in Termina are infamous for their aggression and freakishly large size. An adult is typically the size of a pony. Inherently carnivorous, these soaring insects hunt down prey as large and robust as hylians and zora thanks to a massive stinger that crackles with electricity. Like smaller dragonflies, these monsters can be found in many diverse environments, but tend towards marshes or other areas of abundant freshwater.
+
+left(
+![Terminan Dragonfly](https://i.imgur.com/BF1aOPo.png)
+)
+
+item(
+# Terminan Dragonfly
+## Creature 1
+-
+;N,Medium,Animal
+**Perception** +7; darkvision, wavesense (imprecise) 30 feet
+
+**Skills** Acrobatics +7 (+9 to Maneuver in Flight), Athletics +7, Stealth +7
+
+**Str** +1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +3, **Cha** -2
+-
+**AC** 15; **Fort** +4, **Ref** +7, **Will** +2
+
+**HP** 20; **Resistances** electricity 3
+-
+**Speed** 20 feet, fly 40 feet
+
+**Melee** :a: mandible +9, **Damage** 1d6+3 piercing
+
+**Melee** :a: stinger +7, **Damage** 1d6+2 piercing plus 1d4 electricity and stun
+
+**Stun** (electricity, incapacitation) A creature stung by a Terminan dragonfly must make a DC 15 Fortitude save.
+**Critical Success** The creature is unaffected.
+**Success** The creature is stunned 1.
+**Failure** The creature is stunned 2.
+**Critical Failure** The creature is stunned 3.
+
+**Swoop** :aa: The dragonfly Flies up to its Speed and makes one melee Strike at any point during that movement.
 )
 =
 # Elementals ((+Elementals))
@@ -3502,6 +3541,46 @@ item(
 **Ghostly Grasp** A ghini can Grapple corporeal creatures despite being incorporeal. The ghini uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip.
 
 **Life Drain** :a: **Requirement** The ghini has a creature grappled.  **Effect** The ghini makes a tongue Strike against the grappled creature.  The ghini gains temporary Hit Points equal to the void damage dealt.
+)
+=
+# Gibdo ((+Gibdo))
+Gibdo is the term for a variety of mummified undead monsters, though there are gibdo that appear as mummified insectoid monsters rather than humanoids.  These latter gibdo appear to be spawned from and controlled by a larger creature known as the Queen Gibdo.
+
+## Gibdo ((++Gibdo))
+Gibdo are mummies that usually roam graveyards and dungeons. They are highly resistant to physical attacks and relentless in their pursuit. However, they are somewhat vulnerable to fire as fire will burn away at the bandages of a gibdo. Many gibdo have a gaze that can freeze a person in their tracks. A gibdo is also capable of cursing a person, who will then over time become wrapped in magically conjured bandages until they die, coming back as a new gibdo.
+
+right(
+![Gibdo](https://i.imgur.com/mq7giIF.png)
+)
+
+item(
+# Gibdo
+## Creature 6
+-
+;LE,Medium,Gibdo,Mummy,Undead
+**Perception** +16; darkvision
+
+**Languages** Stal; plus any one ancient language
+
+**Skills** Athletics +15, Stealth +11
+
+**Str** +4, **Dex** +0, **Con** +2, **Int** -2, **Wis** +4, **Cha** +2
+-
+**AC** 23; **Fort** +14, **Ref** +10, **Will** +16
+
+**HP** 100 (void healing); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** physical 5; **Weaknesses** fire 5
+-
+**Speed** 20 feet
+
+**Melee** :a: fist +16, **Damage** 2d6+7 bludgeoning plus Gibdo's Curse
+
+**Gibdo's Curse** (curse, divine) A creature killed while afflicted with the curse comes back to life as a new gibdo after 1 hour.  **Saving Throw** DC 22 Will; **Effect** Each day you feel more drained and sluggish.  You become drained 1 and slowed 1, and these values increase by 1 each day to a maximum of drained 4 and slowed 2.  On day 3, you become restrained instead of slowed 3 as magical bandages appear around you.  Each day, you receive a new saving throw against the curse.
+
+**Paralyzing Gaze** :aa:  (emotion, fear, incapacitation, mental, visual) The gibdo gazes at a creature within 60 feet.  The creature must attempt a DC 22 Will save. Regardless of the outcome of their saving throw, the affected creature is then immune to Paralyzing Gaze for 1 hour. The gibdo can't use Paralyzing Gaze again for 1d4 rounds.
+**Critical Success** The creature is unaffected.
+**Success** The creature is frightened 2.
+**Failure** The creature is frightened 2 and paralyzed for 1 round.
+**Critical Failure** The creature is frightened 3 and paralyzed for 1d4 rounds.
 )
 =
 # Gimos ((+Gimos))
@@ -5797,7 +5876,7 @@ item(
 -
 **AC** 20; **Fort** +8, **Ref** +12, **Will** +14
 
-**HP** 40 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+**HP** 40 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitality; double resistance against non-magical)
 -
 **Speed** fly 25 feet
 
@@ -5832,7 +5911,7 @@ item(
 -
 **AC** 23; **Fort** +11, **Ref** +14, **Will** +17
 
-**HP** 65 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+**HP** 65 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitality; double resistance against non-magical)
 -
 **Speed** fly 25 feet
 
@@ -5874,7 +5953,7 @@ item(
 -
 **AC** 26; **Fort** +13, **Ref** +16, **Will** +19
 
-**HP** 90 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 8 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+**HP** 90 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 8 (except force, *ghost touch*, or vitality; double resistance against non-magical)
 
 **Natural Invisibility** An imp poe is naturally invisible, though creatures with a scent sense can detect them.
 
@@ -5920,7 +5999,7 @@ item(
 -
 **AC** 27; **Fort** +17, **Ref** +17, **Will** +21
 
-**HP** 120 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 10 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+**HP** 120 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 10 (except force, *ghost touch*, or vitality; double resistance against non-magical)
 
 **Shadow Blending** :r: (illusion, occult, shadow) **Trigger** A creature attempts a flat check to target the shadow hag while it is concealed or hidden due to dim light or darkness.  **Effect** The shadow hag draws shadows close to create a shroud, increasing the DC of the flat check by 2.
 -
@@ -5971,7 +6050,7 @@ item(
 -
 **AC** 36; **Fort** +23, **Ref** +26, **Will** +29
 
-**HP** 200 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 15 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+**HP** 200 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 15 (except force, *ghost touch*, or vitality; double resistance against non-magical)
 
 **Darkness Invisibility** When in darkness, the grim repoe is invisible, even to darkvision.
 -
@@ -6033,6 +6112,9 @@ right(
 Redead appear in small groups or sometimes alone in dead or ruinous places, such as tombs or dungeons, and make their presence known with periodic, low-pitched moans.
 
 ![Redead](https://i.imgur.com/gkauj3C.png)
+
+# Shriek or Gaze?
+Not all redead have a paralyzing shriek, some have a gaze instead.  If you wish to use a paralyzing gaze instead of shriek, replace the auditory trait with the visual trait and the 30-foot emanation with a 60-foot cone.
 )
 
 item(
@@ -6050,7 +6132,7 @@ item(
 -
 **AC** 16; **Fort** +12, **Ref** +4, **Will** +7
 
-**HP** 75 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitalic 10
+**HP** 75 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitality 10
 
 **Sunlight Vulnerability** (vulnerability) If exposed to direct sunlight, the redead gains another slowed value, increasing by 1 each time the redead ends its turn in sunlight. If the redead loses all its actions this way, it is paralyzed until it is no longer exposed to sunlight.
 -
@@ -6062,7 +6144,7 @@ item(
 
 **Feast** :aa: (manipulate) If the redead is adjacent to a helpless or unconscious creature, a creature it has Grabbed, or a deceased creature that died in the past hour, the redead can feast upon its flesh to heal itself. This restores an amount of Hit Points equal to the redead's level. If the creature is alive, the redead deals damage equal to its fist damage.
 
-**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 60-foot burst must attempt a DC 20 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
+**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 30-foot emanation must attempt a DC 20 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.
 **Failure** The creature is frightened 2 and paralyzed for 1 round.
@@ -6096,7 +6178,7 @@ item(
 -
 **AC** 24; **Fort** +19, **Ref** +11, **Will** +13
 
-**HP** 200 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitalic 10
+**HP** 200 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitality 10
 
 **Sunlight Vulnerability** (vulnerability) If exposed to direct sunlight, the redead gains another slowed value, increasing by 1 each time the redead ends its turn in sunlight. If the redead loses all its actions this way, it is paralyzed until it is no longer exposed to sunlight.
 -
@@ -6108,7 +6190,7 @@ item(
 
 **Feast** :aa: (manipulate) If the redead is adjacent to a helpless or unconscious creature, a creature it has Grabbed, or a deceased creature that died in the past hour, the redead can feast upon its flesh to heal itself. This restores an amount of Hit Points equal to the redead's level. If the creature is alive, the redead deals damage equal to its fist damage.
 
-**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 60-foot burst must attempt a DC 26 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
+**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 30-foot emanation must attempt a DC 26 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.
 **Failure** The creature is frightened 2 and paralyzed for 1 round.
@@ -7053,43 +7135,6 @@ item(
 **Water Walk** The tektite can Stride across the top of water as if it was solid ground.
 )
 =
-# Terminan Dragonfly ((+Terminan Dragonfly))
-Although dragonflies across most of the world are tiny and relatively docile, those in Termina are infamous for their aggression and freakishly large size. An adult is typically the size of a pony. Inherently carnivorous, these soaring insects hunt down prey as large and robust as hylians and zora thanks to a massive stinger that crackles with electricity. Like smaller dragonflies, these monsters can be found in many diverse environments, but tend towards marshes or other areas of abundant freshwater.
-
-left(
-![Terminan Dragonfly](https://i.imgur.com/BF1aOPo.png)
-)
-
-item(
-# Terminan Dragonfly
-## Creature 1
--
-;N,Medium,Animal
-**Perception** +7; darkvision, wavesense (imprecise) 30 feet
-
-**Skills** Acrobatics +7 (+9 to Maneuver in Flight), Athletics +7, Stealth +7
-
-**Str** +1, **Dex** +3, **Con** +1, **Int** -5, **Wis** +3, **Cha** -2
--
-**AC** 15; **Fort** +4, **Ref** +7, **Will** +2
-
-**HP** 20; **Resistances** electricity 3
--
-**Speed** 20 feet, fly 40 feet
-
-**Melee** :a: mandible +9, **Damage** 1d6+3 piercing
-
-**Melee** :a: stinger +7, **Damage** 1d6+2 piercing plus 1d4 electricity and stun
-
-**Stun** (electricity, incapacitation) A creature stung by a Terminan dragonfly must make a DC 15 Fortitude save.
-**Critical Success** The creature is unaffected.
-**Success** The creature is stunned 1.
-**Failure** The creature is stunned 2.
-**Critical Failure** The creature is stunned 3.
-
-**Swoop** :aa: The dragonfly Flies up to its Speed and makes one melee Strike at any point during that movement.
-)
-=
 # Twili ((+Twili))
 The twili are a race of shadow beings who inhabit the Twilight Realm.  Although usually a peaceful tribe, the Twili have been known to be transformed into hideous creatures known as shadow beasts by powerful dark magic to invade Hyrule or other regions of the Light World.
 
@@ -7744,6 +7789,20 @@ head(
 # Change Log ((Change Log))
 -
 )
+#### 24.04
+##### General Changes
+
+##### Monsters Added since 24.02
+/
+* Gibdo
+/
+##### Hazards Added Since 24.02
+
+##### Monsters Modified Since 24.02
+* **ReDead and ReDead Knight**
+  - Corrected **Paralyzing Shriek** ability to be an emanation instead of a burst and weakness to vitality instead of vitalic.
+  - Reduced range of emanation to 30 feet but put in sidebar an option to have a 60-foot cone instead.
+=
 #### 24.02
 ##### General Changes
 * Corrected some more typos.
@@ -8029,6 +8088,11 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * ~~Geozard (level 1)~~
  * Geozard Warrior (level 3)
  * ~~Geozard Chief (level 6)~~
+* Gibdo (undead)
+ * ~~Gibdo (level 6)~~
+ * Hive Gibdo (level 9) - high physical resistance for their level, elemental (fire, electricity, cold) damage triggers state with no resistances for 1 round, light vulnerability
+ * Moth Gibdo (level 9) - Hive Gibdo variant with fly speed and acid spit, light vulnerability
+ * Queen Gibdo (huge, rare) (level 14) - light vulnerability
 * Gleeok (dragon)
  * ~~Flame Gleeok (uncommon) (level 8)~~
  * Frost Gleeok (uncommon) (level 10)
@@ -8051,6 +8115,7 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * ~~Guardian Scout (construct, medium) (level 4)~~
  * Guardian Skywatcher (construct, medium) (level 8)
  * ~~Guardian Stalker (construct, large) (level 12)~~
+|
 * ~~Gyorg (animal, large) (level 4)~~
  * ~~Gargantuan Gyorg (animal, gargantuan, rare) (level 9)~~
  * Malgyorg (animal, large) (level 4) - great white shark statblock with capsize action and with burrow speed instead of swim speed
@@ -8064,7 +8129,6 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * Kargaroc (level 5)
  * Helmaroc (level 9)
  * Helmaroc King (level 13) (rare)
-|
 * Hinox (humanoid, giant)
  * ~~Hinox (level 5)~~
  * Blue Hinox (level 8)
@@ -8097,6 +8161,7 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * ~~Silver Lynel (uncommon) (level 15)~~
  * Blue Lynel Pride (level 16) (troop)
  * ~~Gold Lynel (rare) (level 18)~~
+=
 * ~~Manhandla (plant, mindless)~~
  * ~~Manhandla (uncommon) (level 10)~~
  * ~~Great Manhandla (rare) (level 15)~~
@@ -8107,7 +8172,6 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * Molgera Larva (level 9) (uncommon)
  * Molgera (level 14) (rare)
  * Twinmold (level 15) (rare)
-=
 * Octorok (animal)
  * ~~Octorok (level 0)~~
  * Sky Octorok (level 3)
@@ -8128,9 +8192,7 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
 * Redead (undead, zombie)
  * ~~Redead (level 3)~~
  * ~~Redead Knight (level 8)~~
- * Gibdo (level 5) - reflavor mummy
- * Hive Gibdo (level 9) - elemental damage triggers state with weakness / no resistances
- * Moth Gibdo (level 9) - Hive Gibdo with fly speed
+|
 * Stal (undead, skeleton)
  * Stal Skull (level -1)
  * ~~Stalchild (level 1)~~
@@ -8149,9 +8211,8 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * Stalnox (uncommon) (level 9)
  * ~~Stalmaster (uncommon or rare) (level 10)~~
  * Stalchampion (rare) (level 12)
- * Stallord (rare) (level 15)
-     * Fossil Stallord (rare) (level 20)
-|
+ * Stallord (rare) (level 13)
+     * Fossil Stallord (rare) (level 18)
 * Talus (elemental)
  * ~~Stone Pebblit (earth, elemental, small) (level 2)~~
  * ~~Stone Talus (earth, elemental) (level 5)~~
@@ -8260,10 +8321,9 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
 * ~~Pengator, Big (beast) (level 5)~~
 * ~~Phantom Rider (spirit, undead, incorporeal) (level 8)~~
 * Pikit (plant) (level 5) - can steal items with tongue
-* Plasmarine (animal, electricity, uncommon) (level 9) - electric aura, tentacles do electric damage, can Grab, shoot balls of electricity
+* Plasmarine (animal, aquatic, electricity, uncommon) (level 9) - electric aura, tentacles do electric damage, can Grab, shoot balls of electricity
 * Pumpkin Head (undead, incorporeal, rare) (level 5) - spits three fireballs, extra vulnerable when spirit is forced out of pumpkin, Athletics check to move pumpkin to reveal spirit
 * ~~Pyrup (animal) (level 3)~~
-* Queen Gibdo (beast, huge, rare) (level 12) - light vulnerability
 * Ramrock (construct, large, rare) (level 16) - three attack modes plus defensive mode it can swap between
 * Reapling (undead, incorporeal) (level 9)
 * Rocktite (uncommon, animal, huge) (level 8)
