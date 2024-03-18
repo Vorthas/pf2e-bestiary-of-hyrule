@@ -558,6 +558,46 @@ item (
 **Ranged** :a: slingshot +9 (propulsive, range increment 60 feet), **Damage** 1d4+2 bludgeoning
 )
 
+## Bokoblin Pirate ((+++Bokoblin Pirate))
+The bokoblins of the Great Sea act much the same as they do in Hyrule proper, only instead of banditry they resort to the seafaring equivalent of piracy.
+
+right(
+# Bokoblins of the High Seas
+Bokoblins tend to band together in small pirate crews, usually under a more powerful blin like a moblin and raid nearby vessels.
+
+![Bokoblin Pirate](https://i.imgur.com/mVERY2e.png)
+)
+
+item (
+# Bokoblin Pirate
+## Creature 1
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +7; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +7, Athletics +5, Intimidation +4, Survival +6
+
+**Str** +2, **Dex** +4, **Con** +1, **Int** -1, **Wis** +3, **Cha** +0
+
+**Items** machete, slingshot (20 sling bullets)
+-
+**AC** 15; **Fort** +7, **Ref** +10, **Will** +4
+
+**HP** 19
+
+**Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead.  In addition, anytime they gain the frightened condition, reduce its value by 1.
+-
+**Speed** 25 feet
+
+**Melee** :a: machete +9 (deadly d8, sweep), **Damage** 1d6+2 slashing
+
+**Ranged** :a: slingshot +9 (propulsive, range increment 60 feet), **Damage** 1d4+2 bludgeoning
+
+**Boarding Action** :aa:  The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit.
+)
+=
 ## Technoblins ((+++Technoblin))
 Bokoblins tend to use found scraps of technology in fights whenever they can. There are some that have found more useful bits of technology to fight with. These technoblins, as they are called, use swords that are electrified as well as more advanced armor to protect themselves.
 
@@ -3773,6 +3813,28 @@ item(
 
 **Pack Attack** The gohma larva's Strikes deal 1d4 extra ddamage to creatures within reach of at least two of the gohma larva's allies.
 )
+/
+item(
+# Gohma Larvae Swarm ((++Gohma Larvae Swarm))
+## Creature 3
+-
+;CE,Large,Animal,Gohma,Swarm
+**Perception** +10; darkvision
+
+**Skills** Athletics +8
+
+**Str** +2, **Dex** +4, **Con** +3, **Int** -4, **Wis** +1, **Cha** -1
+-
+**AC** 18; **Fort** +6, **Ref** +12, **Will** +6
+
+**HP** 31; **Immunities** precision, swarm mind; **Resistances** piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
+-
+**Speed** 30 feet, climb 25 feet
+
+**Swarming Bites** :a: Each enemy in the swarm's space takes 2d8 piercing damage (DC 18 basic Reflex save) and are subject to Gohma Venom.
+
+**Gohma Venom** (poison) **Saving Throw** Fortitude DC 18; **Maximum Duration** 3 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d4 poison damage, and clumsy 1 (1 round)
+)
 =
 ## Gohma ((++Gohma))
 Bearing physiological similarities to both a spider and a crab, the colossal predatory monster known as gohma spans almost 10 feet across. It bears four or six functional legs capable of climbing almost any surface. A gohma's entire body is plated in chitin more dense than iron that protects it from virtually all forms of conventional attack, save for its single imposing eye.
@@ -6114,7 +6176,7 @@ Redead appear in small groups or sometimes alone in dead or ruinous places, such
 ![Redead](https://i.imgur.com/gkauj3C.png)
 
 # Shriek or Gaze?
-Not all redead have a paralyzing shriek, some have a gaze instead.  If you wish to use a paralyzing gaze instead of shriek, replace the auditory trait with the visual trait and the 30-foot emanation with a 60-foot cone.
+Not all redead have a paralyzing shriek, some have a gaze instead.  If you wish to use a paralyzing gaze instead of shriek, replace the auditory trait with the visual trait and the 15-foot emanation with a 30-foot cone.
 )
 
 item(
@@ -6144,7 +6206,7 @@ item(
 
 **Feast** :aa: (manipulate) If the redead is adjacent to a helpless or unconscious creature, a creature it has Grabbed, or a deceased creature that died in the past hour, the redead can feast upon its flesh to heal itself. This restores an amount of Hit Points equal to the redead's level. If the creature is alive, the redead deals damage equal to its fist damage.
 
-**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 30-foot emanation must attempt a DC 20 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
+**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 15-foot emanation must attempt a DC 20 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.
 **Failure** The creature is frightened 2 and paralyzed for 1 round.
@@ -6190,7 +6252,7 @@ item(
 
 **Feast** :aa: (manipulate) If the redead is adjacent to a helpless or unconscious creature, a creature it has Grabbed, or a deceased creature that died in the past hour, the redead can feast upon its flesh to heal itself. This restores an amount of Hit Points equal to the redead's level. If the creature is alive, the redead deals damage equal to its fist damage.
 
-**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 30-foot emanation must attempt a DC 26 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
+**Paralyzing Shriek** :aa: (auditory, emotion, fear, incapacitation, mental) The redead unleashes a horrifying shriek.  Each creature within a 15-foot emanation must attempt a DC 26 Will save.  Regardless of the outcome of their saving throw, affected creatures are then immune to Paralyzing Shriek for 1 hour.  The redead can't use Paralyzing Shriek again for 1d4 rounds.
 **Critical Success** The creature is unaffected.
 **Success** The creature is frightened 2.
 **Failure** The creature is frightened 2 and paralyzed for 1 round.
@@ -6245,11 +6307,11 @@ item(
 
 **Sneak Attack** Sooga deals an extra 3d6 precision damage to flat-footed creatures.
 
-**Surprise Attack** On the first round of combat, if Sooga rolls Deception or Stealth for initiative, creatures that haven't acted are flat-footed to him.
+**Surprise Attack** On the first round of combat, if Sooga rolls Deception or Stealth for initiative, creatures that haven't acted are off-guard to him.
 
 **Unseeing Eye** :a: Sooga enters a brief state of intense concentration, able to sense and react to an enemy's slightest movements.  Until the start of his next turn, Sooga can use Reactive Strike with a melee weapon when a creature within his reach uses an action with the attack trait, in addition to manipulate and move actions.
 
-**Yiga Assault** :aa: (occult, teleportation) Sooga moves through space quickly, teleporting up to 35 feet to a square within range of a creature and then makes a Strike against that creature.  The creature is flat-footed to this Strike.
+**Yiga Assault** :aa: (occult, teleportation) Sooga moves through space quickly, teleporting up to 35 feet to a square within range of a creature and then makes a Strike against that creature.  The creature is off-guard to this Strike.
 )
 =
 ## Yiga Blademaster ((+++Yiga Blademaster))
@@ -6331,9 +6393,9 @@ item(
 
 **Occult Innate Spells** DC 24; **3rd** *illusory disguise* (at will), **2nd** *invisibility*
 
-**Dread Striker** Frightened creatures are flat-footed to the yiga footsoldier.
+**Dread Striker** Frightened creatures are off-guard to the yiga footsoldier.
 
-**Sneak Attack** The yiga footsoldier deals an extra 2d6 precision damage to flat-footed creatures.
+**Sneak Attack** The yiga footsoldier deals an extra 2d6 precision damage to off-guard creatures.
 
 **Yiga Assault** :aa: (occult, teleportation) The yiga footsoldier moves through space quickly, teleporting up to 25 feet to a square within range of a creature and then makes a melee Strike against that creature.  The creature is flat-footed to this Strike.
 )
@@ -6388,7 +6450,7 @@ item(
 -
 **Speed** swim 25 feet
 
-**Feeding Frenzy** :a: Each enemy in the swarm's space takes 2d6 piercing damage (DC 20 basic Reflex save). A creature that fails the save also takes 1d6 persistent bleed damage and takes a –2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the piranhas' frenzy increases in intensity when they smell blood.
+**Feeding Frenzy** :a: Each enemy in the swarm's space takes 2d6 piercing damage (DC 20 basic Reflex save). A creature that fails the save also takes 1d6 persistent bleed damage and takes a –2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the skullfishs' frenzy increases in intensity when they smell blood.
 )
 =
 # Skulltula ((+Skulltula))
@@ -7791,17 +7853,20 @@ head(
 )
 #### 24.04
 ##### General Changes
+* Minor typos and Remaster changes that were missed in earlier pass throughs.
 
 ##### Monsters Added since 24.02
 /
+* Bokoblin Pirate
 * Gibdo
+* Gohma Larvae Swarm
 /
 ##### Hazards Added Since 24.02
 
 ##### Monsters Modified Since 24.02
 * **ReDead and ReDead Knight**
   - Corrected **Paralyzing Shriek** ability to be an emanation instead of a burst and weakness to vitality instead of vitalic.
-  - Reduced range of emanation to 30 feet but put in sidebar an option to have a 60-foot cone instead.
+  - Reduced range of emanation to 15 feet but put in sidebar an option to have a 30-foot cone instead.
 =
 #### 24.02
 ##### General Changes
@@ -7832,7 +7897,6 @@ head(
 * Magtail
 * Manhandla
 * Morpheel
-
 |
 * Shadow Emissary
 * Shadow Hag
@@ -8104,7 +8168,7 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
  * ~~Gleeokenspiel (rare, electricity) (level 13)~~
 * Gohma (animal)
  * ~~Gohma Larva (level 0)~~
-     * Gohma Larva Swarm (level 2)
+     * ~~Gohma Larva Swarm (level 3)~~
  * ~~Gohma (level 5)~~
  * Gohma Queen (level 7) (uncommon)
  * Marbled Gohma (level 9) (uncommon, earth) - spews out explosive rocks
