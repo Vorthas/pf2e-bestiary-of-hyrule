@@ -7484,6 +7484,39 @@ item(
 **Elemental Affinity** When the wizzrobe Casts a Spell with the Electricity trait, it adds that spell's level to the damage dealt as a status bonus.
 )
 =
+## Terminan Wizzrobe ((++Terminan Wizzrobe))
+The wizzrobes of Termina are cruel spellcasters that resemble goblin-like old men who wear simple cloth and carry a staff.  They have mastery over both the fire and ice elements and can create illusory duplicates of themselves in a fight.
+
+right(
+![Terminan Wizzrobe](https://i.imgur.com/rkyRz7Z.png)
+)
+
+item(
+# Terminan Wizzrobe
+## Creature 6
+-
+;NE,Medium,Humanoid,Wizzrobe
+**Perception** +9; darkvision
+
+**Languages** Blin, Hylian
+
+**Skills** Arcana +15, Intimidation +11, Occultism +15, Society +11
+
+**Str** +2, **Dex** +1, **Con** +2, **Int** +7, **Wis** +4, **Cha** +2
+-
+**AC** 23 **Fort** +11, **Ref** +14, **Will** +17
+
+**HP** 70
+-
+**Speed** 25 feet
+
+**Melee** :a: staff +12 (two-hand d8), **Damage** 2d4+7 bludgeoning
+
+**Arcane Prepared Spells** DC 27, attack +16; **3rd** *cloud dragon's cloak*, *fireball* (x2), *levitate*; **2nd** *blazing bolt* (x2), *mirror image*, *mist*; **1st** *breathe fire*, *chilling spray* (x2), *sure strike*; **cantrips (3rd)** *frostbite*, *ignition*, *warp step*
+
+**Energy Ablation** :a: (spellshape) As the wizzrobe directs destructive energy at a foe, they can divert some of its power into a protective barrier that shields them from harm. If the wizzzrobe's next action is to Cast a Spell that deals at least one type of energy damage (acid, cold, electricity, fire, force, sonic, vitality, or void), the wizzrobe gains resistance to an energy damage type of their choice equal to the spell’s rank. The resistance lasts until the end of the wizzrobe's next turn. The wizzrobe gets the resistance regardless of whether or not the spell dealt damage.
+)
+=
 # Wolfos ((+Wolfos))
 
 Bipedal canines with overt wolf-like features, wolfos are feared by those who traverse forests and swamps. Although carnivorous, wolfos are known to kill any and all creatures found in its territory for little reason other than the pleasure of the kill. Despite their bestial appearance, wolfos hunt with warrior-like skill and cunning.
@@ -7860,6 +7893,7 @@ head(
 * Bokoblin Pirate
 * Gibdo
 * Gohma Larvae Swarm
+* Terminan Wizzrobe
 /
 ##### Hazards Added Since 24.02
 
@@ -8295,7 +8329,7 @@ This section holds a list of all monsters I plan to make, with the ones crossed 
      * Thunder Wizzrobe (level 13)
  * Purple Wizzrobe (level 6)
     * Violet Wizzrobe (level 10)
- * Terminan Wizzrobe (level 8) - Mirror Image as main spell
+ * ~~Terminan Wizzrobe (level 6)~~
 * ~~Wolfos (beast) (level 3)~~
  * ~~White Wolfos (level 7)~~
 * Zol (ooze) - can split into smaller forms called Gels
