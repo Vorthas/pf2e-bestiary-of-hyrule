@@ -7190,6 +7190,8 @@ item(
 
 **Melee** :a: slam +6, **Damage** 1d6+2 bludgeoning
 
+**Melee** :a: leg +6 (agile), **Damage** 1d4+1 piercing
+
 **Leaping Charge** :a: The tektite Leaps up to 10 feet.  It then makes a Strike with its slam, gaining a +1 circumstance bonus to its attack roll.
 
 **Pack Attack** The tektite deals 1d4 extra damage to any creature that's within reach of at least two of the tektite's allies.
@@ -7901,6 +7903,8 @@ head(
 * **ReDead and ReDead Knight**
   - Corrected **Paralyzing Shriek** ability to be an emanation instead of a burst and weakness to vitality instead of vitalic.
   - Reduced range of emanation to 15 feet but put in sidebar an option to have a 30-foot cone instead.
+* **Tektite**
+  - Added leg Strike for an agile option with less damage than slam, to match Adventures in Hyrule tektite animal companion
 =
 #### 24.02
 ##### General Changes
