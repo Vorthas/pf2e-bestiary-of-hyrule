@@ -3159,6 +3159,39 @@ item(
 **Pack Attack** The frox's Strikes deal 1d4 extra damage to creatures within reach of at least two of the frox's allies.
 )
 =
+## Frox ((++Frox))
+Froxes are gigantic, frog-like monsters with large tusks that dwell in the Depths. They attack with powerful leaps and by sucking everything in front of them into their gaping maws. They are known as the Scourge of the Depths and are considered one of the strongest monsters in the Depths.
+
+right(
+![Frox](https://i.imgur.com/Gv8LpOz.png)
+)
+
+item(
+# Frox
+## Creature 7
+-
+;N,Gargantuan,Animal
+**Perception** +15; darkvision
+
+**Skills** Athletics +17, Survival +15
+
+**Str** +7, **Dex** +1, **Con** +5, **Int** -4, **Wis** +3, **Cha** +1
+-
+**AC** 24; **Fort** +18, **Ref** +12, **Will** +14
+
+**HP** 150
+-
+**Speed** 35 feet
+
+**Melee** :a: jaws +17 (reach 10 feet), **Damage** 2d8+9 piercing plus Improved Grab
+
+**Melee** :a: slam +17 (reach 10 feet), **Damage** 2d10+9 bludgeoning
+
+**Leap Attack** :aa: The frox Strides up to twice its Speed, during which it attempts a High Jump or a Long Jump. At any point during its movement, the frox can make a melee Strike against an enemy in its reach. The frox then can't use Leap Attack for 1 round.
+
+**Swallow Whole** :a: (attack) Huge, 2d10+7 acid, Rupture 14
+)
+=
 # Furnix ((+Furnix))
 Furnixes are red, medium-sized birds that feature long, curled tails.  They have some level of control over fire and are able to shoot small bolts of fire at creatures that come near them.
 
@@ -7893,6 +7926,7 @@ head(
 ##### Monsters Added since 24.02
 /
 * Bokoblin Pirate
+* Frox
 * Gibdo
 * Gohma Larvae Swarm
 * Terminan Wizzrobe
