@@ -3158,7 +3158,7 @@ item(
 
 **Pack Attack** The frox's Strikes deal 1d4 extra damage to creatures within reach of at least two of the frox's allies.
 )
-=
+
 ## Frox ((++Frox))
 Froxes are gigantic, frog-like monsters with large tusks that dwell in the Depths. They attack with powerful leaps and by sucking everything in front of them into their gaping maws. They are known as the Scourge of the Depths and are considered one of the strongest monsters in the Depths.
 
@@ -7620,11 +7620,11 @@ item(
 
 **Melee** :a: claw +18 (agile), **Damage** 2d6+6 slashing
 
-**Breath Weapon** :aa: (cold, primal) The white wolfos breathes a cloud of frost in a 15-foot cone that deals 6d8 cold damage (DC 25 basic Reflex save). The white wolfos can’t use Breath Weapon again for 1d4 rounds.
-
 **Reckless Assault** :aa: The white wolfos unleashes a flurry of claws, making three claw Strikes, each at a -2 penalty, at a target.  The multiple attack penalty does not increase until after all attacks are resolved.  After using Reckless Assault, the white wolfos cannot use Perfect Parry for 1 round and is stunned 2.
 
 **Rend** :a: claw
+
+**Winter Breath** :aa: (cold, primal) The white wolfos breathes a cloud of frost in a 15-foot cone that deals 6d8 cold damage (DC 25 basic Reflex save). The white wolfos can’t use Winter Breath again for 1d4 rounds.
 )
 =
 # Wosu ((+Wosu))
@@ -7939,6 +7939,8 @@ head(
   - Reduced range of emanation to 15 feet but put in sidebar an option to have a 30-foot cone instead.
 * **Tektite**
   - Added leg Strike for an agile option with less damage than slam, to match Adventures in Hyrule tektite animal companion
+* **White Wolfos**
+  - Renamed **Breath Weapon** to **Winter Breath** to match Witchwarg in Monster core, which it is loosely based on
 =
 #### 24.02
 ##### General Changes
