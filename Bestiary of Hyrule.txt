@@ -5798,7 +5798,7 @@ item(
 
 **HP** 65
 
-**Safety Teleport** :r: **Trigger** A creature moves within 10 feet of the pairodd.  **Effect** The pairodd teleports to an unoccupied space within 60 feet, as far away from the triggering creature as possible.
+**Safety Teleport** :r: **Trigger** A creature moves within 10 feet of the pairodd.  **Effect** The pairodd teleports to an unoccupied space within 30 feet and line of sight, as far away from the triggering creature as possible.
 -
 **Speed** 25 feet
 
@@ -7934,6 +7934,8 @@ head(
 ##### Hazards Added Since 24.02
 
 ##### Monsters Modified Since 24.02
+* **Pairodd**
+  - Limited **Safety Teleport** reaction to a location within 30 feet and line of sight from 60 feet.
 * **ReDead and ReDead Knight**
   - Corrected **Paralyzing Shriek** ability to be an emanation instead of a burst and weakness to vitality instead of vitalic.
   - Reduced range of emanation to 15 feet but put in sidebar an option to have a 30-foot cone instead.
