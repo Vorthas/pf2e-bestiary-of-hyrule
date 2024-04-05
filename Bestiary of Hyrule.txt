@@ -38,9 +38,6 @@ A player can use the Recall Knowledge action to try and identify a Vulnerable Sp
 ### Alignment Post-Remaster?
 Alignment was left in for each creature despite alignment being removed in the Remaster for Pathfinder 2e for legacy reasons.  There are GMs and players who prefer to play with the old alignment system and so alignment on creatures is preserved for people who want to use that system.  If you want to be fully Remaster compatible, simply ignore the alignment trait in all statblocks.
 
-### Alignment Post-Remaster?
-Alignment was left in for each creature despite alignment being removed in the Remaster for Pathfinder 2e for legacy reasons.  There are GMs and players who prefer to play with the old alignment system and so alignment on creatures is preserved for people who want to use that system.  If you want to be fully Remaster compatible, simply ignore the alignment trait in all statblocks.
-
 ### Other Bestiaries
 Some monsters have been removed and placed into other bestiaries.  To find these statblocks, please see the following bestiaries.
 
