@@ -1,0 +1,730 @@
+title (
+The Dead of Hyrule
+)
+head (
+# The Dead of Hyrule ((The Dead of Hyrule))
+-
+)
+pagenumbers
+
+The world of the Legend of Zelda is home to many fascinating and unique creatures, many of which are monsters that stand in the way of heroes.  Using these creatures in a Pathfinder 2e campaign that is not a Legend of Zelda campaign may cause some dissonance, but with some flavor tweaks they could be used in a non-Zelda campaign without issue.  The same is true for using base Pathfinder 2e monsters in a Legend of Zelda campaign.
+
+If a creature in this bestiary appears in multiple games with different traits, then the resulting creature will be an amalgamation of all the official depictions, or multiple variants of the creature will be listed.
+/
+### Differently Leveled Creatures
+If you want to use a creature found in this bestiary, but of a different level, you can use the **Building Creatures** rules, found starting on page 56 in the *Gamemastery Guide* to adjust the statistics to match the new level.
+
+All creature levels are set by a somewhat arbitrary metric based on approximately when a monster is encountered in a Zelda game, with some exceptions.  However, as the Legend of Zelda series is not an RPG (it's an action-adventure series), there are no official levels attached to monsters that could be used to approximate a proper level scaling.
+
+### Undead Companion
+*The Dead of Hyrule* document is meant to be a companion to the *Hyrule Monster Core* general bestiary, intended to help reduce the sheer size of that document.  This document specializes in creatures that are undead.
+
+### Non-Canon Abilities
+While most statblocks will try to adhere as much to game canon as possible, due to the nature of a tabletop game versus a video game, some liberty will be taken with statblocks.  New abilities may be added that make sense for a creature based on its physiology or to make it more capable to fight against a party of Heroes rather than a single Hero.
+
+note (
+# Key Terms.
+You'll see the following key terms and traits throughout this document.
+    **Vulnerability:** The vulnerability trait is used to indicate a specific vulnerability of a creature that may be triggered by targeting a specific location on the creature or by using a specific item or weapon.
+)
+|
+
+### Vulnerable Spots
+Some creatures have a vulnerable spot, such as an eye, that can be targeted for extra effects.  This is to simulate the Legend of Zelda boss weak point system.  Vulnerable spots will have the ***vulnerability*** trait on them.  Typically these will be called out in the statblock and require a -2 circumstance penalty to aim for the weak spot in return for extra damage or bypassing resistances and/or immunities.
+
+A player can use the Recall Knowledge action to try and identify a Vulnerable Spot on a creature that has one. The GM can provide the player with the Vulnerable Spot in lieu of other best known attributes of the creature.
+
+### Alignment Post-Remaster?
+Alignment was left in for each creature despite alignment being removed in the Remaster for Pathfinder 2e for legacy reasons.  There are GMs and players who prefer to play with the old alignment system and so alignment on creatures is preserved for people who want to use that system.  If you want to be fully Remaster compatible, simply ignore the alignment trait in all statblocks.
+
+### Other Bestiaries
+**The Dead of Hyrule** is meant to be a bestiary for undead creatures.  For other statblocks, please see the following bestiaries.
+
+* Hyrulean Monster Core
+* The Book of Blins
+* Hyrulean Reptilians
+=
+# Bubble ((+Bubble))
+
+The bubble is a flying skull with blue flames and the deadly ability to jinx creatures who are unfortunate enough to be caught up in the flames. Those jinxed by a bubble find themselves afflicted with a curse that prevents them from fighting back, though wise adventurers always bring a shield to help extinguish the occult flames.
+
+right(
+# Skull Camouflage
+Bubbles disguise themselves as the skulls of corpses in the dungeons that they inhabit, coming to life when a creature comes near.
+
+![Bubble](https://i.imgur.com/pudngcG.png)
+)
+
+item(
+# Bubble
+## Creature 7
+-
+;NE,Small,Spirit,Undead
+**Perception** +15; darkvision
+
+**Skills** Acrobatics +17 (+19 to Maneuver in Flight)
+
+**Str** -5, **Dex** +4, **Con** +4, **Int** -1, **Wis** +2, **Cha** +2
+-
+**AC** 22; **Fort** +12, **Ref** +18, **Will** +15
+
+**HP** 84; **Immunities** bleed, death effects, disease, paralyze, physical (except magical), poison, sleep; **Resistances** magical physical 5
+
+**Blue Flame Aura** (aura, curse, occult) A bubble exudes a 5-foot aura of blue flames.  Any creature that begins its turn in the aura or is attacked by the bubble must make a DC 22 Wisdom saving throw.
+**Critical Success** The creature is unaffected and is temporarily immune to the blue flame aura for 1 hour.
+**Success** The creature is unaffected and is temporarily immune to the blue flame aura for 1 minute.
+**Failure** The creature cannot use an action with the attack trait until the end of its next turn.
+**Critical Failure** The creature cannot use an action with the attack trait for 3 rounds.
+
+**Extinguish Blue Flames** (vulnerability) A creature with a shield may use a reaction to Shield Block the bubble's Strikes.  If it does so, the bubble's Blue Flame Aura is deactivated for 2 rounds.  In addition, strong winds, such as from *gust of wind* can also extinguish the flames for each round the bubble remains in the wind.
+-
+**Speed** 5 feet, fly 25 feet
+
+**Melee** :a: slam +16, **Damage** 2d6+6 bludgeoning plus Blue Flame Aura
+)
+=
+# Dead Hand ((+Dead Hand))
+A dead hand has a zombie-like head with a large jaw. Its blood is a green color, and red blotches, thought to be bloodstains, cover its body. Multiple seemingly disembodied hands circle the chamber in which the dead hand resides. The creature uses these hands to snag prey, at which point its main body emerges from the ground to consume the captured meal.
+
+right(
+# Lair of Hands
+A dead hand's lair typically is an empty room with several of its hands poking up from beneath the ground, with the main body remaining underground and out of sight until prey has been captured.
+
+![Dead Hand](https://i.imgur.com/vBGFxAL.png)
+)
+
+item(
+# Dead Hand
+## Creature 11
+-
+;Uncommon,NE,Medium,Undead
+**Perception** +21; darkvision
+
+**Skills** Athletics +24, Intimidation +21
+
+**Str** +7, **Dex** +4, **Con** +6, **Int** -3, **Wis** +2, **Cha** -2
+-
+**AC** 30; **Fort** +24, **Ref** +21, **Will** +18
+
+**HP** 215 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Weaknesses** vitality 10
+
+**Instant Burrow** :r: **Trigger** A creature Escapes from being grabbed by a hand and the dead hand isn't adjacent to the creature.  **Effect** The dead hand immediately Burrows up to 15 feet.
+-
+**Speed** 25 feet, burrow 25 feet
+
+**Melee** :a: jaws +24, **Damage** 2d10+15 piercing
+
+**Forceful Unburrow** :a: **Requirement** The dead hand is Burrowing. **Effect** The dead hand comes out of the ground with enough force to send earthen matter flying.  Creatures in the dead hand's 10-foot emanation take 4d6 bludgeoning damage (DC 27 basic Reflex save).
+
+**Summon Hands** :aaa: The dead hand summons dozens of hands in a 30-foot burst within 50 feet that lasts for 1 minute.  Creatures in the area must make a DC 30 Reflex saving throw, becoming grabbed by a hand and taking 8d6 bludgeoning damage on a failure (restrained and double damage on a critical failure).  Whenever a creature ends its turn in the area, the hands attempt to grab that creature with the dead hand's Athletics skill if they haven't already, and they deal 3d6 bludgeoning damage to any creature already grabbed.  The dead hand can't summon the hands again for 1d6 rounds.
+)
+=
+=
+# Garo ((+Garo))
+A group of ninjas who had opposed the Kingdom of Ikana, garo now roam the land as spirits possessing the robes they wore in life, eternally committed to their mission of spying upon the kingdom and assassinating their targets.
+
+## Garo Ninja ((++Garo Ninja))
+right(
+# Imparted Wisdom
+Garo tradition dictates that when a garo dies, they impart a few words of wisdom before destroying their bodies so completely to not leave behind a corpse.
+
+![Garo Ninja](https://i.imgur.com/j1o1WlN.png)
+)
+
+item(
+# Garo Ninja
+## Creature 8
+-
+;LN,Medium,Garo,Spirit,Undead
+**Perception** +16; darkvision
+
+**Languages** Ikanan, Garo, Stal
+
+**Skills** Acrobatics +18, Athletics +16, Deception +16, Intimidation +16, Stealth +18
+
+**Str** +4, **Dex** +6, **Con** +4, **Int** +2, **Wis** +2, **Cha** +4
+
+**Items** *+1 striking* scimitar (x2)
+-
+**AC** 27; **Fort** +16, **Ref** +19, **Will** +13
+
+**HP** 120 (death flame); **Immunities** death effects, disease, paralyze, poison, sleep; **Resistances** bludgeoning 8, fire 8
+
+**Death Flame** (fire) When the garo ninja dies, their body combusts in a flash of green flame. All creatures in a 5-foot burst take 5d6 fire damage (DC 26 basic Reflex save). The garo ninja’s gear and treasure are unaffected by the flames and are left in a pile where they died.
+
+**Frightful Presence** (aura, emotion, fear, mental) 15 feet, DC 24
+-
+**Speed** 30 feet
+
+**Melee** :a: scimitar +20 (forceful, sweep), **Damage** 2d6+8 slashing
+
+**Leap Attack** :aa: The garo ninja Strides up to twice its Speed, during which it attempts a High Jump or a Long Jump. At any point during its movement, the garo ninja can make a melee Strike against an enemy in its reach. The garo then can't use Leap Attack for 1 round.
+
+**Ring of Fire** :aa: (arcane, fire) The garo ninja summons a ring of fire as *wall of flame* cast as a 4th-level spell, except it only appears in a ring shape.  The garo ninja is immune to fire damage from walls of flame created by itself or other garo.
+
+**Single Combat** If a creature is caught within the garo ninja's ring of fire, it is off-guard to the ninja as long as no other creature other than the garo ninja and target are within the ring of fire.
+
+**Thirst for Blood** The garo ninja deals an additional 2d6 precision damage to off-guard or frightened creatures (3d6 precision damage to creatures that are both off-guard and frightened).
+)
+=
+right(
+![Garo Master](https://i.imgur.com/np02d65.png)
+)
+
+item(
+# Garo Master ((++Garo Master))
+## Creature 12
+-
+;LN,Medium,Garo,Spirit,Undead
+**Perception** +22; darkvision
+
+**Languages** Ikanan, Garo, Stal
+
+**Skills** Acrobatics +25, Athletics +22, Deception +22, Intimidation +22, Stealth +25
+
+**Str** +5, **Dex** +7, **Con** +4, **Int** +3, **Wis** +3, **Cha** +5
+
+**Items** *+1 striking flaming* scimitar (x2)
+-
+**AC** 33; **Fort** +16, **Ref** +19, **Will** +13
+
+**HP** 210 (death by bomb); **Immunities** death effects, disease, paralyze, poison, sleep; **Resistances** bludgeoning 12, fire 12
+
+**Death by Bomb** (fire) As the garo master dies, they ignite a bomb to blow themselves up.  All creatures in a 10-foot burst take 6d6 fire damage (DC 32 basic Reflex save). The garo master’s gear and treasure are unaffected by the bomb and are left in a pile where they died.
+
+**Frightful Presence** (aura, emotion, fear, mental) 15 feet, DC 30
+-
+**Speed** 30 feet
+
+**Melee** :a: scimitar +26 (fire, forceful, sweep), **Damage** 2d6+10 slashing plus 1d6 fire
+
+**Double Slice** :aa: The garo master makes two Strikes against the same target, one with each of their scimitars. The garo master combines the damage of any attacks that hit and applies precision damage, resistances, and weaknesses only once. Both attacks count toward the garo master’s multiple attack penalty, but the penalty increases only after both attacks.
+
+**Ring of Fire** :aa: (arcane, fire) The garo master summons a ring of fire as *wall of flame* cast as a 6th-level spell, except it only appears in a ring shape.  The garo master is immune to fire damage from walls of flame created by itself or other garo.
+
+**Single Combat** If a creature is caught within the garo master's ring of fire, it is off-guard to the master as long as no other creature other than the garo master and target are within the ring of fire.
+
+**Thirst for Blood** The garo master deals an additional 3d6 precision damage to off-guard or frightened creatures (4d6 precision damage to creatures that are both off-guard and frightened).
+
+**Vault** :a: (move) The garo master jumps up to 20 feet in any direction, including vertically. This movement doesn't trigger reactions based on movement.
+)
+=
+## Ghini ((+Ghini))
+Ghini are one-eyed spirits that are normally found in graveyards, often depicted with their tongues lolling out of their mouths. They use this tongue to absorb the life force of people who wander into graveyards and disturb their resting places. A ghini has a ghostly tail it can extend to wrap around a person to immobilize them before licking their life force away.
+
+The giant ghini is a larger version of the standard ghini that has smaller ghinis orbiting it.
+
+item(
+# Giant Ghini ((++Giant Ghini))
+## Creature 6
+-
+;Uncommon,NE,Large,Incorporeal,Spirit,Undead
+**Perception** +14; darkvision
+
+**Languages** Hylian, Stal
+
+**Skills** Athletics +15, Intimidation +12
+
+**Str** -5, **Dex** +3, **Con** +1, **Int** +0, **Wis** +2, **Cha** +2
+-
+**AC** 24; **Fort** +11, **Ref** +17, **Will** +14
+
+**HP** 60 (void healing); **Immunities** death effects, disease, paralyzed, poison, precision, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitalic; double resistance vs. non-magical)
+
+**Mini-Ghinis** (aura) The giant ghini has smaller ghinis floating around it covering a 5-foot emanation.  Creatures that enter or begin their turn in the aura must make a DC 21 Reflex save, becoming slowed 1 as long as they remain in the aura, and for 1 round once they exit the aura, on a failure as the mini-ghinis cover the creature with ectopalasmic slime (slowed 2 on a critical failure).
+-
+**Speed** fly 25 feet
+
+**Melee** :a: tongue +17, **Damage** 2d8 bludgeoning plus 2d6 void
+
+**Ghostly Grasp** A ghini can Grapple corporeal creatures despite being incorporeal. The ghini uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip.
+
+**Life Drain** :a: **Requirement** The ghini has a creature grappled.  **Effect** The ghini makes a tongue Strike against the grappled creature.  The ghini gains temporary Hit Points equal to the void damage dealt.
+)
+=
+# Phantom Rider ((+Phantom Rider))
+Phantom riders appear as humanoid figures wearing heavy armor with horned helmets. They wield large lances or longswords. A phantom rider can be summoned into existence through powerful dark magic, and will aid the creature that brought them forward with unyielding allegiance. They typically appear in groups of three, with a single leader and two flanking allies.
+/
+right(
+![Phantom Rider](https://i.imgur.com/VbzOqbd.png)
+)
+
+item(
+# Phantom Rider
+## Creature 8
+-
+;Uncommon,LE,Large,Incorporeal,Spirit,Undead
+**Perception** +16; darkvision
+
+**Langauges** all languages; (can’t speak any language)
+
+**Skills** Athletics +18, Intimidation +18
+
+**Str** +3, **Dex** +6, **Con** +4, **Int** +3, **Wis** +3, **Cha** +3
+-
+**AC** 26; **Fort** +13, **Ref** +19, **Will** +16
+
+**HP** 105 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 10 (except force, *ghost touch*, or vitalic; double resistance against non-magical)
+-
+**Speed** fly 40 feet
+
+**Melee** :a: longsword +18 (magical), **Damage** 2d8+9 void plus Drain Life
+
+**Melee** :a: great lance +18 (magical, reach 10 feet); **Damage** 2d10+11 void plus Drain Life
+
+**Drain Life** When the phantom rider damages a living creature with a melee Strike, using an unarmed attack or its bound weapon, the phantom rider gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude save or become drained 1. Further damage dealt by the phantom rider increases the drained condition value by 1 on a failed save, to a maximum of drained 4.
+
+**Lance Charge** :a: The phantom rider Strides up to 20 feet and then makes a Strike with its great lance.  The great lance Strike gains Knockdown.
+
+**Unseat** :a: The phantom rider makes a melee Strike against a mounted creature. If it hits, the phantom rider attempts an Athletics check against the creature's Fortitude DC. If it succeeds, the creature is knocked off its mount into a space of its choice adjacent to its mount. If the phantom rider critically succeed, the creature lands prone.
+)
+=
+# Poe ((+Poe))
+Poes are spirits of the dead that became monsters because of an unresolved attachment to the mortal world. They always carry a lantern that acts as a container for the poe's soul, and can turn invisible at will, though the lantern will remain visible.
+
+## Big Poe ((++Big Poe))
+So-called big poes are larger variants of lantern poes, see *Hyrule Monster Core*, with more control over their soulfire.
+
+right(
+![Big Poe](https://i.imgur.com/EVllAot.png)
+)
+
+item(
+# Big Poe
+## Creature 6
+-
+;CE,Large,Incorporeal,Poe,Spirit,Undead
+**Perception** +14; darkvision
+
+**Langauges** Hylian, Stal
+
+**Skills** Arcana +15, Deception +13, Occultism +14
+
+**Str** -5, **Dex** +5, **Con** +2, **Int** +2, **Wis** +4, **Cha** +5
+-
+**AC** 23; **Fort** +11, **Ref** +14, **Will** +17
+
+**HP** 65 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 5 (except force, *ghost touch*, or vitality; double resistance against non-magical)
+-
+**Speed** fly 25 feet
+
+**Melee** :a: lantern +16 (magical), **Damage** 2d6+8 bludgeoning plus 1d6 fire
+
+**Ranged** :a: soulfire +14 (fire, magical, range 30 feet); **Damage** 4d8 fire
+
+**Occult Innate Spells** DC 24; **2nd** *invisibility* (at will; self only, lantern remains visible); **1st** *fear* (x3); **cantrips (2nd)** *dancing lights*
+
+**Dancing Fire** :aa: (arcane, fire) The poe unleashes a barrage of fire around itself in a 15-foot emanation, dealing 6d8 fire damage (DC 24 basic Reflex).  The poe can't use Dancing Fire again for 1d4 rounds.
+
+**Spinning Lantern Charge** :aa: The poe Flies up to twice its speed while spinning its lantern.  If it ends its movement within melee reach of one creature, it can make a lantern Strike against that creature.
+)
+=
+=
+## Shadow Hag ((++Shadow Hag))
+A poe, or a poe-like creature as it is uncertain that the shadow hag is a poe itself, that is capable of controlling shadows.  It can turn itself into a shadow to avoid attacks, even splitting its own shadow into multiple shadows.
+
+right(
+# Shadow Blend
+A shadow hag prefers to remain in shadow form until it is not being observed, at which point it will manifest its body and attack.
+
+![Shadow Hag](https://i.imgur.com/XmuYhSB.png)
+)
+
+item(
+# Shadow Hag
+## Creature 9
+-
+;Rare,CE,Medium,Incorporeal,Poe,Shadow,Spirit,Undead
+**Perception** +18; darkvision, *see invisiblity*
+
+**Langauges** Hylian, Stal
+
+**Skills** Arcana +16, Deception +18, Occultism +16, Stealth +20
+
+**Str** -5, **Dex** +4, **Con** +2, **Int** +1, **Wis** +3, **Cha** +6
+-
+**AC** 27; **Fort** +17, **Ref** +17, **Will** +21
+
+**HP** 120 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 10 (except force, *ghost touch*, or vitality; double resistance against non-magical)
+
+**Shadow Blending** :r: (illusion, occult, shadow) **Trigger** A creature attempts a flat check to target the shadow hag while it is concealed or hidden due to dim light or darkness.  **Effect** The shadow hag draws shadows close to create a shroud, increasing the DC of the flat check by 2.
+-
+**Speed** fly 30 feet
+
+**Melee** :a: shadow hand +20 (finesse, shadow), **Damage** 3d6+9 cold
+
+**Ranged** :a: shadow ball +20 (shadow, range 30 feet); **Damage** 3d6+9 cold
+
+**Occult Innate Spells** DC 28, attack +20;  **7th** *shadow raid*; **5th** *shadow blast* (×2); **2nd** *darkness* (at will), **Constant (2nd)** *see invisiblity*
+
+**Focus Spells** 2 Focus Points, DC 28, attack +20; **5th** *malicious shadow*, *shadow jump*
+
+**Blend into Shadows** :a: (shadow) The shadow hag turns itself into a shadow that slides along solid surfaces or reconstitutes itself.  While as a shadow, the shadow hag is considered to have Greater Cover, can Fly but must remain attached to a solid surface, and cannot make melee Strikes until it reconstitutes itself.
+
+**Sudden Charge** :aa: The shadow hag Flies twice then makes a shadow hand Strike at the end of its movement.
+)
+=
+## Grim Repoe ((++Grim Repoe))
+Grim repoe are rare and powerful poes that resemble terrifying reapers. They harvest the souls of lesser poes to infuse their own power and become even more powerful when in darkness.
+
+right(
+# Darkness Dwellers
+Grim repoe thrive in the dark, becoming invisible except for their scythe while under cover of darkness.
+
+![Grim Repoe](https://i.imgur.com/w1EH0oA.png)
+)
+
+item(
+# Grim Repoe
+## Creature 15
+-
+;Rare,CE,Large,Incorporeal,Poe,Spirit,Undead
+**Perception** +29; darkvision, *see invisiblity*
+
+**Langauges** Hylian, Stal
+
+**Skills** Deception +30, Intimidation +27, Occultism +27
+
+**Str** -5, **Dex** +8, **Con** +3, **Int** +2, **Wis** +5, **Cha** +7
+
+**Items** scythe
+-
+**AC** 36; **Fort** +23, **Ref** +26, **Will** +29
+
+**HP** 200 (void healing); **Immunities** death effects, disease, paralyze, poison, unconscious; **Resistances** all damage 15 (except force, *ghost touch*, or vitality; double resistance against non-magical)
+
+**Darkness Invisibility** When in darkness, the grim repoe is invisible, even to darkvision.
+-
+**Speed** fly 40 feet
+
+**Melee** :a: *keen scythe* +30 (agile, deadly 2d10, magical, reach 10 feet, trip), **Damage** 3d10+12 slashing plus 1d12 void
+
+**Ranged** :a: soulfire +29 (fire, magical, range 30 feet); **Damage** 7d8 fire
+
+**Occult Innate Spells** DC 36; **3rd** *haste*, **1st** *fear* (x3), **Constant (2nd)** *see invisiblity*
+
+**Infuse Weapon** Any scythe gains the agile trait, can’t be disarmed, and becomes a *+2 greater striking keen* scythe while the grim repoe wields it.
+
+**Spin Attack** :aa: (flourish) The grim repoe Strides two times, spinning its scythe as it does so.  The grim repoe makes a melee Strike against each creature in range as it Strides.  Each attack counts towards the grim repoe's multiple attack penalty, but penalty doesn't increase until after it has made all attacks.
+
+**Whiff Out Light** :aa: (darkness) The grim repoe blows out all light sources within 120 feet, creating a 120-foot emanation of darkness.  Treat this darkness as if it was cast from a 4th-level *darkness* spell.
+)
+=
+=
+# Skullfish ((+Skullfish))
+Undead skeletal fish that behave similarly to piranhas, swarming prey that are foolish enough to enter the waters where skullfish lurk.  They are often found in areas fouled by dark magic, but have been sighted out in the open sea.
+
+right(
+![MM Skullfish](https://i.imgur.com/yXOe3qo.png)
+
+![TP Skullfish](https://i.imgur.com/lLtX6Uq.png)
+)
+
+item(
+# Skullfish ((++Skullfish))
+## Creature -1
+-
+;NE,Small,Aquatic,Undead
+**Perception** +6; blood scent, darkvision, scent (imprecise) 100 feet
+
+**Skills** Acrobatics +10, Athletics +8
+
+**Str** +0, **Dex** +2, **Con** +1, **Int** -5, **Wis** +2, **Cha** -2
+
+**Blood Scent** The skullfish can smell blood in water from up to 1 mile away.
+-
+**AC** 15; **Fort** +5, **Ref** +8, **Will** +4
+
+**HP** 10 (void healing); **Immunities** death effects, disease, paralyze, poison, sleep; **Resistances** bludgeoning 2, piercing 1, slashing 2
+-
+**Speed** swim 25 feet
+
+**Melee** :a: jaws +7, **Damage** 1d6 piercing
+)
+/
+item(
+# Skullfish Swarm ((++Skullfish Swarm))
+## Creature 3
+-
+;NE,Large,Aquatic,Swarm,Undead
+**Perception** +9; blood scent, darkvision, scent (imprecise) 100 feet
+
+**Skills** Acrobatics +10, Athletics +8
+
+**Str** +1, **Dex** +3, **Con** +2, **Int** -5, **Wis** +2, **Cha** -2
+
+**Blood Scent** The skullfish swarm can smell blood in water from up to 1 mile away.
+-
+**AC** 16; **Fort** +9, **Ref** +10, **Will** +7
+
+**HP** 40 (void healing); **Immunities** death effects, disease, paralyzed, poison, precision, swarm mind, unconscious; **Resistances** bludgeoning 5, piercing 2, slashing 5; **Weaknesses** area damage 5, splash damage 5
+-
+**Speed** swim 25 feet
+
+**Feeding Frenzy** :a: Each enemy in the swarm's space takes 2d6 piercing damage (DC 20 basic Reflex save). A creature that fails the save also takes 1d6 persistent bleed damage and takes a –2 circumstance penalty to their Reflex saves against Feeding Frenzy while this damage continues, as the skullfishs' frenzy increases in intensity when they smell blood.
+)
+=
+# Stal ((+Stal))
+
+Made from bones held together by foul necromancy, stal creatures are among the most common types of undead.  The word "stal" is Hylian for skeleton.  They are often found haunting old dungeons and forgotten cemetaries.
+
+## Stal Abilities
+
+Some stal creatures have one or more of these abilities.  If you give a stal creature more than one, you might want to increase its level and adjust its statistics, or apply the Sunlight Vulnerability ability to weaken them in sunlight to compensate for the additional power of its other abilities.
+item(
+**Blaze** The stal is wreathed in fire, which doesn't consume its bones or gear.  The stal gains immunity to fire and weakness 5 to cold, loses its resistance to cold, and its Strikes deal additional persistant fire damage equal to half the stal's level (minimum 1 damage).
+
+**Bloody** The stal is covered in dripping blood and gains fast healing equal to its level.
+
+**Bone Missile** :aa: The stal yanks a rib from its ribcage to use as an arrow or javelin.  The stal loses HP equal to its level (minimum 1), then makes a ranged Strike.  This uses the attack bonus of whichever of the stal's other Strikes has the highest attack bonus and deals piercing damage equal to the Strike's damage plus the skeleton's level (minimum 1).
+
+**Bone Powder** When the stal takes physical damage from a critical hit, one of its bones is pulverized into a fine powder.  All creatures in a 5-foot emanation that breathe take 1d6 persistent poison damage (plus an additional 1d6 for every 6 levels the stal has).
+
+**Collapse** :r: **Trigger** The stal is critically hit. **Effect** The stal collapses into a pile of bones and the attack deals only normal damage.  The stal can then reform in a standing position as an action, but until it does, it is immobilized and flat-footed.
+
+**Explosive Death** When the stal is destroyed, its bones shatter and explode as the necromantic energy holding it together is released.  Adjacent creatures take 1d6 slashing damage per 2 levels (minimum 1d6) with a basic Reflex save.
+
+**Screaming Skull** :aa: (auditory, emotion, fear, mental) The stal removes its skull and throws it, making a jaws attack with a range of 20 feet.  It then attempts to Demoralize each foe within 10 feet of the target.  The head bounces, rolls, or even flies back, returning to the stal at the start of its next turn.  The stal is blind until then.
+
+**Sunlight Vulnerability** (vulnerability) If exposed to direct sunlight, the stal becomes slowed 1. The slowed value increases by 1 each time the stal ends its turn in sunlight. If the stal loses all its actions this way, it is destroyed.
+)
+=
+## Stalhorse ((++Stalhorse))
+Stalhorses are sometimes used as mounts by other undead or monsters, but they are not inherently malicious.
+
+right(
+# Mostly Harmless
+Unlike other stal creatures, a stalhorse usually poses no threat to people.  They act just like they did in life, despite being resurrected by dark magic.
+
+![Stalhorse](https://i.imgur.com/t64e6JB.png)
+)
+
+item (
+# Stalhorse
+## Creature 2
+-
+;N,Large,Mindless,Stal,Undead
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +7, Athletics +9
+
+**Str** +5, **Dex** +3, **Con** +2, **Int** -5, **Wis** +2, **Cha** +0
+-
+**AC** 16; **Fort** +6, **Ref** +9, **Will** +8
+
+**HP** 33 (void healing); **Immunities** bleed, death effects, disease, mental, paralyze, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+-
+**Speed** 40 feet
+
+**Melee** :a: hoof +9, **Damage** 1d8+5 bludgeoning
+
+**Gallop** :aa: The stalhorse Strides twice, with its Speed increased by 10 feet.
+
+**Undead Steed** Undead and creatures allied with them can Command a stal steed without needing to attempt a skill check.
+)
+/
+## Stalkoblin ((++Stalkoblin))
+The stalkoblin is the resurrected skeleton of a bokoblin, usually raised by dark magic.  They are individually very weak, but the numerous bokoblins that have been killed by adventurers throughout Hyrule makes them a very common sight after dark away from heavily populated areas.
+
+right(
+# Headless
+The dark magic that animates a stalkoblin allows them to reassemble their bodies if their head is detached.
+
+![Stalkoblin](https://i.imgur.com/dI56I86.png)
+)
+
+item (
+# Stalkoblin
+## Creature 2
+-
+;NE,Medium,Blin,Stal,Undead
+**Perception** +8; darkvision
+
+**Languages** Blin, Stal
+
+**Skills** Acrobatics +8, Athletics +6
+
+**Str** +1, **Dex** +3, **Con** +1, **Int** -1, **Wis** -1, **Cha** +0
+-
+**AC** 15; **Fort** +8, **Ref** +5, **Will** +5
+
+**HP** 23 (void healing); **Immunities** bleed, death effects, disease, paralyze, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+
+**Detach Head** :r: **Trigger** The stalkoblin would be destroyed from a Strike with a melee or ranged weapon. **Effect** The stalkoblin attempts to preserve itself by detaching its head, which has AC 10, 1 Hit Point, a fly speed of 20 feet, and it is Fleeing.  The stalkoblin is only destroyed if its head is destroyed.  It otherwise reforms its body after 1d4 hours.
+-
+**Speed** 20 feet
+
+**Melee** :a: claw +9 (agile, finesse), **Damage** 1d6+3 slashing
+)
+=
+=
+## Shrouded Stalfos ((++Shrouded Stalfos))
+Stalfos shrouded in dark cloaks, these stalfos fight from the shadows.  They prefer to fight from a distance by lobbing spears instead of getting into close range.
+
+/
+right(
+![Shrouded Stalfos](https://i.imgur.com/HpIjftX.png)
+)
+
+item(
+# Shrouded Stalfos
+## Creature 6
+-
+;NE,Medium,Stal,Undead
+**Perception** +17; darkvision
+
+**Languages** Hylian, Stal
+
+**Skills** Acrobatics +15, Athletics +13, Crafting +11, Deception +13, Stealth +17, Thievery +13
+
+**Str** +3, **Dex** +5, **Con** +2, **Int** +0, **Wis** +1, **Cha** +2
+
+**Items** +1 spear
+-
+**AC** 23; **Fort** +14, **Ref** +17, **Will** +11
+
+**HP** 75 (void healing); **Immunities** bleed, death effects, disease, paralyze, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5, slashing 5
+
+**Deny Advantage** The stalfos isn't off-guard to creatures of 6th level or lower that are hidden, undetected, flanking, or using surprise attack.
+
+**Nimble Dodge** :r:  **Trigger** The stalfos is targeted with a melee or ranged attack by an attacker it can see; **Effect** The stalfos gains a +2 circumstance bonus to AC against the triggering attack.
+-
+**Speed** 35 feet
+
+**Melee** :a: spear +15 (thrown 20 feet), **Damage** 2d6+8 piercing
+
+**Ranged** :a: spear +15 (range increment 20 feet), **Damage** 2d6+8 piercing
+
+**Sneak Attack** The stalfos deals an extra 1d6 precision damage to flat-footed creatures.
+
+**Surprise Attack** On the first round of combat, if the stalfos rolls Deception or Stealth for initiative, creatures that haven't acted are flat-footed to them.
+)
+=
+## Stalfos Knight ((++Stalfos Knight))
+Sturdier than their lesser brethren, stalfos knights are powerful stalfos warriors.  They usually are the reanimated skeletons of powerful warriors and knights who fell when fighting the darkness.
+
+right(
+![Stalfos Knight](https://i.imgur.com/htPd4XW.png)
+)
+
+item(
+# Stalfos Knight
+## Creature 6
+-
+;Uncommon,NE,Medium,Stal,Undead
+**Perception** +14; darkvision
+
+**Languages** Hylian, Stal
+
+**Skills** Acrobatics +15, Athletics +15
+
+**Str** +5, **Dex** +4, **Con** +2, **Int** +0, **Wis** +0, **Cha** +1
+
+**Items** +1 longsword, lesser sturdy steel shield (hardness 10, HP 80, BT 40)
+-
+**AC** 24 (26 with shield raised); **Fort** +14, **Ref** +17, **Will** +11
+
+**HP** 96 (void healing); **Immunities** bleed, death effects, disease, paralyze, poison, unconscious; **Resistances** cold 7, electricity 7, fire 7, piercing 7, slashing 7
+
+**Evasion** When the stalfos knight rolls a success on a Reflex save, it gets a critical success instead.
+
+**Reactive Strike** :r:
+
+**Shield Block** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: longsword +17 (versatile P), **Damage** 2d8+9 slashing
+
+**Leaping Charge** :aa: The stalfos knight attempts a High Jump or Long Jump.  If it’s adjacent to an enemy at the apex of its High Jump or at the end of its Long Jump, it can make a longsword Strike against the enemy at that moment.  If the stalfos knight jumps at least 5 feet vertically or at least 15 feet horizontally, it can attempt two longsword Strikes instead of one.  The stalfos knight's multiple attack penalty doesn't increase until it has made all the longsword Strikes that are part of its Leaping Charge.
+)
+=
+## Staldra ((++Staldra))
+
+right(
+![Staldra](https://i.imgur.com/0yOoR5c.png)
+)
+
+One of the most fearsome of stal creatures, the staldra is the skeleton of an ancient multiheaded snake said to exist before the dawn of time. Three bone-plated heads and a thirst to cause pain keep it writhing even beyond death.
+/
+item (
+# Staldra
+## Creature 8
+-
+;Uncommon,NE,Huge,Mindless,Stal,Undead
+**Perception** +19; darkvision
+
+**Skills** Athletics +19, Stealth +14
+
+**Str** +6, **Dex** +4, **Con** +4, **Int** -4, **Wis** +2, **Cha** -2
+-
+**AC** 26 all-around vision; **Fort** +19, **Ref** +16, **Will** +13
+
+**HP** 130 ((body) void healing, staldra regeneration) **Immunities** bleed, death effects, disease, mental, paralyze, poison, unconscious; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+
+**HP** 25 ((head) void healing, head regrowth); **Immunities** area damage, bleed, death effects, disease, mental, paralyze, poison, unconscious; **Resistances** cold 5, electricity 5, fire 5, piercing 5
+
+**Head Regrowth** A staldra ordinarily has three heads. A creature can attempt to sever one of the staldra's heads by specifically targeting it and dealing damage equal to the head’s Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature’s turn.
+A staldra can regrow a severed head using Staldra Regeneration. A creature can prevent this regrowth by dealing vitality damage to the stump, cauterizing it. Single-target vitality effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra’s whole space cauterize all stumps if they deal vitality damage. If the attack that severs a head deals any vitality damage, the stump is cauterized instantly. If all three heads are cauterized, the staldra dies.
+
+**Multiple Opportunities** A staldra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Reactive Strikes. It can’t use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the staldra must use a different head for each Reactive Strike it makes. Whenever one of the staldra's heads is severed, the staldra loses 1 of its extra reactions per round.
+
+**Reactive Strike** :r:
+
+**Staldra Regeneration** The staldra has regeneration equal to 5 x the number of heads it has. If a staldra's body is missing any heads and the remaining stumps have not been cauterized, the staldra attempts a DC 23 Fortitude save after it regains Hit Points from regeneration.  On a success, it regrows all heads that have been severed.  The staldra's regeneration only fully deactivates if all its heads are severed at once and all stumps are cauterized, at which point it dies.
+-
+**Speed** 25 feet, swim 25 feet
+
+**Melee** :a: jaws +19 (reach 10 feet), **Damage** 2d8+8 piercing
+)
+=
+item(
+**Focused Assault** :aa: The staldra attacks a single target with its heads, overwhelming its foe with multiple attacks and leaving almost nowhere to dodge. The staldra Strikes with its jaws. On a successful attack, the staldra deals damage from its jaws Strike to the target, plus an additional 1d8 damage for every head it has beyond the first. Even on a failed attack, the staldra deals the damage from one jaws Strike to the target creature, though it still misses completely on a critical failure. This counts toward the staldra’s multiple attack penalty as a number of attacks equal to the number of heads the staldra has.
+
+**Storm of Jaws** :aa: The staldra makes a number of Strikes up to its number of heads, each against a different target.  These attacks count towards the staldra's multiple attack penalty, but the multiple attack penalty doesn't increase until after the staldra makes all its attacks.
+)
+
+## Stalmaster ((++Stalmaster))
+The stalmaster is an elite captain of undead soldiers. When provoked, it has the ability to strike with all four of its sword-wielding arms. The regular arsenal of a stalmaster is three swords and an axe, though they have been known to use other one-handed weapons.
+
+left(
+![Stalmaster](https://i.imgur.com/hIwiAYJ.png)
+)
+
+item(
+# Stalmaster
+## Creature 10
+-
+;Uncommon,NE,Large,Stal,Undead
+**Perception** +19; darkvision
+
+**Languages** Hylian, Stal
+
+**Skills** Athletics +22, Intimidation +19
+
+**Str** +7, **Dex** +3, **Con** +5, **Int** +0, **Wis** +0, **Cha** +2
+
+**Items** +1 *striking* longsword, +1 *striking* battle axe, +1 *striking* scimitar, +1 *striking* shortsword
+-
+**AC** 29 (31 with guard raised); **Fort** +22, **Ref** +19, **Will** +16
+
+**HP** 180 (void healing); **Immunities** bleed, death effects, disease, paralyze, poison, unconscious; **Resistances** cold 10, electricity 10, fire 10, piercing 10, slashing 10
+
+**Multiple Opportunities** A stalmaster has an extra reaction per round, which it can only use to make Reactive Strikes.
+
+**Reactive Strike** :r:
+-
+**Speed** 30 feet
+
+**Melee** :a: longsword +23 (versatile P), **Damage** 2d8+11 slashing
+
+**Melee** :a: battle axe +23 (sweep), **Damage** 2d8+11 slashing
+
+**Melee** :a: scimitar +23 (forceful, sweep), **Damage** 2d6+11 slashing
+
+**Melee** :a: shortsword +23 (agile, finesse, versatile S), **Damage** 2d6+11 piercing
+
+**Flurry of Weapons** :aa: The stalmaster makes up to four Strikes, using a different weapon for each Strike, and each against a different target.  These attacks all count toward the stalmaster's multiple attack penalty, but the penalty doesn’t increase until after the stalmaster makes all its attacks.
+
+**Raise Guard** :a: **Effect** The stalmaster raises a weapon to protect itself, gaining a +2 circumstance bonus to AC until the start of its next turn.
+)
