@@ -1,0 +1,486 @@
+title (
+The Book of Blins
+)
+head (
+# The Book of Blins ((The Book of Blins))
+-
+)
+pagenumbers
+
+The world of the Legend of Zelda is home to many fascinating and unique creatures, many of which are monsters that stand in the way of heroes.  Using these creatures in a Pathfinder 2e campaign that is not a Legend of Zelda campaign may cause some dissonance, but with some flavor tweaks they could be used in a non-Zelda campaign without issue.  The same is true for using base Pathfinder 2e monsters in a Legend of Zelda campaign.
+
+If a creature in this bestiary appears in multiple games with different traits, then the resulting creature will be an amalgamation of all the official depictions, or multiple variants of the creature will be listed.
+/
+### Differently Leveled Creatures
+If you want to use a creature found in this bestiary, but of a different level, you can use the **Building Creatures** rules, found starting on page 56 in the *Gamemastery Guide* to adjust the statistics to match the new level.
+
+All creature levels are set by a somewhat arbitrary metric based on approximately when a monster is encountered in a Zelda game, with some exceptions.  However, as the Legend of Zelda series is not an RPG (it's an action-adventure series), there are no official levels attached to monsters that could be used to approximate a proper level scaling.
+
+### All Things Blin
+*The Book of Blins* document is meant to be a companion to the *Hyrule Monster Core* general bestiary, intended to help reduce the sheer size of that document.  This document specializes in blins, a very common enemy type in the Legend of Zelda, ranging from the lowly miniblin to the powerful moblins.
+
+### Non-Canon Abilities
+While most statblocks will try to adhere as much to game canon as possible, due to the nature of a tabletop game versus a video game, some liberty will be taken with statblocks.  New abilities may be added that make sense for a creature based on its physiology or to make it more capable to fight against a party of Heroes rather than a single Hero.
+
+note (
+# Key Terms.
+You'll see the following key terms and traits throughout this document.
+    **Vulnerability:** The vulnerability trait is used to indicate a specific vulnerability of a creature that may be triggered by targeting a specific location on the creature or by using a specific item or weapon.
+)
+|
+
+### Vulnerable Spots
+Some creatures have a vulnerable spot, such as an eye, that can be targeted for extra effects.  This is to simulate the Legend of Zelda boss weak point system.  Vulnerable spots will have the ***vulnerability*** trait on them.  Typically these will be called out in the statblock and require a -2 circumstance penalty to aim for the weak spot in return for extra damage or bypassing resistances and/or immunities.
+
+A player can use the Recall Knowledge action to try and identify a Vulnerable Spot on a creature that has one. The GM can provide the player with the Vulnerable Spot in lieu of other best known attributes of the creature.
+
+### Alignment Post-Remaster?
+Alignment was left in for each creature despite alignment being removed in the Remaster for Pathfinder 2e for legacy reasons.  There are GMs and players who prefer to play with the old alignment system and so alignment on creatures is preserved for people who want to use that system.  If you want to be fully Remaster compatible, simply ignore the alignment trait in all statblocks.
+
+### Other Bestiaries
+**The Book of Blins** is meant to be a bestiary for blin creatures.  For other statblocks, please see the following bestiaries.
+
+* Hyrulean Monster Core
+* [The Dead of Hyrule](https://scribe.pf2.tools/v/LxBRv4x1-the-dead-of-hyrule)
+* Hyrulean Reptilians
+=
+# Bokoblins ((+Bokoblins))
+Bokoblins are one of the most common types of blin, with many varieties existing across Hyrule and other realms.  They are larger and hardier than their miniblin cousins, but still small and subserviant to the larger moblins.
+
+## Bokoblin Pirate ((++Bokoblin Pirate))
+The bokoblins of the Great Sea act much the same as they do in Hyrule proper, only instead of banditry they resort to the seafaring equivalent of piracy.
+
+right(
+# Bokoblins of the High Seas
+Bokoblins tend to band together in small pirate crews, usually under a more powerful blin like a moblin and raid nearby vessels.
+
+![Bokoblin Pirate](https://i.imgur.com/mVERY2e.png)
+)
+
+item (
+# Bokoblin Pirate
+## Creature 1
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +7; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +7, Athletics +5, Intimidation +4, Survival +6
+
+**Str** +2, **Dex** +4, **Con** +1, **Int** -1, **Wis** +3, **Cha** +0
+
+**Items** machete, slingshot (20 sling bullets)
+-
+**AC** 15; **Fort** +7, **Ref** +10, **Will** +4
+
+**HP** 19
+
+**Bravery** When the pirate rolls a success on a Will save against a fear effect, they get a critical success instead.  In addition, anytime they gain the frightened condition, reduce its value by 1.
+-
+**Speed** 25 feet
+
+**Melee** :a: machete +9 (deadly d8, sweep), **Damage** 1d6+2 slashing
+
+**Ranged** :a: slingshot +9 (propulsive, range increment 60 feet), **Damage** 1d4+2 bludgeoning
+
+**Boarding Action** :aa:  The pirate swings on a rope or Strides, moving up to double their Speed. If the pirate boarded or disembarked a boat during this movement, they can make a melee Strike at the end of their movement that deals one extra damage die on a hit.
+)
+=
+## Technoblins ((++Technoblin))
+Bokoblins tend to use found scraps of technology in fights whenever they can. There are some that have found more useful bits of technology to fight with. These technoblins, as they are called, use swords that are electrified as well as more advanced armor to protect themselves.
+
+right(
+# Scavengers
+Technoblins are intelligent enough to be able to use the ancient technology that they scavenge, though they do not understand the mechanisms of said technology.
+
+![Technoblin](https://i.imgur.com/k7ZZ3nk.png)
+)
+
+item (
+# Technoblin
+## Creature 2
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +7; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +8, Crafting +5, Survival +7
+
+**Str** +2, **Dex** +4, **Con** +1, **Int** +2, **Wis** +1, **Cha** +0
+-
+**AC** 18; **Fort** +8, **Ref** +11, **Will** +5
+
+**HP** 26; **Resistances** electricity 5
+-
+**Speed** 25 feet
+
+**Melee** :a: electric sword +11 (electricity), **Damage** 1d6+4 slashing plus 1d4 electricity and Electrocution
+
+**Ranged** :a: bottled lightning +11 (electricity, range increment 30 feet, splash), **Damage** 1d6 electricity plus 1 electricity splash
+
+**Electrocution** (incapacitation) A creature critically hit by the technoblin's electric sword must attempt a DC 17 Fortitude save.
+**Critical Success** The creature is unaffected.
+**Success** The creature is stunned 1.
+**Failure** The creature is stunned 2.
+**Critical Failure** The creature is stunned 3.
+)
+=
+## Blue Bokoblin ((++Blue Bokoblin))
+Bokoblins can appear in several different colors, each of which appears to be an indicator of a bokoblin's general toughness and strength.  Blue bokoblins are much like their more common red brethren, but are a bit tougher and stronger.
+
+right(
+# Bokoblin Hierarchy
+Red is almost always the weakest kind of blin, with blue just a bit tougher.
+
+![Blue Bokoblin](https://i.imgur.com/nZjtqX7.png)
+)
+
+item (
+# Blue Bokoblin
+## Creature 3
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +9; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +10, Survival +9
+
+**Str** +1, **Dex** +4, **Con** +2, **Int** +1, **Wis** +2, **Cha** +1
+
+**Items** club, composite shortbow (20 arrows)
+-
+**AC** 18; **Fort** +9, **Ref** +12, **Will** +6
+
+**HP** 44
+-
+**Speed** 25 feet
+
+**Melee** :a: club +11 (thrown 10 feet), **Damage** 1d6+6 bludgeoning
+
+**Ranged** :a: shortbow +11 (deadly d10, range increment 60 feet), **Damage** 1d6+5 piercing
+)
+
+/
+
+## Black Bokoblin ((++Black Bokoblin))
+Black bokoblins are among the strongest of bokoblins, usually leading entire bands of bokoblins in raids against remote settlements and travelers.
+
+right(
+Black bokoblins are among the toughest that is often encountered.  The more uncommon and rare silver and gold bokoblins are said to be even more powerful.
+
+![Black Bokoblin](https://i.imgur.com/zVu4bjv.png)
+)
+
+item (
+# Black Bokoblin
+## Creature 5
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +12; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +13, Intimidation +12, Survival +12
+
+**Str** +3, **Dex** +5, **Con** +4, **Int** +2, **Wis** +3, **Cha** +2
+
+**Battle Cry** When a black bokoblin rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The black bokoblin attempts an Intimidate check to Demoralize a single foe within 60 feet as a free action. If successful, any ally with the blin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action.
+
+**Items** spear, composite shortbow (20 arrows)
+-
+**AC** 21; **Fort** +12, **Ref** +15, **Will** +9
+
+**HP** 72
+-
+**Speed** 25 feet
+
+**Melee** :a: spear +15 (thrown 20 feet), **Damage** 1d8+10 piercing
+
+**Ranged** :a: composite shortbow +13 (brutal, deadly 1d10, propulsive, range increment 60 feet, reload 0), **Damage** 1d6+8 piercing
+
+**Spear Critical Specialization** On a critical hit, the target of the critical hit is clumsy 1 until the start of the bokoblin's next turn.
+)
+=
+## Silver Bokoblin ((++Silver Bokoblin))
+Thought to be blessed by dark powers, silver bokoblins are a cut above black bokoblins, possessing greater strength and durability, with only the rare gold bokoblin outmatching them.
+
+right(
+![Silver Bokoblin](https://i.imgur.com/FpPJiqB.png)
+)
+
+item (
+# Silver Bokoblin
+## Creature 7
+-
+;Uncommon,CE,Medium,Blin,Humanoid
+**Perception** +15; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +15, Athletics +17, Intimidation +15, Survival +15
+
+**Str** +5, **Dex** +5, **Con** +4, **Int** +2, **Wis** +3, **Cha** +2
+
+**Items** *+1* greatclub, composite shortbow (20 arrows)
+-
+**AC** 24; **Fort** +15, **Ref** +18, **Will** +12
+
+**HP** 115
+-
+**Speed** 25 feet
+
+**Melee** :a: greatclub +18 (backswing, magical, shove), **Damage** 2d10+9 bludgeoning
+
+**Ranged** :a: composite shortbow +16 (brutal, deadly 1d10, propulsive, range increment 60 feet, reload 0), **Damage** 2d6+9 piercing
+
+**Club Critical Specialization** On a critical hit, the target of the critical hit is shoved up to 10 feet away from the bokoblin.
+
+**Incessant Taunting** :a: The silver bokoblin uses rude gestures and mocking dances to attempt to goad their enemies into attacking them.  It attempts an Intimidation check against the Will DC of a single creature within 30 feet.
+**Critical Success** The target is off-guard for 1 round. On its next turn, if the bokoblin are within the target's reach, the target must spend at least two actions attacking the bokoblin before it can act freely.
+**Success** As critical success, except the target only needs to spend one action attacking the bokoblin.
+**Failure** The target is unaffected.
+**Critical Failure** The target is unaffected and is temporarily immune to Incessant Taunting for 1 hour.
+)
+=
+## Golden Bokoblin ((++Golden Bokoblin))
+Even stronger than their silver kin, golden bokoblins are said to be silver bokoblins that have been struck by lightning.  As such, they have gained a resistance to electricity.
+
+right(
+![Golden Bokoblin](https://i.imgur.com/l5YZ8p2.png)
+)
+
+item (
+# Golden Bokoblin
+## Creature 9
+-
+;Uncommon,CE,Medium,Blin,Humanoid
+**Perception** +18; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +20, Athletics +18, Intimidation +20, Survival +18
+
+**Str** +5, **Dex** +6, **Con** +4, **Int** +2, **Wis** +3, **Cha** +2
+
+**Battle Cry** When a golden bokoblin rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The golden bokoblin attempts an Intimidate check to Demoralize a single foe within 60 feet as a free action. If successful, any ally with the blin trait can, as its first action on its first turn of the combat, Stride up to double its speed as a single action.
+
+**Items** *+1 striking* longspear, *+1 striking* composite shortbow (20 arrows)
+-
+**AC** 27; **Fort** +18, **Ref** +21, **Will** +15
+
+**HP** 155; **Resistances** electricity 9
+-
+**Speed** 30 feet
+
+**Melee** :a: longspear +21 (magical, reach), **Damage** 2d8+15 piercing
+
+**Ranged** :a: composite shortbow +19 (brutal, deadly 1d10, magical, propulsive, range increment 60 feet, reload 0), **Damage** 2d6+11 piercing
+
+**Incessant Taunting** :a: The golden bokoblin uses rude gestures and mocking dances to attempt to goad their enemies into attacking them.  It attempts an Intimidation check against the Will DC of a single creature within 30 feet.
+**Critical Success** The target is off-guard for 1 round. On its next turn, if the bokoblin are within the target's reach, the target must spend at least two actions attacking the bokoblin before it can act freely.
+**Success** As critical success, except the target only needs to spend one action attacking the bokoblin.
+**Failure** The target is unaffected.
+**Critical Failure** The target is unaffected and is temporarily immune to Incessant Taunting for 1 hour.
+
+**Spear Critical Specialization** On a critical hit, the target of the critical hit is clumsy 1 until the start of the bokoblin's next turn.
+)
+=
+# Horriblins ((+Horriblins))
+Horriblins are blins that cling to the ceilings of dark places such as caves. They are known for their large, bulbous noses, grey skin, and hammer-shaped horns. They often attack using spears and by throwing boulders that they tear out of the environment.
+
+## Blue Horriblin
+Blue horriblins are a cut above their more grey-ish cousins, much like blue bokoblins tend to be stronger than red ones.
+
+right(
+![Blue Horriblin](https://i.imgur.com/nQhxxYc.png)
+)
+
+item (
+# Blue Horriblin ((++Blue Horriblin))
+## Creature 5
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +12; darkvision
+
+**Languages** Blin
+
+**Skills** Acrobatics +12, Athletics +13, Stealth +12, Survival +10
+
+**Str** +5, **Dex** +4, **Con** +3, **Int** -1 **Wis** +2, **Cha** +0
+
+**Items** +1 longspear
+-
+**AC** 22; **Fort** +12, **Ref** +15, **Will** +9
+
+**HP** 76
+-
+**Speed** 25 feet, climb 25 feet
+
+**Melee** :a: longspear +15 (reach 10 feet), **Damage** 2d8+7 piercing
+
+**Ranged** :a: rock +15 (brutal, thrown 30 feet), **Damage** 2d10+5 bludgeoning
+
+**Horriblin Ambush** :a: The horriblin Climbs and makes a Strike at the end of that movement. If the horriblin began this action hidden, it remains hidden until after this ability's Strike.
+
+**Powerful High Jump** :aa:  The horriblin Leaps vertically up to 30 feet, and can Grab an Edge as a free action if there is a surface above them and within reach.
+
+**Sneak Attack** The horriblin deals an additional 2d6 precision damage to off-guard creatures.
+
+**Throw Rock** :a:
+)
+=
+## Black Horriblin
+right(
+![Black Horriblin](https://i.imgur.com/scrbSow.png)
+)
+
+item (
+# Black Horriblin ((++Black Horriblin))
+## Creature 8
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +16; darkvision
+
+**Languages** Blin
+
+**Skills** Acrobatics +16, Athletics +18, Stealth +16, Survival +14
+
+**Str** +6, **Dex** +4, **Con** +3, **Int** -1 **Wis** +2, **Cha** +0
+
+**Items** *+1 striking* longspear
+-
+**AC** 27; **Fort** +16, **Ref** +19, **Will** +13
+
+**HP** 136
+-
+**Speed** 25 feet, climb 25 feet
+
+**Melee** :a: longspear +20 (reach 10 feet), **Damage** 2d8+11 piercing
+
+**Ranged** :a: rock +20 (brutal, thrown 30 feet), **Damage** 2d10+11 bludgeoning
+
+**Horriblin Ambush** :a: The horriblin Climbs and makes a Strike at the end of that movement. If the horriblin began this action hidden, it remains hidden until after this ability's Strike.
+
+**Powerful High Jump** :aa:  The horriblin Leaps vertically up to 30 feet, and can Grab an Edge as a free action if there is a surface above them and within reach.
+
+**Sneak Attack** The horriblin deals an additional 2d6 precision damage to off-guard creatures.
+
+**Throw Rock** :a:
+)
+=
+## Silver Horriblin
+Silver horriblins appear to have more exposed veins of a purple substance flowing through their body.  It is unknown what this substance is, but some speculate it to be a concentrated form of malice or gloom which empowers the horriblin.
+
+right(
+![Silver Horriblin](https://i.imgur.com/OogNd47.png)
+)
+
+item (
+# Silver Horriblin ((++Silver Horriblin))
+## Creature 11
+-
+;Uncommon,CE,Medium,Blin,Humanoid
+**Perception** +21; darkvision
+
+**Languages** Blin
+
+**Skills** Acrobatics +21, Athletics +23, Stealth +21, Survival +19
+
+**Str** +6, **Dex** +5, **Con** +4, **Int** -1 **Wis** +2, **Cha** +0
+
+**Items** *+1 striking* longspear
+-
+**AC** 31; **Fort** +21, **Ref** +24, **Will** +18
+
+**HP** 196
+-
+**Speed** 25 feet, climb 25 feet
+
+**Melee** :a: longspear +24 (reach 10 feet), **Damage** 2d8+17 piercing
+
+**Ranged** :a: rock +24 (brutal, thrown 30 feet), **Damage** 2d10+17 bludgeoning
+
+**Horriblin Ambush** :a: The horriblin Climbs and makes a Strike at the end of that movement. If the horriblin began this action hidden, it remains hidden until after this ability's Strike.
+
+**Powerful High Jump** :aa:  The horriblin Leaps vertically up to 30 feet, and can Grab an Edge as a free action if there is a surface above them and within reach.
+
+**Sneak Attack** The horriblin deals an additional 3d6 precision damage to off-guard creatures.
+
+**Throw Rock** :a:
+)
+=
+# Moblins ((+Moblins))
+Also known as big blins, brown moblins, or occasionally mudblins, these brown-skinned creatures are often considered icons of their race. A typical adult moblin towers most other humanoids, with over 8 feet of muscle and fat - a gruesome and intimidating sight that earns its title of "big." Although they usually live in wilderness among beasts, big moblins are generally apex predators in their environment. They have been known to populate almost any terrestrial landscape, but prefer temperate climates with abundant fauna due to their carnivorous diet.
+
+## Great Moblin Mauler ((++Great Moblin Mauler))
+A moblin that has grown even larger from the nutrients of the forest will become a massive great moblin. Instead of charging with a large spear, great moblins favor using a maul that they can smash into the ground to unleash a large shockwave at intruders into their lairs. They are not very common, usually only one or two are seen in an entire tribe of forest moblins.
+
+right(
+![Great Moblin Mauler](https://i.imgur.com/444yfzK.png)
+)
+
+item (
+# Great Moblin Mauler
+## Creature 6
+-
+;Uncommon,CE,Large,Blin,Humanoid
+**Perception** +14; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Athletics +15, Intimidation +13, Survival +15
+
+**Str** +5, **Dex** +1, **Con** +5, **Int** +1, **Wis** +3, **Cha** +2
+
+**Items** *+1* maul
+-
+**AC** 23; **Fort** +17, **Ref** +11, **Will** +14
+
+**HP** 120
+-
+**Speed** 30 feet
+
+**Melee** :a: maul +15 (magical, reach 10 feet, shove), **Damage** 1d12+10 bludgeoning
+
+**Big Swing** :aa: The moblin makes a maul Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit. If the target collides with a solid object or lands on the ground, it takes bludgeoning damage as though it had fallen the distance it moved.
+
+**Shockwave** :aa:  The moblin slams its maul on the ground, unleashing a shockwave in a 30-foot cone, dealing 7d6 sonic damage to every creature in the cone (DC 23 Reflex save).  It can't use Shockwave again for 1d4 rounds.
+)
+=
+## Stone Blin ((++Stone Blin))
+A powerful moblin that wears stone armor and wields a massive stone club.  Stone blins are often found in coastal areas or out at sea, usually in pirate crews.
+
+right(
+![Stone Blin](https://i.imgur.com/pw22lpM.png)
+)
+
+item (
+# Stone Blin
+## Creature 8
+-
+;CE,Large,Blin,Humanoid
+**Perception** +16; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Acrobatics +14, Athletics +20, Intimidation +14, Survival +16
+
+**Str** +6, **Dex** +2, **Con** +4, **Int** +0, **Wis** +1, **Cha** +0
+
+**Items** *+1 striking* greatclub
+-
+**AC** 27; **Fort** +18, **Ref** +14, **Will** +14
+
+**HP** 150; **Resistances** slashing 4
+-
+**Speed** 30 feet
+
+**Melee** :a: *greatclub* +21 (backswing, magical, reach 10 feet, shove), **Damage** 2d10+12 bludgeoning
+
+**Melee** :a: fist +20 (agile, reach 10 feet), **Damage** 2d6+14 bludgeoning
+
+**Big Swing** :aa: The moblin makes a greatclub Strike. The target is Pushed up to 10 feet on a hit or up to 20 feet on a critical hit. If the target collides with a solid object or lands on the ground, it takes bludgeoning damage as though it had fallen the distance it moved.
+)
