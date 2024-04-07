@@ -1,0 +1,13 @@
+Cave / Underground
+Desert
+Field
+Fire
+Forest / Jungle
+Graveyard / Undead / Shadow
+Lake / River
+Mountain
+Ocean
+Sky
+Snow
+~~Swamp~~ (Forest + Lake/River)
+Urban
