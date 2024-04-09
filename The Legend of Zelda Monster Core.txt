@@ -1,0 +1,302 @@
+title (
+The Legend of Zelda Monster Core
+)
+head (
+# The Legend of Zelda Monster Core ((Zelda Monster Core))
+-
+)
+pagenumbers
+
+The world of the Legend of Zelda is home to many fascinating and unique creatures, many of which are monsters that stand in the way of heroes.  Using these creatures in a Pathfinder 2e campaign that is not a Legend of Zelda campaign may cause some dissonance, but with some flavor tweaks they could be used in a non-Zelda campaign without issue.  The same is true for using base Pathfinder 2e monsters in a Legend of Zelda campaign.
+/
+If a creature in this bestiary appears in multiple games with different traits, then the resulting creature will be an amalgamation of all the official depictions, or multiple variants of the creature will be listed.
+
+### Differently Leveled Creatures
+If you want to use a creature found in this bestiary, but of a different level, you can use the **Building Creatures** rules, found starting on page 56 in the *Gamemastery Guide* to adjust the statistics to match the new level.
+
+All creature levels are set by a somewhat arbitrary metric based on approximately when a monster is encountered in a Zelda game, with some exceptions.  However, as the Legend of Zelda series is not an RPG (it's an action-adventure series), there are no official levels attached to monsters that could be used to approximate a proper level scaling.
+
+### Companion to Adventures in Hyrule
+This document is designed to be used as a standalone document, but it is also intended to be used as the bestiary to Aoife Ester's [Adventures in Hyrule](http://scribe.pf2.tools/v/wXO8Df9X) homebrew document for Legend of Zelda campaigns.
+
+### Non-Canon Abilities
+While most statblocks will try to adhere as much to game canon as possible, due to the nature of a tabletop game versus a video game, some liberty will be taken with statblocks.  New abilities may be added that make sense for a creature based on its physiology or to make it more capable to fight against a party of Heroes rather than a single Hero.
+
+note (
+# Key Terms.
+You'll see the following key terms and traits throughout this document.
+    **Vulnerability:** The vulnerability trait is used to indicate a specific vulnerability of a creature that may be triggered by targeting a specific location on the creature or by using a specific item or weapon.
+)
+
+|
+
+### Vulnerable Spots
+Some creatures have a vulnerable spot, such as an eye, that can be targeted for extra effects.  This is to simulate the Legend of Zelda boss weak point system.  Vulnerable spots will have the ***vulnerability*** trait on them.  Typically these will be called out in the statblock and require a -2 circumstance penalty to aim for the weak spot in return for extra damage or bypassing resistances and/or immunities.
+
+A player can use the Recall Knowledge action to try and identify a Vulnerable Spot on a creature that has one. The GM can provide the player with the Vulnerable Spot in lieu of other best known attributes of the creature.
+
+### Alignment Post-Remaster?
+Alignment was left in for each creature despite alignment being removed in the Remaster for Pathfinder 2e for legacy reasons.  There are GMs and players who prefer to play with the old alignment system and so alignment on creatures is preserved for people who want to use that system.  If you want to be fully Remaster compatible, simply ignore the alignment trait in all statblocks.
+
+### Other Bestiaries
+Some monsters have been removed and placed into other bestiaries.  To find these statblocks, please see the following bestiaries.
+
+* [Ancient Guardians of Hyrule](https://scribe.pf2.tools/v/F3fW3tbw-ancient-guardians-of-hyrule)
+* [The Dead of Hyrule](https://scribe.pf2.tools/v/LxBRv4x1-the-dead-of-hyrule)
+* [The Book of Blins](https://scribe.pf2.tools/v/Dmb2mdWb-the-book-of-blins)
+* Hyrulean Reptilians
+=
+=
+# Ache ((+Ache))
+
+## Ache ((++Ache))
+Called "Eyes of Ganon" by townsfolk, Aches can disguise themselves in the villages of Hyrule as ordinary Hylians. Almost anyone you talk to may be an Ache in disguise, and they often reveal themselves and attack when talked to, striking unexpectedly.
+right(
+# Eyes of Ganon
+Aches act as spies and messengers for the dark lord Ganon, often disguising themselves as townsfolk in hopes of luring potential heroes to an unwitting death.
+![Ache](https://i.imgur.com/vgsXRnF.png)
+)
+
+item(
+# Ache
+## Creature 2
+-
+;NE,Small,Fiend,Unholy
+**Perception** +11; darkvision, echolocation (precise) 40 feet
+
+**Languages** Demonic, Hylian; telepathy 100 feet
+
+**Skills** Acrobatics +8, Athletics +8, Deception +7, Society +7, Stealth +8
+
+**Str** +3, **Dex** +5, **Con** +2, **Int** +1, **Wis** +3, **Cha** +2
+-
+**AC** 18; **Fort** +9, **Ref** +8, **Will** +7
+
+**HP** 30; **Weaknesses** holy 5
+-
+**Speed** 15 feet, fly 30 feet
+
+**Melee** :a: fangs +13 (unholy), **Damage** 1d8+4 piercing plus 1d6 spirit
+
+**Melee** :a: wing +10 (agile), **Damage** 1d6+4 slashing
+
+**Change Shape** :a: (concentrate, divine, polymorph) The ache transforms into a Medium humanoid, loses their fangs and wings Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their wing.
+Human with fist +10 for 1d6+4 bludgeoning and no fly speed
+)
+/
+## Acheman ((++Acheman))
+Monstrous bats cursed by evil. They are similar to aches, though they do not disguise themselves as Hylians like their counterparts. Instead, they hang from ceilings in deep red, ache-like forms. When their prey draws close, they swoop to the ground and transform into bat-like men that spit volleys of fire. After they spit a few blasts of flame, they return to their ache forms and return to the ceiling.
+
+right(
+# Giant Bats
+The acheman is capable of transforming into an ache form or back into its monstrous humanoid form.
+
+![Acheman](https://i.imgur.com/EQrrlKB.png)
+)
+
+item(
+# Acheman
+## Creature 4
+-
+;NE,Medium,Fiend,Unholy
+**Perception** +15; darkvision, echolocation (precise) 40 feet
+
+**Languages** Demonic, Hylian
+
+**Skills** Acrobatics +12, Athletics +10, Intimidation +8, Stealth +10
+
+**Str** +3, **Dex** +5, **Con** +2, **Int** -2, **Wis** +3, **Cha** +2
+-
+**AC** 20; **Fort** +8, **Ref** +14, **Will** +11
+
+**HP** 55; **Weaknesses** holy 5
+-
+**Speed** 25 feet, fly 25 feet
+
+**Melee** :a: claw +15 (agile, unholy), **Damage** 2d6+5 slashing plus 1d6 spirit
+
+**Ranged** :a: flame spit +13 (divine, fire, range 30 feet), **Damage** 3d6 fire
+
+**Change Shape** :a: (concentrate, divine, polymorph) Ache with fangs +15 for 1d8+7 piercing plus 1d6 spirit with the unholy trait
+)
+=
+# Aerocuda ((+Aerocuda))
+An airborne creature that can be recognized by its distinctive cries. They have strong, dexterous feet and can often be seen cruising through the sky with animals or other monsters in their clutches. Thankfully, the breed's lightweight, aerodynamic body makes it easy to shoot down.
+
+right(
+# Monster Drop Troops
+Aerocudas are commonly found holding blins and lizals in their grasps, swooping in and dropping them as a primitive form of drop troopers in war.
+
+![Aerocuda](https://i.imgur.com/NJHVavD.png)
+)
+
+item(
+# Aerocuda
+## Creature 1
+-
+;N,Medium,Animal
+**Perception** +7; low-light vision
+
+**Skills** Acrobatics +8, Athletics +7
+
+**Str** +3, **Dex** +4, **Con** +1, **Int** -4, **Wis** +1, **Cha** +0
+-
+**AC** 15; **Fort** +5, **Ref** +9, **Will** +4
+
+**HP** 15
+-
+**Speed** 10 feet, fly 25 feet
+
+**Melee** :a: claw +9, **Damage** 1d6+3 piercing plus Grab
+
+**Dive Bomb** :a: **Frequency** once per round; **Effect** The aerocuda Flies in a straight line and makes a Strike at the end of that movement.
+
+**Drop Object** :a: **Requirement** The aerocuda is holding an object; **Effect** The aerocuda Flies up to its fly Speed. At any point during this movement, it can drop an item of at least 1 bulk that it is carrying.  If the object is dropped on a creature, the creature takes 1d6 damage of the appropriate type for every 10 feet it has fallen with a maximum of 3d6 (DC 14 basic Reflex).
+)
+=
+# Ampilus ((+Ampilus))
+Ampilus are desert-dwelling animals, resembling a cross between a squilla and an ammonite, with an ability to internally generate electrical energy. Their shells are able to disperse weight surprisingly well, allowing them to safely traverse desert sinksand.
+
+right(
+# Quicksand Traversal
+Ampilus shells have a weight-dispersing property that allows them to remain afloat on top of quicksand.  Shrewd adventurers can make use of this property to traverse areas blocked off by quicksand.
+
+![Ampilus](https://i.imgur.com/x3B3C79.png)
+)
+
+item(
+# Ampilus
+## Creature 3
+-
+;N,Medium,Animal
+**Perception** +9
+
+**Skills** Athletics +10
+
+**Str** +4, **Dex** +3, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
+
+**Quicksand Immunity** The ampilus ignores difficult terrain caused by sand in deserts and does not trigger quicksand environmental hazards.
+-
+**AC** 19; **Fort** +9, **Ref** +7, **Will** +5
+
+**HP** 48; **Immunities** electricity
+
+**Electric Aura** (aura, electricity); **Requirement** The ampilus has withdrawn into its shell.  **Effect** 5 feet, 2d6 electricity damage, DC 18 basic Reflex save
+-
+**Speed** 25 feet
+
+**Melee** :a: claw +12 (agile), **Damage** 1d6+5 slashing
+
+**Shell Withdrawal** :a: The ampilus withdraws into its shell, which is charged with electricity.  While withdrawn into its shell, the ampilus's Speed increases by 10 feet as it rolls around, it gains an electric aura, and it cannot make a claw Strike but gains a slam Strike.  Its slam Strike has a +12 attack bonus, and deals 1d8+5 bludgeoning damage plus 1d6 electricity damage.
+)
+=
+# Armos ((+Armos))
+There are many kinds of ancient statues inside the various dungeons of Hyrule.  Some of these statues are capable of coming to life, hopping after the intruder that alerted them.  It is not known who built or animated these statues as there are a multitude of designs, not matching any one civilization.  The tiny Minish, for example, created some armos statues that they can pilot, but not all armos are capable of being piloted in this fashion.
+
+## Armos
+An armos appears indistinguishable from a stone statue, and in fact is comprised almost entirely of stone animated by magic.  As a nonliving sentry, it remains dormant wherever its master or creator has placed it.  In many cases, an armos will stay on guard for centuries or longer, remaining as motionless as the stone statue it resembles.
+
+right(
+# Ancient Guardians
+Armos are usually found in ancient temples, standing silently and unmoving, coming to life only when an intruder walks near.
+![Armos](https://i.imgur.com/deh2Pk9.png)
+)
+item(
+# Armos ((++Armos))
+## Creature 3
+-
+;N,Medium,Armos,Construct,Mindless
+**Perception** +6; darkvision
+
+**Skills** Athletics +7, Stealth +10
+
+**Str** +4, **Dex** -2, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
+-
+**AC** 19 (15 when broken); **Fort** +12, **Ref** +5, **Will** +5; construct armor
+
+**HP** 35; **Hardness** 6; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
+**Construct Armor** Like normal objects, an armos has Hardness.  This Hardness reduces any damage it takes by an amount equal to the Hardness.  One an armos is reduced to less than half its Hit Points, or immediately upon being damage by a critical hit, its construct armor breaks and its Armor Class is reduced to 15.
+
+**Death Burst** When an armos is destroyed, its body explodes in a 5-foot emanation of concussive burst.  All creatures and objects in the area take 3d6 sonic damage (DC 17 basic Reflex save).
+-
+**Speed** 20 feet
+
+**Melee** :a: slam +11 (magical), **Damage** 1d8+6 bludgeoning
+)
+=
+## Armos Warrior
+The armos warrior is a variant of an armos that boasts a huge shield that protects it from damage, and a sword that it directs seemingly telepathically.  Unlike other armos, the armos warrior is not mindless and is capable of conversation.
+
+right(
+![Armos Warrior](https://i.imgur.com/vXPpnAr.png)
+)
+item(
+# Armos Warrior ((++Armos Warrior))
+## Creature 9
+-
+;N,Large,Armos,Construct
+**Perception** +15; darkvision
+
+**Languages** Hylian
+
+**Skills** Athletics +20
+
+**Str** +7, **Dex** -2, **Con** +6, **Int** -1, **Wis** +0, **Cha** -5
+
+**Items** *+1 striking* longsword, *minor sturdy shield* (Hardness 8, HP 64, BT 32)
+-
+**AC** 30 (32 with shield raised; 26 when broken, 28 when broken with shield raised); **Fort** +21, **Ref** +11, **Will** +13; construct armor
+
+**HP** 135; **Hardness** 10; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, unconscious
+
+**Construct Armor** Like normal objects, an armos warrior has Hardness.  This Hardness reduces any damage it takes by an amount equal to the Hardness.  One an armos warrior is reduced to less than half its Hit Points, or immediately upon being damage by a critical hit, its construct armor breaks and its Armor Class is reduced to 26 (28 with shield raised).
+
+**Shield Block** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: longsword +21 (magical, versatile P), **Damage** 2d8+15 slashing
+
+**Melee** :a: fist +21 (agile, finesse, magical), **Damage** 2d6+13 bludgeoning
+
+**Telekinetic Sword Control** Any melee weapon wielded by the armos warrior is treated as having the *dancing* rune when wielded by the armos, using the same attack bonus and damage as the armos would have when wielding it normally.
+)
+=
+# Aruroda ((+Aruroda))
+Large scorpion-like animals, aruroda are commonly found on beaches, in deserts, and inside caves.  They prefer to nest under the sand and also use the sand as a way to hide and ambush any potential prey that comes nearby.  Aruroda use their powerful venom to incapacitate prey and then drag the helpless creature underneath into the aruroda's nest to be feasted upon.  They are capable of igniting their venom and firing small globs of ignited venom from their stinger, sometimes hiding under the  stand with just the stinger exposed to stay out of sight while spraying ignited venom at threats.
+
+right(
+# Flammable Venom
+Aruroda vneom is highly prized for its flammable properties, often being used in the creation of alchemist's fire or as a reagent for fire spells.
+![Aruroda](https://i.imgur.com/WnkM1I7.png)
+)
+item(
+# Aruroda
+## Creature 4
+-
+;N,Medium,Animal
+**Perception** +11; darkvision, tremorsense (imprecise) 60 feet
+
+**Skills** Athletics +12, Stealth +10
+
+**Str** +5, **Dex** +2, **Con** +4, **Int** -4, **Wis** +3, **Cha** -2
+-
+**AC** 20; **Fort** +14, **Ref** +8, **Will** +8
+
+**HP** 63; **Weaknesses** vulnerable eye
+
+**Vulnerable Eye** The aruroda's single eye is particularly vulnerable compared to its armored body.  A creature may take a -2 circumstance penalty to its attack to specifically target the eye.  The aruroda has weakness 10 to piercing damage and weakness 5 to other types of damage from Strikes that target the eye.
+-
+**Speed** 25 feet, burrow 10 feet
+
+**Melee** :a: pincer +12 (agile), **Damage** 2d6+5 piercing plus Grab
+
+**Melee** :a: fist +21 (agile, finesse, magical), **Damage** 2d6+13 bludgeoning
+
+**Ranged** :a: ignited venom +12 (fire, range increment 20 feet), **Damage** 2d6 fire
+
+**Constrict** :a: 1d6+5 bludgeoning, DC 20
+
+**Aruroda Venom** (poison); **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d12 poison damage and enfeebled 1 (1 round); **Stage 2** 2d12 poison damage and enfeebled 1 (1 round); **Stage 3** 2d12 poison damage and enfeebled 2 (1 round)
+)
