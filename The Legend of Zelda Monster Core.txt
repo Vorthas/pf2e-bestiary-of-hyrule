@@ -45,7 +45,7 @@ Some monsters have been removed and placed into other bestiaries.  To find these
 * [The Dead of Hyrule](https://scribe.pf2.tools/v/LxBRv4x1-the-dead-of-hyrule)
 * [The Book of Blins](https://scribe.pf2.tools/v/Dmb2mdWb-the-book-of-blins)
 * Hyrulean Reptilians
-=
+* [Skyward Threats](https://scribe.pf2.tools/v/fByTSw8P-skyward-threats)
 =
 # Ache ((+Ache))
 
@@ -260,7 +260,7 @@ item(
 
 **Melee** :a: fist +21 (agile, finesse, magical), **Damage** 2d6+13 bludgeoning
 
-**Telekinetic Sword Control** Any melee weapon wielded by the armos warrior is treated as having the *dancing* rune when wielded by the armos, using the same attack bonus and damage as the armos would have when wielding it normally.
+**Telekinetic Sword Control** Any melee weapon wielded by the armos warrior is treated as if it had the *dancing* rune when wielded by the armos, using the same attack bonus and damage as the armos would have when wielding its normally.
 )
 =
 # Aruroda ((+Aruroda))
@@ -294,9 +294,1116 @@ item(
 
 **Melee** :a: fist +21 (agile, finesse, magical), **Damage** 2d6+13 bludgeoning
 
-**Ranged** :a: ignited venom +12 (fire, range increment 20 feet), **Damage** 2d6 fire
+**Ranged** :a: ignited venom +12 (fire, range increment 120 feet), **Damage** 2d6 fire
 
 **Constrict** :a: 1d6+5 bludgeoning, DC 20
 
 **Aruroda Venom** (poison); **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d12 poison damage and enfeebled 1 (1 round); **Stage 2** 2d12 poison damage and enfeebled 1 (1 round); **Stage 3** 2d12 poison damage and enfeebled 2 (1 round)
 )
+=
+# Baba ((+Baba))
+A baba, more commonly known as deku baba, is a species of carnivorous plants, commonly found in deep forests.  Normally stationary, baba remain inactive until potential prey walks near, at which point the plant lunges forwards to attempt to devour the unlucky soul that wandered too close.
+
+## Diababa ((++Diababa))
+A diababa is an immense form of deku baba twisted by diaboloical magic, a cursed forest, or otther monstrous supernatural phenomenon.  In its evolved and utterly evil form, diababa exists to destroy.
+
+right(
+# Carnivorous Plants
+Like the deku baba it evolved from, a diababa is a carnivorous plant, consuming animals and people that wander too close for nutrition.
+
+![Diababa](https://i.imgur.com/ezSlhvX.png)
+)
+
+item(
+# Diababa
+## Creature 6
+-
+;Rare,CE,Huge,Baba,Plant
+**Perception** +14; low-light vision
+
+**Skills** Athletics +15
+
+**Str** +4, **Dex** +0, **Con** +5, **Int** -3, **Wis** +2, **Cha** +0
+-
+**AC** 23; **Fort** +17, **Ref** +11, **Will** +11
+
+**HP** 120; **Immunities** frightened, poison; **Resistances** acid 5, bludgeoning 5, slashing 5
+
+**Lunge** :r: **Trigger** A creature within reach of the diababa's jaws uses a move action or leaves a square during a move action it's using.  **Effect** The diababa makes a jaws Strike at the creature with a -2 penalty.  If it hits, the diababa disrupts the creature's action.
+-
+**Speed** 15 feet
+
+**Melee** :a: jaws +17 (reach 15 feet), **Damage** 2d6+8 piercing plus Grab and Baba Poison
+
+**Ranged** :a: acid spit +15 (acid, range increment 40 feet), **Damage** 2d4+7 acid
+
+**Baba Poison** (poison); **Saving Throw** DC 24 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** sickened 1 (1 round), **Stage 2** sickened 2 (1 round)
+
+**Breath Weapon** :aa: (poison, primal) The diababa breathes a toxic cloud that deals 7d6 poison damage in a 30-foot cone (DC 24 basic Fortitude save).  Creatures that fail the save are also subject to Baba Poison.  It can't use Breath Weapon again for 1d4 rounds.
+)
+
+=
+# Bari ((+Bari))
+
+## Biri ((++Biri))
+Jellyfish-like creatures charged with electricity for defense and hunting purposes.
+
+right(
+![Biri](https://i.imgur.com/zwX0mfv.png)
+)
+
+item(
+# Biri
+## Creature 2
+-
+;N,Small,Amphibious,Animal,Mindless
+**Perception** +8; darkvision
+
+**Skills** Acrobatics +8
+
+**Str** +1, **Dex** +3, **Con** +2, **Int** -5, **Wis** +0, **Cha** -2
+-
+**AC** 17; **Fort** +8, **Ref** +11, **Will** +5
+
+**HP** 30; **Immunities** electricity, mental
+
+**Bioelectrical Pulse** (aura, electricity) The biri pulses with electrical energy, discharging it when a threat comes near.  When an adjacent creature touches the biri or hits it with a physical attack, that creature takes 2d6 electricity damage unless it succeeds at a DC 20 Fortitude save.
+-
+**Speed** 15 feet, swim 25 feet
+
+**Melee** :a: slam +9 (electricity), **Damage** 1d8+1 bludgeoning plus 1d6 electricity
+)
+=
+## Bari ((++Bari))
+Larger verisions of biri, bari have longer tentacles and are capable of splitting when struck.
+
+right(
+![Bari](https://i.imgur.com/vSmVYOf.png)
+)
+
+item(
+# Bari
+## Creature 4
+-
+;N,Medium,Amphibious,Animal,Mindless
+**Perception** +11; darkvision
+
+**Skills** Acrobatics +12
+
+**Str** +1, **Dex** +3, **Con** +3, **Int** -5, **Wis** +0, **Cha** -2
+-
+**AC** 20; **Fort** +11, **Ref** +14, **Will** +6
+
+**HP** 60; **Immunities** electricity, mental
+
+**Bioelectrical Pulse** (aura, electricity) The bari pulses with electrical energy, discharging it when a threat comes near.  When an adjacent creature touches the biri or hits it with a physical attack, that creature takes 3d6 electricity damage unless it succeeds at a DC 21 Fortitude save.
+
+**Split** When the bari is hit by an attack that would deal slashing or piercing damage and has 10 or more HP, it splits into two identical bari, each with half the original’s HP. One bari is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push).  A bari can only split once.
+-
+**Speed** 15 feet, swim 25 feet
+
+**Melee** :a: tentacle +9 (electricity, reach 10 feet), **Damage** 1d8+1 bludgeoning plus 2d6 electricity
+
+**Tentacle Spin** :aa: The bari spins in place, making a tentacle attack at each creature within reach.   The tentacle attacks count against the bari's multiple attack penalty, but don't apply the penalty until after all attacks have been made.
+)
+=
+## Barinade ((++Barinade))
+A large sea anenome-like monster, barinade are monstrous parasites that feed upon the life energy of larger creatures, such as Jabu-Jabu.  Barinade are able to absorb and channel the bioelectrical energy of the host, unleashing powerful beams of electrical energy as a defense mechanism.
+
+right(
+![Barinade](https://i.imgur.com/itWZROX.png)
+)
+
+item(
+# Barinade
+## Creature 7
+-
+;Rare,N,Large,Amphibious,Animal,Electricity
+**Perception** +12; darkvision
+
+**Skills** Athletics +15
+
+**Str** +4, **Dex** +3, **Con** +4, **Int** -4, **Wis** +0, **Cha** -3
+-
+**AC** 24; **Fort** +18, **Ref** +14, **Will** +12
+
+**HP** 144; **Immunities** electricity, precision; **Resistances** bludgeoning 10; **Weaknesses** piercing 5, slashing 5
+
+**Bari Defense** Barinade has 6 bari defending its core.  Each bari can be targeted as a separate creature, with AC 22 and HP 12, though damaging them also reduces barinade's HP.  Each bari killed reduces the bludgeoning damage dealt by Bari Spin by 1d6.  As long as barinade still has a living bari connected to it, it can use Bari Spin.
+-
+**Speed** 25 feet, swim 25 feet
+
+**Melee** :a: slam +18, **Damage** 2d8+8 bludgeoning
+
+**Ranged** :a: bioelectrical beam +16 (electricity, range 30 feet), **Damage** 2d8+11 electricity
+
+**Bari Spin** :aa: Barinade spins its bari around it while moving.  Barinade Strides and deals 6d6 bludgeoning plus 1d6 electricity damage (DC 25 basic Reflex save) to each creature it moves within 10 feet of during its stride.  A creature can only take this damage once per round.  The bludgeoning damage is reduced by 1d6 for each bari killed.  Barinade cannot use Bari Spin if all its bari have been killed.
+
+**Charged Bioelectrical Beam** :aa: (electricity) Barinade unleashes a powerful beam of electricity in a 30-foot line that deals 6d8 electricity damage (DC 25 basic Reflex save).  Barinade cannot use Charged Electrical Beam again for 1d4 rounds.
+)
+=
+# Blins ((+Blins))
+A loose collection of monstrous humanoids with a common progenitor, the blin serve as rank-and-file soldiers for Ganon's armies. Nearly universally feared across Hyrule for their propensity to violence and brutal primitivism, the blin roam the wilderness - sometimes on direct orders from Ganon, and other times simply as hunters - making travel less safe as a result.
+
+/
+## Bokoblins ((++Bokoblins))
+
+The second smallest and weakest of the blin tribes, the bokoblins make up for their size in large numbers. Not as cunning as the smaller miniblins, nor as strong as their moblin or bulblin brethren, bokoblins tend to act as cannon fodder in wartime or as common bandits led by a stronger moblin.
+
+right(
+# Blin Camps
+Bokoblins are very common across Hyrule and often band together in camps, either lead by a larger moblin or a stronger blue or black bokoblin.
+
+![Bokoblin](https://i.imgur.com/rhRikF9.png)
+)
+
+item (
+# Bokoblin ((+++Bokoblin))
+## Creature 1
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +5; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +7, Survival +6
+
+**Str** +0, **Dex** +4, **Con** +1, **Int** +0, **Wis** +1, **Cha** +0
+
+**Items** club, slingshot (20 sling bullets)
+-
+**AC** 15; **Fort** +7, **Ref** +10, **Will** +4
+
+**HP** 18
+-
+**Speed** 25 feet
+
+**Melee** :a: club +9 (thrown 10 feet), **Damage** 1d6+2 bludgeoning
+
+**Ranged** :a: slingshot +9 (propulsive, range increment 60 feet), **Damage** 1d4+2 bludgeoning
+)
+=
+## Bokoblin Horde ((+++Bokoblin Horde))
+
+Bokoblins are individually weak and so use their superior numbers to make up for their lack of strength.  A troop of bokoblins is usually led by a black, silver, or gold bokoblin.
+
+item (
+# Bokoblin Horde
+## Creature 5
+-
+;CE,Gargantuan,Blin,Humanoid,Troop
+**Perception** +12; low-light vision
+
+**Languages** Blin
+
+**Skills** Athletics +14, Intimidation +12, Survival +12
+
+**Str** +5, **Dex** +2, **Con** +4, **Int** +0, **Wis** +2, **Cha** +2
+-
+**AC** 22; **Fort** +14, **Ref** +11, **Will** +11
+
+**HP** 75 (16 squares); **Thresholds** 50 (12 squares), 25 (8 squares); **Weaknesses** area damage 10, splash damage 5
+
+**Troop Defenses**
+-
+**Speed** 25 feet; troop movement
+
+**Arrow Volley** :aa: The bokoblins draw or reload their shortbows and launch a ranged attack in the form of a volley.  This volley is a 10-foot burst within 60 feet that deals 3d6+3 piercing damage (DC 19 basic Reflex save).  When the bokoblins are reduced to 8 or fewer squares, this area decreases to a 5-foot burst.
+
+**Charge!** :aa: **Requirements** the horde has Formed Up; **Effect** The bokoblins lower their spears and charge.  The troop Strides in a straight line until they're adjacent to an enemy then use Lower Spears!, dealing 1d8+11 piercing damage.  Any creature that fails its save is also knocked prone.
+
+**Form Up** :a:
+
+**Lower Spears!** :a: to :aaa: **Frequency** once per round; **Effect** The bokoblins engage in a coordinated spear attack against each enemy within 10 feet, with a DC 19 basic Reflex save.  The damage depends on the number of actions.
+:a: 1d8 piercing damage
+:aa: 1d8+8 piercing damage
+:aaa: 1d8+11 piercing damage
+
+**Troop Movement** Whenever the bokoblins Stride, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), the move up to their Speed.  This works just like a Gargantuan creature moving; for instance, if any square of the bokoblins enter difficult terrain, the extra movement cost applies to all the bokoblins.
+)
+=
+## Boss Bokoblin ((+++Boss Bokoblin))
+Boss bokoblins are large, pig-like blins that lead teams of bokoblins by blowing their war horns and whistling.  They roam large open fields where they can wander without getting themselves stuck in tight spaces.
+
+right(
+![Boss Bokoblin](https://i.imgur.com/q3E8Mp4.png)
+)
+
+item (
+# Boss Bokoblin
+## Creature 7
+-
+;CE,Large,Blin,Humanoid
+**Perception** +13; low-light vision
+
+**Languages** Blin
+
+**Skills** Athletics +19, Intimidation +11
+
+**Str** +6, **Dex** +0, **Con** +4, **Int** +1, **Wis** +2, **Cha** +0
+
+**Items** *+1* longsword, hide armor
+-
+**AC** 24; **Fort** +17, **Ref** +12, **Will** +13
+
+**HP** 140
+
+**Catch Rock** :r:
+-
+**Speed** 35 feet
+
+**Melee** :a: longsword +19 (reach 10 feet, versatile P), **Damage** 1d8+14 slashing
+
+**Melee** :a: fist +18 (agile, reach 10 feet), **Damage** 1d6+4 bludgeoning
+
+**Ranged** :a: rock +18 (brutal, range increment 120 feet), **Damage** 1d8+14 bludgeoning
+
+**Throw Rock** :a:
+
+**War Horn** :aa: (auditory) The bokoblin blows its war horn, inspiring blins to combat.  All allied blin creatures within 60 feet may use a reaction to immediately Stride closer to a creature of the boss bokoblin's choice.
+
+**Wide Swing** :a: The bokoblin makes a single longsword Strike and compares the attack roll result to the ACs of up to two foes within its reach.  This counts as two attacks for the bokoblin's multiple attack penalty.
+)
+=
+## Horriblins ((++Horriblins))
+Horriblins are blins that cling to the ceilings of dark places such as caves.  They are known for their large, bulbous noses, gray skin, and hammer-shaped horns.  They often attack using spears and by throwing boulders that they tear out of the environment.
+
+right(
+![Horriblin](https://i.imgur.com/DQpljZ6.png)
+)
+
+item (
+# Horriblin ((+++Horriblin))
+## Creature 2
+-
+;CE,Medium,Blin,Humanoid
+**Perception** +8; darkvision
+
+**Languages** Blin
+
+**Skills** Acrobatics +7, Athletics +8, Stealth +7, Survival +5
+
+**Str** +5, **Dex** +3, **Con** +3, **Int** -1 **Wis** +2, **Cha** +0
+
+**Items** longspear
+-
+**AC** 18; **Fort** +8, **Ref** +11, **Will** +5
+
+**HP** 32
+-
+**Speed** 25 feet, climb 25 feet
+
+**Melee** :a: longspear +11 (reach 10 feet), **Damage** 1d8+5 piercing
+
+**Horriblin Ambush** :a: The horriblin Climbs and makes a Strike at the end of that movement. If the horriblin began this action hidden, it remains hidden until after this ability's Strike.
+
+**Powerful High Jump** :aa:  The horriblin Leaps vertically up to 20 feet, and can Grab an Edge as a free action if there is a surface above them and within reach.
+
+**Sneak Attack** The horriblin deals an additional 1d6 precision damage to off-guard creatures.
+)
+=
+## Miniblins ((++Miniblins))
+
+An adult miniblin stands at a height comparable to a small hylian child, with facial features reminiscent of a mouse. These creatures are known for both the bizarrely unique chirping and giggling noises they make, and their uncanny ability to ascend even the smoothest of walls with ease. Like most moblins, a miniblin's coloration varies from one to the next, with reds and browns being the most abundant.
+
+right(
+# Aquatic Miniblins
+Some miniblins almost exclusively live out at sea.  They are usually identified by having small fins and are often seen wearing goggles.
+
+![Miniblin](https://i.imgur.com/7FdOGtt.png)
+
+You can represent an aquatic miniblin by giving the normal miniblin a swim speed of 20 feet.
+)
+
+item (
+# Miniblin ((+++Miniblin))
+## Creature -1
+-
+;CE,Small,Blin,Humanoid
+**Perception** +5; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +4, Stealth +5
+
+**Str** +0, **Dex** +3, **Con** +2, **Int** +0, **Wis** -1, **Cha** -1
+-
+**AC** 14; **Fort** +2, **Ref** +8, **Will** +5
+
+**HP** 8
+
+**Blin Scuttle** :r: **Trigger** A blin ally ends a move action adjacent to the miniblin.  **Effect** The miniblin Steps.
+-
+**Speed** 30 feet, climb 30 feet
+
+**Melee** :a: trident +6, **Damage** 1d4+1 piercing
+
+**Ranged** :a: trident +6 (thrown 20 feet), **Damage** 1d4+1 piercing
+
+**Pack Attack** The miniblin's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the miniblin's allies.
+)
+=
+## Miniblin Horde ((+++Miniblin Horde))
+Miniblins regularly fight in swarms.  They are not as coordinated as other blins are, but their smaller size makes them useful for crowding onto a single target.
+
+right (
+# Swarming Nuisance
+Individually, miniblins are quite weak, but they are known to group together in large numbers to overwhelm their foes.
+
+![Miniblin Horde](https://i.imgur.com/cITFV9T.png)
+)
+
+item (
+# Miniblin Horde
+## Creature 3
+-
+;CE,Gargantuan,Blin,Humanoid,Troop
+**Perception** +9; low-light vision
+
+**Languages** Blin
+
+**Skills** Acrobatics +9, Stealth +10
+
+**Str** +3, **Dex** +1, **Con** +3, **Int** +0, **Wis** +1, **Cha** +1
+-
+**AC** 18; **Fort** +6, **Ref** +12, **Will** +9
+
+**HP** 48 (16 squares); **Thresholds** 32 (12 squares), 16 (8 squares); **Weaknesses** area damage 5, splash damage 3
+
+**Troop Defenses**
+-
+**Speed** 30 feet, climb 30 feet; troop movement
+
+**Form Up** :a:
+
+**Poke Poke!** :a: to :aaa: **Frequency** once per round; **Effect** The miniblins engage in a coordinated melee attack against each enemy within 5 feet, with a DC 17 basic Reflex save.  The damage depends on the number of actions.
+:a: 1d8 piercing damage
+:aa: 1d8+4 piercing damage
+:aaa: 1d8+8 piercing damage
+
+**Troop Movement** Whenever the miniblins Stride, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the miniblins enters difficult terrain, the extra movement cost applies to all the miniblins.
+)
+=
+## Moblins ((++Moblins))
+Also known as big blins, brown moblins, or occasionally mudblins, these brown-skinned creatures are often considered icons of their race. A typical adult moblin towers most other humanoids, with over 8 feet of muscle and fat - a gruesome and intimidating sight that earns its title of "big." Although they usually live in wilderness among beasts, big moblins are generally apex predators in their environment. They have been known to populate almost any terrestrial landscape, but prefer temperate climates with abundant fauna due to their carnivorous diet.
+
+right(
+![Moblin](https://i.imgur.com/tRz7HAJ.png)
+)
+
+item (
+# Moblin ((+++Moblin))
+## Creature 3
+-
+;CE,Large,Blin,Humanoid
+**Perception** +9; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Athletics +10, Intimidation +9, Survival +10
+
+**Str** +4, **Dex** +1, **Con** +3, **Int** +1, **Wis** +1, **Cha** +0
+
+**Items** longsword or spear, wooden shield (Hardness 3, HP 12, BT 6)
+-
+**AC** 18 (20 with shield raised); **Fort** +9, **Ref** +8, **Will** +6
+
+**HP** 42
+
+**Shield Block** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: spear +12, **Damage** 1d6+6 piercing
+
+**Melee** :a: longsword +12 (versatile P), **Damage** 1d8+6 slashing
+
+**Ranged** :a: spear +12 (thrown 20 feet), **Damage** 1d6+6 piercing 
+)
+
+right(
+![Big Moblin](https://i.imgur.com/s2F65Au.png)
+)
+
+item (
+# Spear Moblin ((+++Spear Moblin))
+## Creature 4
+-
+;CE,Large,Blin,Humanoid
+**Perception** +10; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Athletics +12, Intimidation +10, Survival +12
+
+**Str** +5, **Dex** +2, **Con** +3, **Int** +1, **Wis** +1, **Cha** +0
+
+**Items** *+1* spear, hide armor
+-
+**AC** 20; **Fort** +11, **Ref** +9, **Will** +8
+
+**HP** 59
+-
+**Speed** 25 feet
+
+**Melee** :a: spear +14, **Damage** 2d6+7 piercing
+
+**Ranged** :a: spear +14 (thrown 20 feet), **Damage** 2d6+7 piercing
+
+**Powerful Charge** :aa: The moblin Strides twice, then makes a spear Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d6+9.
+)
+=
+## Shield Moblin ((+++Shield Moblin))
+Moblins that appear as corpulent red monsters twice the size of the average hylian. Their brute strength, powerful spears, and durable shields they carry makes them considerably dangerous enemies. When disarmed of their shield, these moblins fly into a rage making them even more formidable.
+
+right(
+![Shield Moblin](https://i.imgur.com/x2BBOS6.png)
+)
+
+item (
+# Shield Moblin
+## Creature 5
+-
+;CE,Large,Blin,Humanoid
+**Perception** +9; scent (precise) 30 feet
+
+**Languages** Blin
+
+**Skills** Athletics +13, Intimidation +12, Survival +13
+
+**Str** +5, **Dex** +2, **Con** +5, **Int** -1, **Wis** +1, **Cha** +0
+
+**Items** *+1* dueling spear, tower shield (Hardness 5, HP 20, BT 10)
+-
+**AC** 22 (24 with shield raised); **Fort** +15, **Ref** +11, **Will** +9
+
+**HP** 90; **Resistances** bludgeoning 5
+
+**Shield Block** :r:
+-
+**Speed** 25 feet
+
+**Melee** :a: dueling spear +15 (disarm, finesse, two-hand d10, versatile S), **Damage** 2d8+7 piercing 
+
+**Melee** :a: slam +15, **Damage** 2d8+7 bludgeoning 
+
+**Powerful Charge** :aa: The moblin Strides twice, then makes a melee Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 3d8+9.
+
+**Rage** :a: **Requirement** The moblin's shield is destroyed or it has been Disarmed of its shield.  **Effect** As the barbarian class ability; AC 21, +10 Hit Points, +2 melee damage
+
+**Spinning Spear** :aa: The moblin spins in place with its spear out.  The moblin makes up to four spear Strikes that deal slashing damage.  No single creature can be targeted by more than one spear Strike during one use of this ability.  These attacks count toward the moblin's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks are made.
+)
+=
+# Boe ((+Boe))
+Boes are shuffling, hazy balls that often thrive in the darkness, though a white variant exists that thrives in snow and bright lights instead.  Both types are not very threatening when isolated, and can be dispelled easily with a single attack. However, these floating creatures tend to cluster in groups, and in such situations can pose more of a threat to inexperienced adventurers.
+
+right(
+# Snow Variants
+Most boes are black in color, but there exists a white variant that lives in snowy regions rather than places of darkness.  White boes have a bonus to Stealth in snowy conditions instead of darkness.
+![Boe](https://i.imgur.com/JakHMXT.png)
+)
+
+item (
+# Boe ((++Boe))
+## Creature -1
+-
+;N,Tiny,Aberration
+**Perception** +5; darkvision, tremorsense (imprecise) 30 feet
+
+**Skills** Stealth +5 (+7 in darkness)
+
+**Str** -2, **Dex** +3, **Con** +1, **Int** -3, **Wis** +2, **Cha** -2
+-
+**AC** 14; **Fort** +4, **Ref** +8, **Will** +3
+
+**HP** 7
+-
+**Speed** 20 feet, climb 20 feet
+
+**Melee** :a: slam +6, **Damage** 1d4+1 bludgeoning 
+
+**Surprise Attack** On the first round of combat, if the boe rolls Stealth for initiative, creatures that haven’t acted are flat-footed to it.
+)
+/
+item (
+# Boe Swarm ((++Boe Swarm))
+## Creature 2
+-
+;N,Large,Aberration,Swarm
+**Perception** +8; darkvision, tremorsense (imprecise) 30 feet
+
+**Skills** Stealth +8 (+10 in darkness)
+
+**Str** -2, **Dex** +3, **Con** +1, **Int** -3, **Wis** +2, **Cha** -2
+-
+**AC** 16; **Fort** +7, **Ref** +11, **Will** +5
+
+**HP** 20; **Resistances** bludgeoning 5, piercing 5, slashing 3; **Weaknesses** area damage 3, splash damage 3
+-
+**Speed** 20 feet, climb 20 feet
+
+**Swarming Slams** :a: Each enemy in the boe swarm's space takes 1d8 bludgeoning damage (DC 16 basic Fortitude save). A creature that fails its save takes a -5 penalty to its Speed until the end of its next turn.
+)
+=
+# Bullbo ((+Bullbo))
+Large and tough pig-like animals, bullbos are notoriously hardheaded and tenacious.  They are considered a delicacy in some regions of the world.  Bulblins in particular have managed to domesticate bulbos, though this domestication is not complete, as a bulbo will go wild if not under constant care.
+
+right(
+![Bulbo](https://i.imgur.com/3P1aEXj.png)
+)
+
+item(
+# Bullbo
+## Creature 2
+-
+;N,Medium,Animal
+**Perception** +8; low-light vision, scent (imprecise) 30 feet
+
+**Skills** Acrobatics +5, Athletics +8, Survival +8
+
+**Str** +4, **Dex** +1, **Con** +4, **Int** -4, **Wis** +2, **Cha** -3
+-
+**AC** 18; **Fort** +10, **Ref** +5, **Will** +8
+
+**HP** 30
+
+**Buck** :r: DC 17
+
+**Ferocity** :r:
+-
+**Speed** 40 feet
+
+**Melee** :a: tusk +10, **Damage** 2d6+4 piercing
+
+**Bulbo Charge** :aa: The bullbo Strides twice and then makes a tusk Strike.  As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.
+)
+
+# Lord Bullbo ((++Lord Bullbo))
+An extremely large bullbo and favored mount of King Bulblin.  It has horns that grow from just behind its eyes instead of the standard Bullbo's tusks. Lord Bullbo's horns are not completely white as common bullbo' tusks are. Instead, they are striped red and white and are much larger. Lord Bullbo's roar is also pitched much lower than a normal bullbo's, likely due to its size. Since Lord Bullbo is extremely large, it is also immensely strong and can easily fling smaller creatures out of the way with its horns.
+
+right(
+![Lord Bullbo](https://i.imgur.com/VTu7swn.png)
+)
+
+item(
+# Lord Bullbo
+## Creature 4
+-
+;Unique,N,Large,Animal
+**Perception** +12; low-light vision, scent (imprecise) 30 feet
+
+**Skills** Acrobatics +8, Athletics +12, Survival +10
+
+**Str** +6, **Dex** +0, **Con** +3, **Int** -4, **Wis** +2, **Cha** -1
+-
+**AC** 21; **Fort** +13, **Ref** +9, **Will** +10
+
+**HP** 60
+
+**Buck** :r: DC 19
+
+**Ferocity** :r:
+-
+**Speed** 40 feet
+
+**Melee** :a: horn +14, **Damage** 2d8+6 piercing
+
+**Bulbo Charge** :aa: The bullbo Strides twice and then makes a horn Strike.  As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll.  A Medium or smaller creature struck by this attack must succeed at a DC 19 Reflex save or be knocked prone by the force of the blow.
+)
+=
+# Chuchus ((+Chuchus))
+Chuchus, sometimes known as chus, are gelatinous creatures of living slime or jelly, often depicted with facial features.  They can become elementally charged, with some chuchus being charged with fire, electricity, or ice powers.
+
+## Muck Chuchu ((++Muck Chuchu))
+Muck chuchus are found in areas defiled by waste, generally known as muck by the zora.  Evil forces tend to generate the muck that spawns muck chuchus in dark areas filled with water.
+
+item(
+# Muck Chuchu
+## Creature 1
+-
+;N,Medium,Chuchu,Mindless,Ooze
+**Perception** +3; motion sense 60 feet, no vision
+
+**Skills** Stealth +1 (+4 in muck-infested areas)
+
+**Str** +2, **Dex** -5, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
+
+**Motion Sense** A muck chuchu can sense nearby motion through vibration and air movement.
+-
+**AC** 8; **Fort** +9, **Ref** +1, **Will** +3
+
+**HP** 40; **Immunities** acid, critical hits, mental, precision, unconscious, visual
+-
+**Speed** 10 feet
+
+**Melee** :a: pseudopod +9, **Damage** 1d6+1 bludgeoning plus 1d4 acid
+
+**Muck Wave** :a: **Frequency** once per minute; **Effect** The muck chuchu unleashes a wave of muck, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1d4 acid damage and take a -10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls prone). A creature can spend and Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action.
+)
+
+## Volatile Chuchu ((++Volatile Chuchu))
+Some chuchus are elementally unstable.  When exposed to cold, electricity, or fire, this kind of chuchu is able to change its composition to become charged with that same kind of energy.
+
+right(
+# Chuchu Sizes
+Chuchus can come in all sorts of sizes.  A volatile chuchu can be Small, Medium, or Large with no other changes to the statblock.
+
+![Volatile Chuchu](https://i.imgur.com/fIoNsQt.png)
+)
+
+item(
+# Volatile Chuchu
+## Creature 3
+-
+;N,Small,Chuchu,Mindless,Ooze
+**Perception** +4
+
+**Skills** Athletics +8
+
+**Str** +3, **Dex** -5, **Con** +4, **Int** -5, **Wis** +0, **Cha** -5
+-
+**AC** 11; **Fort** +11, **Ref** +3, **Will** +5
+
+**HP** 80; **Immunities** critical hits, mental, precision, unconscious
+
+**Elementally Charged** :r: **Trigger** The chuchu is exposed to a spell or effect with the cold, electricity, or fire traits.  **Effect** The chuchu gains the corresponding energy trait of the spell or effect, it gains immunity to damage with that trait, and its pseudopod Strikes also gain that trait and deals 1d6 additional damage of that type.  When changing energy traits, the chuchu loses the previous energy trait it had, including immunity and damage type.
+-
+**Speed** 15 feet
+
+**Melee** :a: pseudopod +10, **Damage** 1d6+1 bludgeoning
+)
+=
+# Cucco ((+Cucco))
+Not many a fowl is so prolific in the Light World as the humble cucco. They are most commonly found in hylian farms, ranches, and small settlements in Hyrule and even in Termina continents. People usually raise cuccos for the hearty eggs they produce, although plenty of individuals simply keep them as pets. 
+
+right(
+# Aggressive Swarm
+Cuccos are normally docile creatures, but when angered they band together in a swarm and focus down the poor soul that angered them.
+
+![Cucco](https://i.imgur.com/GPV3lLx.png)
+)
+
+item(
+# Cucco
+## Creature -1
+-
+;N,Tiny,Animal
+**Perception** +5
+
+**Skills** Acrobatics +5
+
+**Str** -3, **Dex** +3, **Con** +0, **Int** -4, **Wis** +3, **Cha** +0
+-
+**AC** 15; **Fort** +2, **Ref** +7, **Will** +5
+
+**HP** 7
+
+**Summon Swarm** :r: **Trigger** The cucco is damaged. **Effect** The cucco calls for help and a swarm of cuccos appears, targeting the creature that damaged the cucco.
+-
+**Speed** 15 feet, fly 25 feet
+
+**Melee** :a: beak +7 (finesse), **Damage** 1d6 piercing
+)
+
+/
+
+item(
+# Cucco Swarm ((++Cucco Swarm))
+## Creature 3
+-
+;N,Large,Animal,Swarm
+**Perception** +9
+
+**Skills** Acrobatics +10, Athletics +10
+
+**Str** +0, **Dex** +3, **Con** +0, **Int** -4, **Wis** +3, **Cha** +0
+-
+**AC** 19; **Fort** +2, **Ref** +7, **Will** +5
+
+**HP** 30; **Immunities** precision, swarm mind; **Resistances** bludgeoning 2, piercing 5, slashing 5; **Weaknesses** area damage 5, splash damage 5
+-
+**Speed** 15 feet, fly 25 feet
+
+**Enraged Fowl** The swarm typically targets the creature that damaged the initial cucco.  It has a +2 status bonus to damage rolls against that creature.
+
+**Swarming Beaks** :a: The cuccos' angry pecking deals 1d8 piercing damage to each enemy in the swarm's space (DC 20 basic Reflex save).  A creature that critically fails its save is blinded for 1d4 rounds as the cuccos focus their attacks on the target's vulnerable face.
+)
+
+=
+# Darknut ((+Darknut))
+
+A heavily armored jackal-headed warrior that would make the best knights cower and flee. They are rare, and are often found in ancient dungeons. Some incredibly skilled spellcasters bolster their armies with darknuts in their most significant battles.
+
+## Darknut ((++Darknut))
+
+right(
+# Warrior Culture
+Darknuts are part of a proud warrior culture and will never back down from a challenge.  Defeating them in battle may reward the winner with a Knight's Belt, proof that they were able to best a formidable darknut in battle.
+
+![Darknut](https://i.imgur.com/rBTl9mA.png)
+)
+
+item(
+# Darknut
+## Creature 7
+-
+;LE,Uncommon,Medium,Darknut,Humanoid
+**Perception** +15
+
+**Languages** Hylian
+
+**Skills** Athletics +15, Intimidation +15, Society +13, Warfare Lore +17
+
+**Str** +6, **Dex** +2, **Con** +4, **Int** +2, **Wis** +3, **Cha** +3
+
+**Items** full plate, +1 *striking* longsword, *minor sturdy shield* (Hardness 8, HP 64, BT 32)
+-
+**AC** 25 (27 with shield raised; 23 after Remove Armor); **Fort** +18, **Ref** +12, **Will** +15
+
+**HP** 130
+
+**Parry and Riposte** :r: **Requirement** The darknut has used Remove Armor. **Trigger** A creature within the darknut's reach fails a Strike against it. **Effect** The darknut makes a melee Strike against the trigger creature.
+
+**Reactive Strike** :r:
+
+**Shield Block** :r: Before Remove Armor has been used.
+-
+**Speed** 25 feet (35 feet after Remove Armor)
+
+**Melee** :a: longsword +18 (magical, versatile P), **Damage** 2d8+9 slashing
+
+**Remove Armor** :a: **Requirement** The darknut is reduced to 65 Hit Points or fewer.  **Effect**  The darknut sheds its plate armor and throws away its shield, reducing its AC to 23 and losing the Shield Block reaction but increasing its speed to 35 feet and gaining the agile trait on its sword.
+)
+=
+## Darknut Legatus ((++Darknut Legatus))
+
+item(
+# Darknut Legatus
+## Creature 17
+-
+;LE,Rare,Medium,Darknut,Humanoid
+**Perception** +29
+
+**Languages** Hylian
+
+**Skills** Athletics +33, Diplomacy +30, Intimidation +33, Society +30, Survival +28, Warfare Lore +33
+
+**Str** +6, **Dex** +2, **Con** +4, **Int** +2, **Wis** +3, **Cha** +3
+
+**Items** *+2 greater resilient* full plate, *+2 greater striking* longsword, *greater sturdy shield* (Hardness 15, HP 120, BT 60)
+-
+**AC** 43 (45 with shield raised); **Fort** +32, **Ref** +26, **Will** +29
+
+**HP** 330
+
+**Legatus Stance** A darknut legatus always has their shield raised as if they had used the Raise a Shield action, as long as they meet that action's requirements.
+
+**Reactive Strike** :r: A darknut legatus can use Reactive Strike when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.
+
+**Shield Block** :r:
+
+**Shield Warden** A darknut legatus can use their Shield Block reaction to prevent damage to an adjacent ally.
+-
+**Speed** 30 feet
+
+**Melee** :a: longsword +38 (magical, versatile P), **Damage** 7d8+8 slashing
+
+**Shield Shove** :aa: The darknut legatus makes a Strike with their longsword, then attempts to push the target back. If the Strike hits, the target is off-guard until the start of the darknut's next turn, and the darknut can automatically Shove the target, with the same benefits as the Shove action (including the critical success effect if the Strike was a critical hit). If the darknut moves to follow the target, this movement doesn't trigger reactions. In addition, if the target has to stop moving because it would hit an object, it takes damage equal to the darknut's Strength modifier.
+
+**Sudden Charge** :aa: The darknut legatus Strides up to double their Speed. If the darknut ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.
+)
+=
+# Deku Scrub ((+Deku Scrub))
+Deku scrubs are plant-based creatures that have skin made of wood and hair and "clothing" made of leaves and flowers, and spit deku nuts at their enemies when threatened. They usually appear in a small, flower-like tuft of foliage which they hide within when threatened. They often appear as enemies, but despite their antagonistic nature they tend to be friendly, at least when they believe it to be to their own benefit. It is rumored that a deku scrub's disposition can change drastically depending on the type of tree they are born from.
+
+## Business Scrub ((++Business Scrub))
+Some deku scrubs take up jobs as merchants, wandering the world to peddle their wares.  They are cowardly by nature, preferring to hide in their flowers instead of fight.
+
+right(
+![Business Scrub](https://i.imgur.com/ihSS3HU.png)
+)
+
+item(
+# Business Scrub
+## Creature -1
+-
+;N,Small,Deku Scrub,Plant
+**Perception** +7; low-light vision
+
+**Languages** Deku, Hylian
+
+**Skills** Deception +10, Diplomacy +12, Performance +8, Society +8, Mercantile Lore +10
+
+**Str** +1, **Dex** +0, **Con** -1, **Int** +2, **Wis** +3, **Cha** +4
+
+**Appraising Eye** The business scrub can use Mercantile Lore to Recall Knowledge about items, including determining their value. They can also attempt to Identify Magic using Mercantile Lore and can do so without first knowing whether the item is magical.
+-
+**AC** 13; **Fort** +1, **Ref** +2, **Will** +11
+
+**HP** 7
+-
+**Speed** 25 feet
+
+**Melee** :a: fist +4 (agile, nonlethal, unarmed), **Damage** 1d4+1 bludgeoning
+
+**Ranged** :a: nut spit +4 (range increment 30 feet, unarmed), **Damage** 1d4 bludgeoning
+)
+=
+## Mad Scrub ((++Mad Scrub))
+Much more aggressive than common deku scrubs, mad scrubs attack any creatures that draw near with the intent to kill. After all, a corpse will eventually provide extra nourishment to the deku flower the mad scrub calls home. They distrust any and all who would approach them, save occasionally other deku scrubs. Mad scrubs can be found anywhere where flora is abundant, but are most common in marshes and wetlands.
+
+/
+right(
+# Madness
+A mad scrub's madness overtakes any previous reason they once had, leaving them to be forsaken by other Deku and banished to live a lonely life away from civilization.
+
+![Mad Scrub](https://i.imgur.com/0UdX6wU.png)
+)
+
+item(
+# Mad Scrub
+## Creature 1
+-
+;CE,Small,Deku Scrub,Plant
+**Perception** +7; darkvision
+
+**Languages** Deku
+
+**Skills** Stealth +7
+
+**Str** +0, **Dex** +3, **Con** +1, **Int** -2, **Wis** -1, **Cha** -2
+
+**Camouflage** The mad scrub can Hide in natural environments even if it doesn’t have cover.
+-
+**AC** 15; **Fort** +4, **Ref** +7, **Will** +4
+
+**HP** 21; **Resistances** poison 5
+-
+**Speed** 25 feet
+
+**Melee** :a: fist +5 (agile, nonlethal, unarmed), **Damage** 1d4 bludgeoning
+
+**Ranged** :a: nut spit +7 (range increment 30 feet, unarmed), **Damage** 1d6+2 bludgeoning
+
+**Nut Barrage** :aa: The mad scrub makes three nut shot Strikes.  These count toward the mad scrub's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks.
+)
+=
+# Dodongo ((+Dodongo))
+Dodongos are dinosaur-like reptiles that can grow to tremendous sizes. Most of them wield fire breath, immense physical strength, and thick armor-like scales. This combined with their feral aggression make them infamous monsters across the entire Light World. They have a notorious weakness to the thunderous detonations produced by bombs, and are almost single-handedly the reason any worthy adventurer keeps at least a few explosives at the ready. 
+
+## Baby Dodongo ((++Baby Dodongo))
+The infantile form of dodongos, baby dodongos are prone to exploding when killed. Despite being very young, they still have a nasty bite. They are small, serpentine creatures that slither along the ground, and burrow underneath for protection and ambushing.
+
+right(
+![Baby Dodongo](https://i.imgur.com/wHSB9hx.png)
+)
+
+item(
+# Baby Dodongo
+## Creature 0
+-
+;N,Small,Animal,Dinosaur,Dodongo
+**Perception** +6; darkvision, tremorsense (imprecise) 10 feet
+
+**Skills** Acrobatics +6, Athletics +5
+
+**Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +0, **Cha** -2
+
+**Death Throes** When the dodongo dies, its body explodes in a 5-foot burst of a fiery blast that deals 1d6 fire damage to each creature in the area (DC 14 basic Reflex save).
+-
+**AC** 15; **Fort** +6, **Ref** +8, **Will** +3
+
+**HP** 15
+-
+**Speed** 20 feet, burrow 20 feet
+
+**Melee** :a: jaws +8, **Damage** 1d6+2 piercing
+)
+
+/
+## Kodongo ((++Kodongo))
+A diminutive form of dodongo, kodongos are simple reptilian quadrupeds with a ravenous appetite. They are usually of either a red or green color, and bear some resemblance to unusually small rhinoceroses or triceratops. Kodongos dwell primarily in caves, ruins, and other dark locations, usually in small family-like packs. Kodongos spit blasts of magical flame at virtually anything that moves, with the apparent intent of roasting it alive and eating what remains—even if they aren't hungry. These beasts are believed to have been evolved to be impervious to heat just so their kind doesn't constantly roast and eat each other.
+
+right(
+# Flamespitters
+Unlike larger dodongos, a kodongo is only capable of spitting out a small mote of flame from its maw rather than sweeping fire.
+
+![Kodongo](https://i.imgur.com/ygCD3NL.png)
+)
+
+item(
+# Kodongo
+## Creature 1
+-
+;N,Small,Animal,Dinosaur,Dodongo
+**Perception** +7
+
+**Skills** Athletics +6
+
+**Str** +2, **Dex** +0, **Con** +3, **Int** -4, **Wis** +0, **Cha** -1
+-
+**AC** 15; **Fort** +7, **Ref** +4, **Will** +4
+
+**HP** 21; **Immunities** fire
+-
+**Speed** 25 feet
+
+**Melee** :a: gore +7, **Damage** 1d8+4 piercing
+
+**Ranged** :a: fire belch +6 (fire, primal, range increment 30 feet), **Damage** 1d6+2 fire
+
+**Aggressive Charge** :aa: The kodongo Strides up to twice its speed and makes a gore Strike.
+)
+=
+## Young Dodongo ((++Young Dodongo))
+A young dodongo is a baby dodongo that has grown but not yet reached reproductive maturity. Although it is the equivalent of a child and hasn't even fully developed mobile limbs, this monster's fangs and fire breath are more than capable of ripping and roasting the most formidable of creatures. Despite being relatively slow and clumsy for its size, this dodongo hunts endlessly to spur its growth into adulthood. Relatively few young dodongos thrive into the next stage of their life cycle, the king dodongo.
+
+right(
+# Hungry Prowlers
+Young dodongos often prowl the caverns where the dodongo brood lives, searching for any kind of prey to feast upon.
+
+![Young Dodongo](https://i.imgur.com/0LIvEL7.png)
+)
+
+item(
+# Young Dodongo
+## Creature 4
+-
+;N,Large,Animal,Dinosaur,Dodongo
+**Perception** +11; darkvision, tremorsense (imprecise) 10 feet
+
+**Skills** Athletics +12
+
+**Str** +4, **Dex** +1, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
+-
+**AC** 21; **Fort** +14, **Ref** +8, **Will** +7
+
+**HP** 74; **Resistances** fire 5; **Weaknesses** dodongos dislike smoke
+
+**Death Throes** When the dodongo dies, its body explodes in a 10-foot burst of a fiery, concussive blast that deals 2d6 fire damage and 2d6 sonic damage to each creature in the area (DC 20 basic Reflex save).
+
+**Dodongos Dislike Smoke** (vulnerability) If a dodongo starts its turn with a bomb or other explosive placed in front of it, it will spend a single Interact action to consume it.  The dodongo has weakness 5 to bombs it consumes this way.
+-
+**Speed** 20 feet
+
+**Melee** :a: jaws +14, **Damage** 2d6+5 piercing
+
+**Melee** :a: tail +14 (reach 10 feet), **Damage** 2d8+5 bludgeoning
+
+**Breath Weapon** :aa: (fire, primal) The dodongo breathes a blast of flame that deals 5d6 fire damage in a 15-foot cone (DC 20 basic Reflex save).  It can't use Breath Weapon again for 1d4 rounds.
+)
+=
+## Gecko Dodongo ((++Gecko Dodongo))
+Dodongos that are adapted to smaller caves and have feet that allow them to stick to the sides of walls and ceilings like a gecko would, hence the name gecko dodongo. Gecko dodongos are not nearly as large as their other brethren, but they are no less deadly. They share the same weakness to bombs that other dodongos do, though their hide is not nearly as tough.
+
+right(
+![Gecko Dodongo](https://i.imgur.com/bs2RZuh.png)
+)
+
+item(
+# Gecko Dodongo
+## Creature 6
+-
+;N,Medium,Animal,Dinosaur,Dodongo
+**Perception** +14; darkvision, tremorsense (imprecise) 10 feet
+
+**Skills** Acrobatics +11, Athletics +15
+
+**Str** +4, **Dex** +5, **Con** +3, **Int** -4, **Wis** +1, **Cha** +0
+-
+**AC** 23; **Fort** +15, **Ref** +16, **Will** +11
+
+**HP** 100; **Resistances** fire 5; **Weaknesses** dodongos dislike smoke
+
+**Dodongos Dislike Smoke** (vulnerability) If a dodongo starts its turn with a bomb or other explosive placed in front of it, it will spend a single Interact action to consume it.  The dodongo has weakness 5 to bombs it consumes this way.
+-
+**Speed** 25 feet, climb 25 feet
+
+**Melee** :a: jaws +16, **Damage** 2d8+9 piercing
+
+**Melee** :a: tail +16 (reach 10 feet), **Damage** 2d8+6 bludgeoning
+
+**Breath Weapon** :aa: (fire, primal) The dodongo breathes a blast of flame that deals 7d6 fire damage in a 15-foot cone (DC 24 basic Reflex save).  It can't use Breath Weapon again for 1d4 rounds.
+)
+=
+## King Dodongo ((++King Dodongo))
+A rare baby dodongo is able to live into adolescence to become a young dodongo, and a rare young is able to thrive into full adulthood as a king. Fitting to its name, a king dodongo is usually the apex predator in whatever caverns or ruins it seeks to dominate. Its lair is often filled with younger dodongos who both serve their parent: the king. These younglings are protected by the sheer presence of the king itself, as its roars and utter power are known to clear almost any other creatures that would bring harm its offspring.
+
+right(
+# Hail to the King
+Other dodongos rarely challenge the authority of the king dodongo, remaining subservient and in the young dodongo stage of their life.  In the rare event that two king dodongos develop in the same brood, the two kings will fight each other for control of the territory to the death or until one leaves to find a different area to raise a brood.
+
+![King Dodongo](https://i.imgur.com/qISkwkf.png)
+)
+
+item(
+# King Dodongo
+## Creature 9
+-
+;Uncommon,N,Large,Animal,Dinosaur,Dodongo
+**Perception** +15; darkvision
+
+**Skills** Athletics +20
+
+**Str** +7, **Dex** +3, **Con** +6, **Int** -4, **Wis** +1, **Cha** +2
+-
+**AC** 27; **Fort** +21, **Ref** +18, **Will** +15
+
+**HP** 194; **Immunities** fire; **Resistances** physical 10 (except adamantine); **Weaknesses** dodongos dislike smoke
+
+**Death Throes** When the dodongo dies, its body explodes in a 10-foot burst of a fiery, concussive blast that deals 5d6 fire damage and 5d6 sonic damage damage to each creature in the area (DC 28 basic Reflex save).
+
+**Dodongos Dislike Smoke** (vulnerability) If a dodongo starts its turn with a bomb or other explosive placed in front of it, it will spend a single Interact action to consume it.  The dodongo has weakness 10 to bombs it consumes this way.
+-
+**Speed** 40 feet, burrow 30 feet
+
+**Melee** :a: jaws +21 (reach 15 feet), **Damage** 2d10+13 piercing
+
+**Melee** :a: claw +21 (agile), **Damage** 2d8+11 slashing
+
+**Breath Weapon** :aa: (fire, primal) The dodongo breathes a blast of flame that deals 10d6 fire damage in a 45-foot cone (DC 28 basic Reflex save).  It can't use Breath Weapon again for 1d4 rounds.
+
+**Mighty Roar** :aa: (incapacitation, sonic) The dodongo unleashes a mighty roar.  Non-dodongo creatures within 30 feet take 6d6 sonic damage (DC 28 basic Fortitude save).  On a failed save, a creature is also slowed 2 for 1 round (stunned 2 on a critical failure).  The king dodongo can't use Mighty Roar again for 1d4 rounds.
+
+**Rolling Charge** :aa: The dodongo Strides twice, and can then make a Strike with its claws.  This claws Strike gains Knockdown.
+)
+=
+## Dongorongo ((++Dongorongo))
+
+A dodongo-like creature, the dongorongo resembles a large armored lizard with crystals growing out of its back. Like a dodongo, it is vulnerable to explosives going off inside its body. Some speculate that the dongorongo is an evolved form of the dodongo, others say it is a magically enhanced dodongo. Either way, a dongorongo is a force to deal with in their homes deep inside volcanic mountains.
+
+right(
+# Pure Metal
+Dongorongo are found near deposits of a special material known as Crimsonine, one of the Pure Metals used to forge the Phantom Sword.  The crystals in a dongorongo's back are speculated to be this material.
+
+![Young Dodongo](https://i.imgur.com/YrzXwV8.png)
+)
+
+item(
+# Dongorongo
+## Creature 7
+-
+;Rare,N,Large,Animal,Dinosaur,Dodongo
+**Perception** +15; low-light vision
+
+**Str** +6, **Dex** +2, **Con** +4, **Int** -4, **Wis** +2, **Cha** +0
+-
+**AC** 25; **Fort** +18, **Ref** +13, **Will** +11
+
+**HP** 140; **Weaknesses** vulnerable to bombs
+
+**Vulnerable to Bombs** (vulnerability) The dongorongo will consume a bomb placed within 10 feet of its mouth.  The dongorongo has weakness 10 to bombs it consumes this way.
+-
+**Speed** 25 feet
+
+**Melee** :a: headbutt +16, **Damage** 2d8+10 bludgeoning plus Knockdown
+
+**Melee** :a: claw +16 (agile), **Damage** 2d6+6 slashing
+
+**Fire Ball** :aa: (fire, primal) The dongorongo breathes a blast of fire that explodes in a 10-foot burst within 50 feet, dealing 8d6 fire damage (DC 24 basic Reflex save). It can't use Fire Ball again for 1d4 rounds.
+
+**Inhale** :aaa: (fire, primal) The dongorongo inhales air in a 30-foot cone in front of it, in preparation for a massive fire breath.  At the start of its next turn, it will breathe fire in a 30-foot cone, dealing 12d6 fire damage (DC 24 basic Reflex save).  If a bomb is placed in the cone while inhaling, the dongorongo will consume the bomb, triggering its vulnerability to bombs, landing prone, and become stunned 2 instead of breathing fire.
+
+**Trample** :aaa: Medium or smaller, headbutt, DC 24
+)
+
